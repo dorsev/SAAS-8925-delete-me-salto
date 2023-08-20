@@ -1,0 +1,37 @@
+type dummy.MedievalJadeKaree {
+  annotations {
+    serviceid GladGoldGlyn3 {
+    }
+    serviceid_number UltimateJadeKandy {
+    }
+    number TheoreticalIndigoJenifer5 {
+    }
+    hidden_boolean IllegalJadeKarole4 {
+    }
+    boolean FreshCopperDyanne2 {
+    }
+    boolean RedBrownDallas5 {
+    }
+  }
+  serviceid_number MagnificentMagentaLeela2 {
+    _hidden_value = true
+  }
+  boolean BurningRedNikolia2 {
+    _hidden_value = true
+  }
+  serviceid_number HistoricLavenderKelly {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula MetropolitanOrangeMargarita2 {
+    _hidden_value = true
+  }
+  serviceid_number FlatAmberAlli {
+    _hidden_value = true
+  }
+  GladGoldGlyn3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  UltimateJadeKandy = 478
+  TheoreticalIndigoJenifer5 = 813
+  FreshCopperDyanne2 = true
+  RedBrownDallas5 = true
+  _hidden_value = true
+}

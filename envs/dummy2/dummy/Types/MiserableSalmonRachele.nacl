@@ -1,0 +1,54 @@
+type dummy.MiserableSalmonRachele {
+  annotations {
+    serviceid_number UnacceptableSalmonPenelopa2 {
+    }
+    hidden_boolean PersonalBronzeCoralyn3 {
+    }
+    serviceid MeltedAquaAura {
+    }
+    boolean ExtremeHarlequinJacinthe3 {
+    }
+    number DominantIndigoJen2 {
+    }
+  }
+  number DyingScarletRobyn6 {
+    _hidden_value = true
+  }
+  hidden_boolean MildOliveMaddi2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ContentPeachMatilda3 {
+    _hidden_value = true
+  }
+  json WesternChocolateDehlia2 {
+    _hidden_value = true
+  }
+  boolean MagnificentWhiteVanny4 {
+    _hidden_value = true
+  }
+  serviceid_number BoringPeachMarni2 {
+    _hidden_value = true
+  }
+  serviceid_number HugeCoffeeDore3 {
+    _hidden_value = true
+  }
+  number BrightCoralElvira3 {
+    _hidden_value = true
+  }
+  json ProperCoralElisabet {
+    _hidden_value = true
+  }
+  number BadAquamarineBerni3 {
+    _hidden_value = true
+  }
+  json LightCopperDulcia {
+    _hidden_value = true
+  }
+  UnacceptableSalmonPenelopa2 = 125
+  MeltedAquaAura = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ExtremeHarlequinJacinthe3 = true
+  DominantIndigoJen2 = 424
+  _hidden_value = true
+}

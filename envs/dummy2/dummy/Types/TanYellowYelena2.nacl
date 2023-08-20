@@ -1,0 +1,27 @@
+type dummy.TanYellowYelena2 {
+  annotations {
+    string PrintedRedNichol {
+    }
+    string CleverTealSibeal4 {
+    }
+    number AppropriateChocolateDarcie2 {
+    }
+    hidden_boolean RoyalBrownCristin2 {
+    }
+    hidden_boolean AnnoyedAquamarineBenni4 {
+    }
+    serviceid ParliamentaryFuchsiaGerty5 {
+    }
+    serviceid_number SophisticatedJadeKarlene2 {
+    }
+  }
+  serviceid_number LatinLimeKoo {
+    _hidden_value = true
+  }
+  PrintedRedNichol = "How come the stadium got hot after the game? Because all of the fans left."
+  CleverTealSibeal4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AppropriateChocolateDarcie2 = 585
+  ParliamentaryFuchsiaGerty5 = "What creature is smarter than a talking parrot? A spelling bee."
+  SophisticatedJadeKarlene2 = 734
+  _hidden_value = true
+}

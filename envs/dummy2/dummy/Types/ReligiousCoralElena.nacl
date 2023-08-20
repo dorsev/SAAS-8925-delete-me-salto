@@ -1,0 +1,101 @@
+type dummy.ReligiousCoralElena {
+  annotations {
+    string IncredibleRosePaula {
+    }
+    number ContinuingGreenIrita2 {
+    }
+    json KeenGrayHanna {
+    }
+    serviceid DisastrousScarletRochelle {
+    }
+    json HelpfulBlackCaroljean3 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie ExcessSilverSara2 {
+    FriendlyBlackCarma = 711
+    FrightenedMagentaLavena = 767
+    RepulsiveBeigeBrena = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UptightBeigeBrittni = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ExactLimeKordula2 = 621
+    LocalBlueCharmian = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    SensibleIvoryJordana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MonetaryIvoryJoey = "To be Frank, I'd have to change my name."
+    WickedBeigeBryna = "What do you call two barracuda fish?  A Pairacuda!"
+    AshamedScarletRosamund = 637
+    ChillyAmaranthAilsun = 514
+    CooingAmethystAngelique = 675
+    FatalPurpleMyrtle = 561
+    ThoughtlessBeigeBrinna = "I'll tell you what often gets over looked... garden fences."
+    EvilAzureBili = 644
+    RelievedBlueCathie = true
+    CleverTealSibeal = "Why do birds fly south for the winter? Because it's too far to walk."
+    GrowingCrimsonEnrichetta = 390
+    _hidden_value = true
+  }
+  string GloriousBlackCarmencita {
+    _hidden_value = true
+  }
+  boolean CreepyAmberAlaine {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula SilkyAquaBamby {
+    _hidden_value = true
+  }
+  json DefensiveRoseOnida {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TallYellowXylina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ElectricalLavenderKerrin {
+    _hidden_value = true
+  }
+  number MammothAmaranthAdora2 {
+    _hidden_value = true
+  }
+  serviceid HorizontalSalmonPrissie {
+    _hidden_value = true
+  }
+  serviceid JewishLimeKissie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConvincingSalmonPeggy {
+    _hidden_value = true
+  }
+  hidden_boolean BackMoccasinLoni {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CreepyAmberAjay {
+    _hidden_value = true
+  }
+  serviceid_number PrettyIndigoJennine {
+    _hidden_value = true
+  }
+  serviceid_number BalancedSilverRoslyn2 {
+    _hidden_value = true
+  }
+  json LowAmberAlly {
+    _hidden_value = true
+  }
+  json SpontaneousTanShauna2 {
+    _hidden_value = true
+  }
+  number SufficientCrimsonEolanda {
+    _hidden_value = true
+  }
+  number ElegantTurquoiseTeddie {
+    _hidden_value = true
+  }
+  IncredibleRosePaula = "Why is Peter Pan always flying? Because he Neverlands."
+  ContinuingGreenIrita2 = 560
+  KeenGrayHanna = "Why did the tomato blush? Because it saw the salad dressing."
+  DisastrousScarletRochelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HelpfulBlackCaroljean3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

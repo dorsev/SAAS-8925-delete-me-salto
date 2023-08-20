@@ -1,0 +1,36 @@
+type dummy.CuteTomatoTansy3 {
+  annotations {
+    hidden_boolean HistoricLavenderKellie3 {
+    }
+    serviceid DevelopingHarlequinJeanie2 {
+    }
+    dummy.AnxiousHarlequinJanna SkinnyAmberAlta2 {
+    }
+    json SufficientCrimsonEnriqueta {
+    }
+    boolean CurvedAmberAlisun3 {
+    }
+  }
+  serviceid DarkChocolateDeanne4 {
+    _hidden_value = true
+  }
+  string RulingLimeKipp {
+    _hidden_value = true
+  }
+  hidden_boolean EerieAzureBianca3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid BrokenIndigoJocelyne2 {
+    _hidden_value = true
+  }
+  serviceid_number InformalLavenderKatheryn {
+    _hidden_value = true
+  }
+  DevelopingHarlequinJeanie2 = "Why did the tomato blush? Because it saw the salad dressing."
+  SkinnyAmberAlta2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SufficientCrimsonEnriqueta = "Why do birds fly south for the winter? Because it's too far to walk."
+  CurvedAmberAlisun3 = false
+  _hidden_value = true
+}

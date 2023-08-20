@@ -1,0 +1,55 @@
+type dummy.WoodenGreenHoratia6 {
+  annotations {
+    dummy.DEFAULT WeakAquamarineBelia2 {
+    }
+    hidden_boolean GentleBlackCarmelle2 {
+    }
+    string SpanishGreenIormina2 {
+    }
+    string LargeAmaranthAdelind3 {
+    }
+    serviceid AverageTomatoTabbatha3 {
+    }
+  }
+  number ControversialLimeKyla2 {
+    _hidden_value = true
+  }
+  json RainyAquaAurore2 {
+    _hidden_value = true
+  }
+  serviceid_number ExoticScarletRisa {
+    _hidden_value = true
+  }
+  serviceid_number PositiveCoffeeDominica2 {
+    _hidden_value = true
+  }
+  boolean InnerFuchsiaGenovera3 {
+    _hidden_value = true
+  }
+  hidden_boolean ScaredSalmonRafaelia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string CommercialCopperDorena2 {
+    _hidden_value = true
+  }
+  "List<boolean>" HostileOrangeMariejeanne3 {
+    _hidden_value = true
+  }
+  hidden_boolean SelectSalmonPhil {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean TestyYellowYolane {
+    _hidden_value = true
+  }
+  WeakAquamarineBelia2 = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  SpanishGreenIormina2 = "Why is Peter Pan always flying? Because he Neverlands."
+  LargeAmaranthAdelind3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  AverageTomatoTabbatha3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

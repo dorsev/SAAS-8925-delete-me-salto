@@ -1,0 +1,38 @@
+type dummy.UnsightlyTurquoiseTish4 {
+  annotations {
+    string DeliberateRedNoellyn3 {
+    }
+    serviceid_number BitterApricotArden2 {
+    }
+    dummy.OrdinaryCopperEdi UnderlyingLimeKoressa2 {
+    }
+    string MechanicalMagentaLeonora2 {
+    }
+    string BroadCoralElisabetta6 {
+    }
+  }
+  serviceid TenderYellowYnes {
+    _hidden_value = true
+  }
+  serviceid AutonomousScarletRonnie2 {
+    _hidden_value = true
+  }
+  number AloneCyanFaina3 {
+    _hidden_value = true
+  }
+  serviceid_number LoyalPurpleNat {
+    _hidden_value = true
+  }
+  boolean TiredBeigeBritney2 {
+    _hidden_value = true
+  }
+  json DeliciousApricotArdisj3 {
+    _hidden_value = true
+  }
+  DeliberateRedNoellyn3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BitterApricotArden2 = 705
+  UnderlyingLimeKoressa2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MechanicalMagentaLeonora2 = "Why did the kid cross the playground? To get to the other slide."
+  BroadCoralElisabetta6 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

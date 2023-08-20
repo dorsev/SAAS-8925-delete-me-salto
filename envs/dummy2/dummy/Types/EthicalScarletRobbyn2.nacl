@@ -1,0 +1,25 @@
+type dummy.EthicalScarletRobbyn2 {
+  annotations {
+    json MusicalIndigoJoannes2 {
+    }
+    hidden_boolean DesperateIvoryJunie2 {
+    }
+    string GoodBlueCelka3 {
+    }
+    string OptimisticSalmonPeg4 {
+    }
+    json RobustYellowWhitney {
+    }
+    number InsufficientPurpleNeila {
+    }
+  }
+  serviceid OutdoorSilverSarita2 {
+    _hidden_value = true
+  }
+  MusicalIndigoJoannes2 = "Why did the tomato blush? Because it saw the salad dressing."
+  GoodBlueCelka3 = "Slept like a log last night  woke up in the fireplace."
+  OptimisticSalmonPeg4 = "What do you call two barracuda fish?  A Pairacuda!"
+  RobustYellowWhitney = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  InsufficientPurpleNeila = 328
+  _hidden_value = true
+}

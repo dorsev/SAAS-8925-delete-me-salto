@@ -1,0 +1,61 @@
+type dummy.GothicSapphireRana {
+  annotations {
+    number HeadPinkMegan2 {
+    }
+    json CorporateEmeraldGarnet4 {
+    }
+    number AcceptableGrayHelsa {
+    }
+    hidden_boolean RuralCoralElora {
+    }
+    serviceid_number ManagerialPurpleNerita3 {
+    }
+  }
+  boolean CuriousTealSibylle {
+    _hidden_value = true
+  }
+  hidden_boolean NaturalBrownCristy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid>" FaithfulTanShayne2 {
+    _hidden_value = true
+  }
+  serviceid HistoricalCyanEvangelia {
+    _hidden_value = true
+  }
+  hidden_boolean FundamentalFuchsiaGenevieve {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT LeftCoffeeDenys {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DarkChocolateDeanne3 {
+    _hidden_value = true
+  }
+  serviceid ElectoralLimeKristina2 {
+    _hidden_value = true
+  }
+  hidden_boolean CrowdedTomatoTania2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ValuableGoldGwynne {
+    _hidden_value = true
+  }
+  string PrimitiveOrangeMarga2 {
+    _hidden_value = true
+  }
+  string OrdinaryWhiteVioletta {
+    _hidden_value = true
+  }
+  HeadPinkMegan2 = 271
+  CorporateEmeraldGarnet4 = "Why did the tomato blush? Because it saw the salad dressing."
+  AcceptableGrayHelsa = 215
+  ManagerialPurpleNerita3 = 755
+  _hidden_value = true
+}

@@ -1,0 +1,42 @@
+type dummy.StillIndigoJoann {
+  annotations {
+    json EverydayLimeKyrstin3 {
+    }
+    string ConservativeCoralEllette2 {
+    }
+    json ParliamentaryFuchsiaGertrude {
+    }
+    dummy.DEFAULT RaspyApricotAnnora2 {
+    }
+    json AdvisoryOrangeMaridel {
+    }
+    hidden_boolean HappyBlackCarolan2 {
+    }
+  }
+  number MeaningfulTanShelly2 {
+    _hidden_value = true
+  }
+  serviceid MarxistSapphireRaine2 {
+    _hidden_value = true
+  }
+  number ExoticScarletRina2 {
+    _hidden_value = true
+  }
+  number LesserMoccasinLucky2 {
+    _hidden_value = true
+  }
+  serviceid_number DramaticGoldHadria3 {
+    _hidden_value = true
+  }
+  serviceid_number ConvincingSalmonPeggy2 {
+    _hidden_value = true
+  }
+  EverydayLimeKyrstin3 = "What creature is smarter than a talking parrot? A spelling bee."
+  ConservativeCoralEllette2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ParliamentaryFuchsiaGertrude = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RaspyApricotAnnora2 = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  AdvisoryOrangeMaridel = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

@@ -1,0 +1,26 @@
+type dummy.VaryingPurpleNellie2 {
+  annotations {
+    dummy.DEFAULT ConventionalGoldGus2 {
+    }
+    json UnfairMaroonLilia3 {
+    }
+    hidden_boolean LongAmethystAme3 {
+    }
+    hidden_boolean EldestTanSharlene2 {
+    }
+    number ModestLavenderKelsi6 {
+    }
+    serviceid BlankPinkMelody {
+    }
+  }
+  boolean NiceWhiteVicki3 {
+    _hidden_value = true
+  }
+  ConventionalGoldGus2 = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  UnfairMaroonLilia3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ModestLavenderKelsi6 = 930
+  BlankPinkMelody = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

@@ -1,0 +1,73 @@
+type dummy.IdealEmeraldFrederique {
+  annotations {
+    serviceid_number DigitalMaroonLib {
+    }
+    boolean DisgustedAzureBettye {
+    }
+    serviceid StiffPeachMaryann2 {
+    }
+    number AwfulAquamarineBernardine {
+    }
+    hidden_boolean AestheticSapphireRebbecca {
+    }
+  }
+  json FranticAzureBirgit2 {
+    _hidden_value = true
+  }
+  serviceid CulturalCoralElie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChronicOliveMallissa2 {
+    _hidden_value = true
+  }
+  boolean PartialOliveLyndsey {
+    _hidden_value = true
+  }
+  serviceid_number OptimisticSalmonPeg {
+    _hidden_value = true
+  }
+  number ShaggyAquaAviva {
+    _hidden_value = true
+  }
+  json HelpfulBlackCaroline2 {
+    _hidden_value = true
+  }
+  serviceid LovelyBlackCass {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChiefCopperDorrie {
+    _hidden_value = true
+  }
+  string ProgressiveOliveMadeline {
+    _hidden_value = true
+  }
+  number LeftCoffeeDeny {
+    _hidden_value = true
+  }
+  json FatalPurpleMyrtle2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OrganisationalTanShantee {
+    _hidden_value = true
+  }
+  json ExtraCoffeeDiandra {
+    _hidden_value = true
+  }
+  serviceid_number CausalSapphireRene {
+    _hidden_value = true
+  }
+  number OddFuchsiaGenevra {
+    _hidden_value = true
+  }
+  json FewAmethystAndria {
+    _hidden_value = true
+  }
+  serviceid_number ProductivePlumMolli {
+    _hidden_value = true
+  }
+  DigitalMaroonLib = 981
+  DisgustedAzureBettye = false
+  StiffPeachMaryann2 = "Why is Peter Pan always flying? Because he Neverlands."
+  AwfulAquamarineBernardine = 395
+  _hidden_value = true
+}

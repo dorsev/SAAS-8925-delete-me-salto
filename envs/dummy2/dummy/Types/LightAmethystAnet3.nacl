@@ -1,0 +1,44 @@
+type dummy.LightAmethystAnet3 {
+  annotations {
+    number AustralianJadeKassia {
+    }
+    serviceid_number UnsightlyTurquoiseTish5 {
+    }
+    boolean CrookedAmberAlane {
+    }
+    hidden_boolean ImperialLavenderKatey3 {
+    }
+    hidden_boolean ForeignBronzeCorine {
+    }
+    dummy.SpectacularMaroonLibbie CautiousTealSib {
+    }
+    json TightIvoryJoelynn3 {
+    }
+  }
+  hidden_boolean LightTurquoiseThalia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid BoringPeachMarnia2 {
+    _hidden_value = true
+  }
+  string FirmGrayHedda {
+    _hidden_value = true
+  }
+  string OrangeWhiteViola2 {
+    _hidden_value = true
+  }
+  number ProtectiveRoseOlivette {
+    _hidden_value = true
+  }
+  serviceid_number FineBrownCourtenay2 {
+    _hidden_value = true
+  }
+  AustralianJadeKassia = 138
+  UnsightlyTurquoiseTish5 = 487
+  CrookedAmberAlane = true
+  CautiousTealSib = 24
+  TightIvoryJoelynn3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

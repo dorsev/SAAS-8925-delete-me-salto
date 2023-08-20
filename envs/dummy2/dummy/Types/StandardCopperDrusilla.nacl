@@ -1,0 +1,66 @@
+type dummy.StandardCopperDrusilla {
+  annotations {
+    json BigAmaranthAbbe {
+    }
+    string AdvisoryOrangeMarieann2 {
+    }
+    boolean LonelyAzureBobette3 {
+    }
+    boolean IndependentChocolateDelinda3 {
+    }
+    boolean EnviousAzureBibi {
+    }
+    boolean ArrogantAquamarineBerna {
+    }
+  }
+  boolean ClosedMagentaLeilah {
+    _hidden_value = true
+  }
+  hidden_boolean VerticalOliveLyssa2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LovelyCoralElli {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean JollyBlackCarri {
+    _hidden_value = true
+  }
+  json OrganisationalTanSharai2 {
+    _hidden_value = true
+  }
+  json PotentialCoralElbertine2 {
+    _hidden_value = true
+  }
+  string IntimateSilverRuthanne {
+    _hidden_value = true
+  }
+  serviceid_number HistoricLavenderKellsie2 {
+    _hidden_value = true
+  }
+  serviceid ConcernedBronzeCorny {
+    _hidden_value = true
+  }
+  json YoungAmethystAnastassia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ColossalAmaranthAbbye2 {
+    _hidden_value = true
+  }
+  serviceid BurningRedNikki2 {
+    _hidden_value = true
+  }
+  json ArtisticPeachMatelda {
+    _hidden_value = true
+  }
+  BigAmaranthAbbe = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AdvisoryOrangeMarieann2 = "Why is Peter Pan always flying? Because he Neverlands."
+  LonelyAzureBobette3 = false
+  IndependentChocolateDelinda3 = true
+  EnviousAzureBibi = true
+  ArrogantAquamarineBerna = true
+  _hidden_value = true
+}

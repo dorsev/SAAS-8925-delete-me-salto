@@ -1,0 +1,31 @@
+type dummy.CombativeAquamarineBerta {
+  annotations {
+    boolean AfraidAquamarineBelvia {
+    }
+    number PurpleScarletRivalee {
+    }
+    serviceid_number WittyBlueCele2 {
+    }
+    dummy.SpectacularMaroonLibbie SouthernCyanEvie2 {
+    }
+    json FutureCoffeeDolores {
+    }
+    number UnsightlyTurquoiseTisha {
+    }
+  }
+  serviceid FreshCopperDyanna {
+    _hidden_value = true
+  }
+  hidden_boolean UnchangedSilverRozina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  AfraidAquamarineBelvia = false
+  PurpleScarletRivalee = 95
+  WittyBlueCele2 = 985
+  SouthernCyanEvie2 = 236
+  FutureCoffeeDolores = "Whoever invented the knock-knock joke should get a no bell prize."
+  UnsightlyTurquoiseTisha = 918
+  _hidden_value = true
+}

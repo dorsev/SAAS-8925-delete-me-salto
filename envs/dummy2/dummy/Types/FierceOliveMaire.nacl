@@ -1,0 +1,60 @@
+type dummy.FierceOliveMaire {
+  annotations {
+    number DelightfulBeigeCandi {
+    }
+    serviceid_number LinguisticJadeKarilynn {
+    }
+    serviceid_number DrabTurquoiseTasha {
+    }
+    hidden_boolean EasyTealSisile {
+    }
+    boolean AgreedTanSelia3 {
+    }
+    hidden_boolean SpectacularMaroonLibbey {
+    }
+    dummy.OrdinaryCopperEdi HighBlueCharisse {
+    }
+    string NutritiousWhiteVilhelmina2 {
+    }
+  }
+  string FreeBronzeCody2 {
+    _hidden_value = true
+  }
+  string DelicateOliveMabelle {
+    _hidden_value = true
+  }
+  boolean CautiousScarletRoana {
+    _hidden_value = true
+  }
+  "List<string>" RigidPinkMerrily {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula BadVioletToma3 {
+    _hidden_value = true
+  }
+  number SheerMagentaLauretta {
+    _hidden_value = true
+  }
+  string DrivingRoseOralie {
+    _hidden_value = true
+  }
+  number AssistantOliveLynnet {
+    _hidden_value = true
+  }
+  string AggressiveMaroonLilian {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CleanTomatoTami3 {
+    _hidden_value = true
+  }
+  serviceid BareLavenderKelli2 {
+    _hidden_value = true
+  }
+  DelightfulBeigeCandi = 214
+  LinguisticJadeKarilynn = 384
+  DrabTurquoiseTasha = 762
+  AgreedTanSelia3 = false
+  HighBlueCharisse = "Why was it called the dark ages? Because of all the knights. "
+  NutritiousWhiteVilhelmina2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

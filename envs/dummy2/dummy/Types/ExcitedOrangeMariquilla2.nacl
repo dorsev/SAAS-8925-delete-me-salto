@@ -1,0 +1,20 @@
+type dummy.ExcitedOrangeMariquilla2 {
+  annotations {
+    json CrucialFuchsiaGennifer {
+    }
+    json YummyYellowZorina3 {
+    }
+    number FunctionalMaroonLexine {
+    }
+    serviceid AmusedBeigeCacilie {
+    }
+  }
+  serviceid_number WiseLavenderKatherina {
+    _hidden_value = true
+  }
+  CrucialFuchsiaGennifer = "What do you call two barracuda fish?  A Pairacuda!"
+  YummyYellowZorina3 = "Why was it called the dark ages? Because of all the knights. "
+  FunctionalMaroonLexine = 114
+  AmusedBeigeCacilie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

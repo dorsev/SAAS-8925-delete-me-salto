@@ -1,0 +1,87 @@
+type dummy.PriorRosePauli4 {
+  annotations {
+    string SlipperyAquamarineBarbaraanne2 {
+    }
+    dummy.DEFAULT DeadBrownDara2 {
+    }
+    hidden_boolean RoyalBrownCristie {
+    }
+    string FormalCoralElka4 {
+    }
+    boolean HeadPinkMeg3 {
+    }
+    number PresentBrownCristi {
+    }
+  }
+  hidden_boolean JudicialJadeKarita4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number PastCoffeeDianna3 {
+    _hidden_value = true
+  }
+  serviceid_number SpecialBlushClaudine2 {
+    _hidden_value = true
+  }
+  serviceid_number RecentBronzeCornelle2 {
+    _hidden_value = true
+  }
+  hidden_boolean HonChocolateDaune3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula ClearBlushCinnamon3 {
+    _hidden_value = true
+  }
+  serviceid ImportantTealSophi4 {
+    _hidden_value = true
+  }
+  number NervousAzureBrande2 {
+    _hidden_value = true
+  }
+  hidden_boolean ConventionalGoldGussie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PalestinianTanShanda2 {
+    _hidden_value = true
+  }
+  string AttractiveCyanFerne2 {
+    _hidden_value = true
+  }
+  string RealisticMoccasinLolita {
+    _hidden_value = true
+  }
+  serviceid_number UnknownFuchsiaGilbertina3 {
+    _hidden_value = true
+  }
+  boolean GloriousBlackCarmina {
+    _hidden_value = true
+  }
+  serviceid AutonomousScarletRora {
+    _hidden_value = true
+  }
+  serviceid PalestinianTanShandee {
+    _hidden_value = true
+  }
+  number ShinyTurquoiseTiertza2 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula YellowGoldGiustina2 {
+    _hidden_value = true
+  }
+  boolean MagicOrangeManon2 {
+    _hidden_value = true
+  }
+  SlipperyAquamarineBarbaraanne2 = "Dad Im hungry  Hi hungry Im dad"
+  DeadBrownDara2 = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  FormalCoralElka4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  HeadPinkMeg3 = true
+  PresentBrownCristi = 421
+  _hidden_value = true
+}

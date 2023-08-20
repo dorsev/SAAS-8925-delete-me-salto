@@ -1,0 +1,28 @@
+type dummy.AverageCoralElysha4 {
+  annotations {
+    serviceid HardBronzeCordi2 {
+    }
+    number FunnyVioletTwyla3 {
+    }
+    number UniqueFuchsiaGerry {
+    }
+    dummy.AnxiousHarlequinJanna DetailedCrimsonEmlynn {
+    }
+    hidden_boolean MoaningApricotAnnecorinne2 {
+    }
+    boolean KnownMaroonLetty2 {
+    }
+    number ProtectiveRoseOlive2 {
+    }
+  }
+  serviceid_number CorrectCrimsonErin {
+    _hidden_value = true
+  }
+  HardBronzeCordi2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  FunnyVioletTwyla3 = 959
+  UniqueFuchsiaGerry = 103
+  DetailedCrimsonEmlynn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  KnownMaroonLetty2 = false
+  ProtectiveRoseOlive2 = 907
+  _hidden_value = true
+}

@@ -1,0 +1,90 @@
+type dummy.ShaggyAquaAvivah {
+  annotations {
+    json LesserMoccasinLucky {
+    }
+    serviceid_number FoolishAzureBinni {
+    }
+    hidden_boolean UnpleasantRedNonna {
+    }
+    number LonelyOliveLydie {
+    }
+    serviceid NosyWhiteVicky {
+    }
+  }
+  dummy.OrdinaryCopperEdi AutonomousScarletRoobbie2 {
+    SillyYellowWini = 930
+    CruelAquamarineBessy = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    TameYellowYalonda = 410
+    RareWhiteWanda = 356
+    SpareMaroonLillis = "What do you do on a remote island? Try and find the TV island it belongs to."
+    StupidGreenIzabel = 236
+    MaximumGreenIlyssa = "Slept like a log last night  woke up in the fireplace."
+    TerritorialSalmonPriscella = "My first time using an elevator was an uplifting experience. The second time let me down."
+    VariedRedNoreen = 376
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 624
+    IntenseLavenderKatuscha = 458
+    SubtleMoccasinLucie = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  number SpicyAquaArlina {
+    _hidden_value = true
+  }
+  serviceid_number GeographicalPeachMarlena {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" SwissPlumMiguela {
+    _hidden_value = true
+  }
+  number LovelyCoralElly {
+    _hidden_value = true
+  }
+  serviceid_number RegularCopperDorthy {
+    _hidden_value = true
+  }
+  json SuddenGoldGusty {
+    _hidden_value = true
+  }
+  serviceid BroadCoralElisabetta {
+    _hidden_value = true
+  }
+  boolean MonetaryIvoryJoey2 {
+    _hidden_value = true
+  }
+  hidden_boolean WellFuchsiaGisele {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CentralBronzeConni {
+    _hidden_value = true
+  }
+  serviceid_number IndependentChocolateDelinda {
+    _hidden_value = true
+  }
+  boolean MightyWhiteVeriee {
+    _hidden_value = true
+  }
+  number ImperialLavenderKath {
+    _hidden_value = true
+  }
+  json SoleLimeKirstyn {
+    _hidden_value = true
+  }
+  json DifficultTealSimone {
+    _hidden_value = true
+  }
+  serviceid_number NorthernCoralElectra {
+    _hidden_value = true
+  }
+  serviceid_number PreparedCyanFelicdad {
+    _hidden_value = true
+  }
+  LesserMoccasinLucky = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FoolishAzureBinni = 568
+  LonelyOliveLydie = 896
+  NosyWhiteVicky = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

@@ -1,0 +1,46 @@
+type dummy.MobilePurpleMoselle {
+  annotations {
+    json UrbanCyanFallon2 {
+    }
+    dummy.DEFAULT FashionableSapphireRenata {
+    }
+    dummy.OrdinaryCopperEdi UnchangedSilverRozella {
+    }
+    serviceid VastYellowZea {
+    }
+    boolean ChemicalGreenIsahella2 {
+    }
+  }
+  json FrozenScarletRosa2 {
+    _hidden_value = true
+  }
+  json DistinctTurquoiseTatiana {
+    _hidden_value = true
+  }
+  string CrazyMoccasinLorrin {
+    _hidden_value = true
+  }
+  serviceid TemporaryGrayHalie {
+    _hidden_value = true
+  }
+  number DreadfulPinkMerrili2 {
+    _hidden_value = true
+  }
+  json CircularRoseOrsa {
+    _hidden_value = true
+  }
+  serviceid PotentialCoralElbertine {
+    _hidden_value = true
+  }
+  string ParallelMoccasinLudovika {
+    _hidden_value = true
+  }
+  UrbanCyanFallon2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  FashionableSapphireRenata = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  UnchangedSilverRozella = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  VastYellowZea = "Whoever invented the knock-knock joke should get a no bell prize."
+  ChemicalGreenIsahella2 = false
+  _hidden_value = true
+}

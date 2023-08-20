@@ -1,0 +1,22 @@
+type dummy.LightTurquoiseThea3 {
+  annotations {
+    number BroadCoralElisabeth {
+    }
+    hidden_boolean JitteryVioletValery {
+    }
+    json EmotionalGrayHertha {
+    }
+    dummy.ExactLimeKordula BewilderedAquamarineBernie2 {
+    }
+    number RapidAmethystAna {
+    }
+  }
+  serviceid_number FastEmeraldFleur2 {
+    _hidden_value = true
+  }
+  BroadCoralElisabeth = 342
+  EmotionalGrayHertha = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BewilderedAquamarineBernie2 = 95
+  RapidAmethystAna = 457
+  _hidden_value = true
+}

@@ -1,0 +1,44 @@
+type dummy.PoisedTurquoiseThomasin2 {
+  annotations {
+    boolean GradualSilverSallee2 {
+    }
+    json LargeBlueCharlotte {
+    }
+    boolean NaturalBrownCristionna {
+    }
+    json PromisingRedNoni {
+    }
+    hidden_boolean FrightenedAzureBirgitta {
+    }
+    string LiquidRoseOttilie {
+    }
+  }
+  boolean MedicalCoffeeDevora2 {
+    _hidden_value = true
+  }
+  boolean IntegralSalmonPhillis {
+    _hidden_value = true
+  }
+  boolean GrowingCrimsonEnrika {
+    _hidden_value = true
+  }
+  hidden_boolean TinyAmaranthAgnesse2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CrucialFuchsiaGenny3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number CompatibleSapphireRenie {
+    _hidden_value = true
+  }
+  GradualSilverSallee2 = false
+  LargeBlueCharlotte = "What do you call two barracuda fish?  A Pairacuda!"
+  NaturalBrownCristionna = false
+  PromisingRedNoni = "Why didnt the skeleton cross the road? Because he had no guts."
+  LiquidRoseOttilie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

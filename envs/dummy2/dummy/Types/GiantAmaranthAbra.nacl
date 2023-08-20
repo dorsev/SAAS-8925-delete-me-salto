@@ -1,0 +1,73 @@
+type dummy.GiantAmaranthAbra {
+  annotations {
+    hidden_boolean PerfectCrimsonEtti2 {
+    }
+    serviceid_number UnexpectedMagentaLaureen4 {
+    }
+    string MarxistSapphireRaine4 {
+    }
+    json IntermediateRoseOfilia3 {
+    }
+    number ContinuingGreenIsa3 {
+    }
+  }
+  hidden_boolean LeftCoffeeDennie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SparklingTurquoiseTiffie {
+    _hidden_value = true
+  }
+  serviceid HostileOrangeMariejeanne5 {
+    _hidden_value = true
+  }
+  json HissingApricotAnn3 {
+    _hidden_value = true
+  }
+  number ConsistentHarlequinJanis3 {
+    _hidden_value = true
+  }
+  json ScaryBeigeBria3 {
+    _hidden_value = true
+  }
+  hidden_boolean FlatGrayHanni {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ObjectiveOrangeManda2 {
+    _hidden_value = true
+  }
+  serviceid_number ParliamentaryFuchsiaGertrudis3 {
+    _hidden_value = true
+  }
+  serviceid AshamedAquamarineBernardina {
+    _hidden_value = true
+  }
+  json ExcitedOrangeMarina {
+    _hidden_value = true
+  }
+  number SquareJadeKai5 {
+    _hidden_value = true
+  }
+  json OccasionalIvoryJulina4 {
+    _hidden_value = true
+  }
+  hidden_boolean HushedApricotAnnadiane {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula MightyTanShandeigh2 {
+    _hidden_value = true
+  }
+  serviceid_number WidespreadHarlequinJacquette2 {
+    _hidden_value = true
+  }
+  UnexpectedMagentaLaureen4 = 829
+  MarxistSapphireRaine4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  IntermediateRoseOfilia3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ContinuingGreenIsa3 = 482
+  _hidden_value = true
+}

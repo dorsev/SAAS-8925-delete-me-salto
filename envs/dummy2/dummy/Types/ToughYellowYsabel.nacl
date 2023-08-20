@@ -1,0 +1,45 @@
+type dummy.ToughYellowYsabel {
+  annotations {
+    hidden_boolean HissingApricotAnn {
+    }
+    boolean ComfortableGoldGrissel {
+    }
+    string SourApricotArlena {
+    }
+    json PolishPinkMeredithe {
+    }
+    hidden_boolean MinimalPlumMorgen {
+    }
+  }
+  number FragileTealSondra3 {
+    _hidden_value = true
+  }
+  "List<boolean>" RubberSilverSarena {
+    _hidden_value = true
+  }
+  json WorthyRedOdilia {
+    _hidden_value = true
+  }
+  serviceid CapableEmeraldFlorina {
+    _hidden_value = true
+  }
+  json MoaningApricotAnne2 {
+    _hidden_value = true
+  }
+  string TopChocolateDarcy2 {
+    _hidden_value = true
+  }
+  serviceid_number OrthodoxSapphireRebe2 {
+    _hidden_value = true
+  }
+  serviceid_number InformalLavenderKathie {
+    _hidden_value = true
+  }
+  number ImaginativeTanSelinda2 {
+    _hidden_value = true
+  }
+  ComfortableGoldGrissel = false
+  SourApricotArlena = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PolishPinkMeredithe = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

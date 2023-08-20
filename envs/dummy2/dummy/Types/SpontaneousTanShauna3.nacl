@@ -1,0 +1,29 @@
+type dummy.SpontaneousTanShauna3 {
+  annotations {
+    serviceid ProudHarlequinJana2 {
+    }
+    serviceid AngryFuchsiaGill {
+    }
+    number NaturalBrownCristionna2 {
+    }
+    string CombativeAquamarineBert2 {
+    }
+  }
+  boolean CrazyTealSibylle {
+    _hidden_value = true
+  }
+  serviceid LikePeachMarlo {
+    _hidden_value = true
+  }
+  number DynamicPeachMarney {
+    _hidden_value = true
+  }
+  json FitHarlequinJaclin {
+    _hidden_value = true
+  }
+  ProudHarlequinJana2 = "To be Frank, I'd have to change my name."
+  AngryFuchsiaGill = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  NaturalBrownCristionna2 = 474
+  CombativeAquamarineBert2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

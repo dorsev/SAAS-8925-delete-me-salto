@@ -1,0 +1,63 @@
+type dummy.CooingAmethystAngelita {
+  annotations {
+    serviceid WesternChocolateDeerdre4 {
+    }
+    number OkayOliveMaggie4 {
+    }
+    hidden_boolean ExuberantBlackCaritta {
+    }
+    json ClosedMagentaLeila3 {
+    }
+    dummy.DEFAULT LegislativeMaroonLinell5 {
+    }
+  }
+  serviceid_number SteepMoccasinLulita {
+    _hidden_value = true
+  }
+  json DarkTurquoiseTarrah3 {
+    _hidden_value = true
+  }
+  serviceid_number OrganisationalTanShantee4 {
+    _hidden_value = true
+  }
+  string BlackBlushClarita2 {
+    _hidden_value = true
+  }
+  boolean BetterVioletTomasina3 {
+    _hidden_value = true
+  }
+  string ConcernedBronzeCorny3 {
+    _hidden_value = true
+  }
+  serviceid_number AnnualCoffeeDonni2 {
+    _hidden_value = true
+  }
+  string DevelopingHarlequinJeanne {
+    _hidden_value = true
+  }
+  "List<dummy.ExactLimeKordula>" RoyalBrownCristine {
+    _hidden_value = true
+  }
+  json DelightedIvoryJulie4 {
+    _hidden_value = true
+  }
+  boolean ClassicalHarlequinJackquelin {
+    _hidden_value = true
+  }
+  serviceid_number ExistingCoffeeDesirae3 {
+    _hidden_value = true
+  }
+  json AssociatedMaroonLindsey3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HonChocolateDatha {
+    _hidden_value = true
+  }
+  WesternChocolateDeerdre4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  OkayOliveMaggie4 = 893
+  ClosedMagentaLeila3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  LegislativeMaroonLinell5 = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  _hidden_value = true
+}

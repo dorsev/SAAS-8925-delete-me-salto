@@ -1,0 +1,135 @@
+type dummy.OverwhelmingPurpleMyrlene2 {
+  annotations {
+    boolean TropicalOliveLyda {
+    }
+    json KindOrangeMaribeth {
+    }
+    dummy.DEFAULT ClosedMagentaLela2 {
+    }
+    hidden_boolean UglyPlumMicky {
+    }
+    serviceid DoubtfulRosePaola {
+    }
+    string LexicalSilverSada {
+    }
+    string GeneralBlushChristean {
+    }
+  }
+  dummy.SpectacularMaroonLibbie BreakableTealShina {
+    FriendlyBlackCarma = 220
+    FrightenedMagentaLavena = 621
+    RepulsiveBeigeBrena = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    UptightBeigeBrittni = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    ExactLimeKordula2 = 208
+    LocalBlueCharmian = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    SensibleIvoryJordana = "A steak pun is a rare medium well done."
+    MonetaryIvoryJoey = "Why didnt the skeleton cross the road? Because he had no guts."
+    WickedBeigeBryna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AshamedScarletRosamund = 375
+    ChillyAmaranthAilsun = 624
+    CooingAmethystAngelique = 962
+    FatalPurpleMyrtle = 954
+    ThoughtlessBeigeBrinna = "Slept like a log last night  woke up in the fireplace."
+    EvilAzureBili = 971
+    RelievedBlueCathie = true
+    CleverTealSibeal = "A steak pun is a rare medium well done."
+    GrowingCrimsonEnrichetta = 187
+    _hidden_value = true
+  }
+  serviceid_number PatientPurpleNani2 {
+    _hidden_value = true
+  }
+  hidden_boolean ThoughtfulBlueCatriona {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean NetGoldGleda2 {
+    _hidden_value = true
+  }
+  string IrrelevantPurpleNanete2 {
+    _hidden_value = true
+  }
+  hidden_boolean ConsciousHarlequinJeanette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number SevereEmeraldGae {
+    _hidden_value = true
+  }
+  serviceid BrilliantGreenIlse2 {
+    _hidden_value = true
+  }
+  string UselessRedNina {
+    _hidden_value = true
+  }
+  number JudicialJadeKarita3 {
+    _hidden_value = true
+  }
+  string MistyTurquoiseTheadora {
+    _hidden_value = true
+  }
+  hidden_boolean UsualCoralEllynn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number OptimisticRosePearline {
+    _hidden_value = true
+  }
+  json ManagerialPurpleNerita2 {
+    _hidden_value = true
+  }
+  json PreciousOrangeMariele3 {
+    _hidden_value = true
+  }
+  serviceid_number DoubtfulRosePansy {
+    _hidden_value = true
+  }
+  boolean ElegantMoccasinLucila2 {
+    _hidden_value = true
+  }
+  json CharmingBeigeCalli3 {
+    _hidden_value = true
+  }
+  boolean FoolishSapphireRemy {
+    _hidden_value = true
+  }
+  string OverallCrimsonEmmalynn {
+    _hidden_value = true
+  }
+  number TopChocolateDarcy {
+    _hidden_value = true
+  }
+  number WearyBeigeBrunhilde {
+    _hidden_value = true
+  }
+  boolean GreatVioletTyne {
+    _hidden_value = true
+  }
+  json YellowYellowZondra {
+    _hidden_value = true
+  }
+  hidden_boolean RollingSilverRubie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean BrokenAmaranthAileen {
+    _hidden_value = true
+  }
+  TropicalOliveLyda = false
+  KindOrangeMaribeth = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ClosedMagentaLela2 = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  DoubtfulRosePaola = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LexicalSilverSada = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GeneralBlushChristean = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

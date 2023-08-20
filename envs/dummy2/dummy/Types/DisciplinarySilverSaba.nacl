@@ -1,0 +1,117 @@
+type dummy.DisciplinarySilverSaba {
+  annotations {
+    number ElegantTurquoiseTeddi {
+    }
+    dummy.OrdinaryCopperEdi VariedRedNoreen2 {
+    }
+    dummy.AnxiousHarlequinJanna PrettyWhiteVirgina {
+    }
+    string ParticularBlushClaude {
+    }
+    json ImpossibleTealSorcha {
+    }
+  }
+  dummy.OrdinaryCopperEdi NativeJadeKatalin {
+    SillyYellowWini = 242
+    CruelAquamarineBessy = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    TameYellowYalonda = 599
+    RareWhiteWanda = 525
+    SpareMaroonLillis = "How come the stadium got hot after the game? Because all of the fans left."
+    StupidGreenIzabel = 732
+    MaximumGreenIlyssa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    TerritorialSalmonPriscella = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    VariedRedNoreen = 493
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 636
+    IntenseLavenderKatuscha = 488
+    SubtleMoccasinLucie = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  serviceid_number AboveIvoryJoyann {
+    _hidden_value = true
+  }
+  json BoilingAmaranthAgneta {
+    _hidden_value = true
+  }
+  json AfraidCrimsonEmmye {
+    _hidden_value = true
+  }
+  "List<number>" ChubbyAmberAlis {
+    _hidden_value = true
+  }
+  serviceid_number RunningPlumMirabel {
+    _hidden_value = true
+  }
+  "List<serviceid>" HurtAzureBlondie2 {
+    _hidden_value = true
+  }
+  string GreekIndigoJoana {
+    _hidden_value = true
+  }
+  serviceid_number NiceWhiteVickie2 {
+    _hidden_value = true
+  }
+  serviceid PayableOrangeMarci {
+    _hidden_value = true
+  }
+  serviceid_number SmartPeachMarja {
+    _hidden_value = true
+  }
+  number EnglishBrownCrin {
+    _hidden_value = true
+  }
+  string AwkwardPeachMaryjane {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFrank {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ShallowAmberAlmire {
+    _hidden_value = true
+  }
+  serviceid SoundAmethystAngelika {
+    _hidden_value = true
+  }
+  serviceid HonChocolateDaune {
+    _hidden_value = true
+  }
+  string DeterminedOrangeMarilyn {
+    _hidden_value = true
+  }
+  serviceid FunctionalMaroonLexis {
+    _hidden_value = true
+  }
+  serviceid_number DomesticCopperEba2 {
+    _hidden_value = true
+  }
+  json UncomfortablePlumModestia {
+    _hidden_value = true
+  }
+  serviceid EmbarrassingSilverSaudra {
+    _hidden_value = true
+  }
+  string CrowdedTomatoTani {
+    _hidden_value = true
+  }
+  hidden_boolean IncreasingCyanEvvie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PastCoffeeDianna {
+    _hidden_value = true
+  }
+  serviceid_number GrubbyAquaAudi2 {
+    _hidden_value = true
+  }
+  ElegantTurquoiseTeddi = 381
+  VariedRedNoreen2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  PrettyWhiteVirgina = "What creature is smarter than a talking parrot? A spelling bee."
+  ParticularBlushClaude = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ImpossibleTealSorcha = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

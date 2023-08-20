@@ -1,0 +1,23 @@
+type dummy.ProgressiveOliveMadella {
+  annotations {
+    string UnemployedIvoryJolie2 {
+    }
+    serviceid RoundYellowWilie {
+    }
+    dummy.AnxiousHarlequinJanna CivicTanShellie {
+    }
+    serviceid_number EmptyAmethystAndra2 {
+    }
+    boolean SwiftAmethystAnallese {
+    }
+  }
+  boolean UnexpectedMagentaLauree {
+    _hidden_value = true
+  }
+  UnemployedIvoryJolie2 = "I'll tell you what often gets over looked... garden fences."
+  RoundYellowWilie = "To be Frank, I'd have to change my name."
+  CivicTanShellie = "To be Frank, I'd have to change my name."
+  EmptyAmethystAndra2 = 511
+  SwiftAmethystAnallese = false
+  _hidden_value = true
+}

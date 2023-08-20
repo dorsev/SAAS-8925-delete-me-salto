@@ -1,0 +1,121 @@
+type dummy.AttractiveCyanFerne {
+  annotations {
+    serviceid_number AverageCrimsonElysia {
+    }
+    json BroadAmberAlika {
+    }
+    string SatisfiedHarlequinJeana2 {
+    }
+    serviceid_number StraightforwardMaroonLexy {
+    }
+    serviceid SocialistHarlequinJacquenette {
+    }
+    serviceid KindOrangeMaribelle {
+    }
+    serviceid PeacefulOrangeMargot2 {
+    }
+  }
+  dummy.AnxiousHarlequinJanna AdequateGrayHilde {
+    ColonialPeachMaure = "What do you call two barracuda fish?  A Pairacuda!"
+    GloriousBlackCarmine = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  hidden_boolean FormidableSilverSacha {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string DifferentBlueCharline2 {
+    _hidden_value = true
+  }
+  string AlternativeEmeraldFionnula {
+    _hidden_value = true
+  }
+  boolean TotalBrownDaniella {
+    _hidden_value = true
+  }
+  number SickFuchsiaGerda2 {
+    _hidden_value = true
+  }
+  serviceid_number LivelyBlackCasi {
+    _hidden_value = true
+  }
+  number UglyTurquoiseTiphanie2 {
+    _hidden_value = true
+  }
+  boolean SplendidBlueCati {
+    _hidden_value = true
+  }
+  serviceid_number IntactRosePatrizia2 {
+    _hidden_value = true
+  }
+  serviceid UnpleasantRedNora {
+    _hidden_value = true
+  }
+  serviceid_number UptightBeigeBrittne {
+    _hidden_value = true
+  }
+  hidden_boolean VisitingScarletRoanne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<boolean>" AbleBlushChrista {
+    _hidden_value = true
+  }
+  json MedievalJadeKarel {
+    _hidden_value = true
+  }
+  boolean StatisticalMagentaLanie {
+    _hidden_value = true
+  }
+  boolean WastefulYellowZia2 {
+    _hidden_value = true
+  }
+  boolean CleverJadeKaria {
+    _hidden_value = true
+  }
+  string CostlySapphireReggi2 {
+    _hidden_value = true
+  }
+  number LuckyBlackCassi {
+    _hidden_value = true
+  }
+  json NetGoldGleda3 {
+    _hidden_value = true
+  }
+  boolean ProposedGoldGwendolyn2 {
+    _hidden_value = true
+  }
+  string SpanishGreenIra {
+    _hidden_value = true
+  }
+  string InternalCoralEffie {
+    _hidden_value = true
+  }
+  serviceid_number SocialBlueCharmion {
+    _hidden_value = true
+  }
+  boolean WickedBeigeBryana2 {
+    _hidden_value = true
+  }
+  number LinearRedNesta2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" CorporateEmeraldGarnet3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number VisibleIndigoJillana {
+    _hidden_value = true
+  }
+  AverageCrimsonElysia = 351
+  BroadAmberAlika = "Whoever invented the knock-knock joke should get a no bell prize."
+  SatisfiedHarlequinJeana2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  StraightforwardMaroonLexy = 311
+  SocialistHarlequinJacquenette = "Why do birds fly south for the winter? Because it's too far to walk."
+  KindOrangeMaribelle = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PeacefulOrangeMargot2 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

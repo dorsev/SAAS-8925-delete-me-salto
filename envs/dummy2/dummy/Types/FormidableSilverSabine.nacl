@@ -1,0 +1,90 @@
+type dummy.FormidableSilverSabine {
+  annotations {
+    hidden_boolean ImportantTealSophey {
+    }
+    boolean UpsetOliveMabel {
+    }
+    json LegitimatePinkMaxy {
+    }
+    serviceid BizarreTanSean {
+    }
+  }
+  dummy.SpectacularMaroonLibbie FlutteringAquaAthene {
+    FriendlyBlackCarma = 886
+    FrightenedMagentaLavena = 973
+    RepulsiveBeigeBrena = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UptightBeigeBrittni = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    ExactLimeKordula2 = 60
+    LocalBlueCharmian = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    SensibleIvoryJordana = "To be Frank, I'd have to change my name."
+    MonetaryIvoryJoey = "To be Frank, I'd have to change my name."
+    WickedBeigeBryna = "What creature is smarter than a talking parrot? A spelling bee."
+    AshamedScarletRosamund = 452
+    ChillyAmaranthAilsun = 925
+    CooingAmethystAngelique = 450
+    FatalPurpleMyrtle = 337
+    ThoughtlessBeigeBrinna = "What creature is smarter than a talking parrot? A spelling bee."
+    EvilAzureBili = 947
+    RelievedBlueCathie = true
+    CleverTealSibeal = "Why did the kid cross the playground? To get to the other slide."
+    GrowingCrimsonEnrichetta = 781
+    _hidden_value = true
+  }
+  serviceid_number SympatheticPinkMeade2 {
+    _hidden_value = true
+  }
+  boolean AwareChocolateDasha {
+    _hidden_value = true
+  }
+  number BrownFuchsiaGaylene {
+    _hidden_value = true
+  }
+  number CleverTealSibeal2 {
+    _hidden_value = true
+  }
+  boolean QuietWhiteVivien2 {
+    _hidden_value = true
+  }
+  boolean GracefulTurquoiseTerri2 {
+    _hidden_value = true
+  }
+  serviceid NetGoldGleda {
+    _hidden_value = true
+  }
+  boolean AdorableTomatoSydel {
+    _hidden_value = true
+  }
+  hidden_boolean CreepyAquamarineBeryl {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json FatIvoryJoella {
+    _hidden_value = true
+  }
+  boolean GoverningTanSelma {
+    _hidden_value = true
+  }
+  json AdditionalCopperDottie2 {
+    _hidden_value = true
+  }
+  hidden_boolean StormyTurquoiseTimmi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AgreedTanSelia2 {
+    _hidden_value = true
+  }
+  boolean EventualTanSharron2 {
+    _hidden_value = true
+  }
+  UpsetOliveMabel = false
+  LegitimatePinkMaxy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BizarreTanSean = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

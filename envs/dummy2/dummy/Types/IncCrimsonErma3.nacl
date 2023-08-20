@@ -1,0 +1,99 @@
+type dummy.IncCrimsonErma3 {
+  annotations {
+    hidden_boolean BusyCyanFayre5 {
+    }
+    json CarefulTealShirline3 {
+    }
+    boolean TemporaryGrayHalimeda3 {
+    }
+    serviceid_number AdditionalCopperDottie6 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie LoudApricotAnnabelle {
+    FriendlyBlackCarma = 59
+    FrightenedMagentaLavena = 514
+    RepulsiveBeigeBrena = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UptightBeigeBrittni = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    ExactLimeKordula2 = 536
+    LocalBlueCharmian = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    SensibleIvoryJordana = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MonetaryIvoryJoey = "My first time using an elevator was an uplifting experience. The second time let me down."
+    WickedBeigeBryna = "Im only familiar with 25 letters in the English language. I dont know why."
+    AshamedScarletRosamund = 260
+    ChillyAmaranthAilsun = 631
+    CooingAmethystAngelique = 333
+    FatalPurpleMyrtle = 739
+    ThoughtlessBeigeBrinna = "What do you do on a remote island? Try and find the TV island it belongs to."
+    EvilAzureBili = 641
+    RelievedBlueCathie = true
+    CleverTealSibeal = "What creature is smarter than a talking parrot? A spelling bee."
+    GrowingCrimsonEnrichetta = 189
+    _hidden_value = true
+  }
+  serviceid CrudePlumMildred5 {
+    _hidden_value = true
+  }
+  serviceid ClassicJadeKaitlyn3 {
+    _hidden_value = true
+  }
+  number NovelScarletRosette {
+    _hidden_value = true
+  }
+  boolean PreparedCyanFelicdad3 {
+    _hidden_value = true
+  }
+  hidden_boolean ExtraordinaryIndigoJessika5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json BritishBlushCherilyn3 {
+    _hidden_value = true
+  }
+  number SuccessiveMoccasinLoise {
+    _hidden_value = true
+  }
+  json ArrogantAquamarineBerget {
+    _hidden_value = true
+  }
+  hidden_boolean DrabTurquoiseTaryn2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ItchyVioletValentina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number EvilPeachMaurise2 {
+    _hidden_value = true
+  }
+  hidden_boolean IndianGrayHarmonia2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid>" LateAmethystAmata4 {
+    _hidden_value = true
+  }
+  serviceid_number RottenApricotArielle3 {
+    _hidden_value = true
+  }
+  json TameTomatoSusannah3 {
+    _hidden_value = true
+  }
+  hidden_boolean GlamorousTurquoiseTeresita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  CarefulTealShirline3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  TemporaryGrayHalimeda3 = true
+  AdditionalCopperDottie6 = 845
+  _hidden_value = true
+}

@@ -1,0 +1,89 @@
+type dummy.EducationalCrimsonErnestine {
+  annotations {
+    serviceid SplendidBlueCatina2 {
+    }
+    json LongVioletVan {
+    }
+    dummy.DEFAULT EndlessPeachMarji {
+    }
+    number ZealousBlueCelestina {
+    }
+    hidden_boolean SlowCyanEugenie4 {
+    }
+    boolean PersistentRosePam3 {
+    }
+  }
+  serviceid ProfessionalChocolateDayna3 {
+    _hidden_value = true
+  }
+  hidden_boolean FlutteringAquaAstrix {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FilthyTurquoiseTera2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number WesternChocolateDeeyn {
+    _hidden_value = true
+  }
+  serviceid WetAmberAlicia2 {
+    _hidden_value = true
+  }
+  hidden_boolean PowerfulTomatoStephanie3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json SatisfiedHarlequinJean {
+    _hidden_value = true
+  }
+  string WrittenGreenIvonne2 {
+    _hidden_value = true
+  }
+  json TheoreticalIndigoJenifer2 {
+    _hidden_value = true
+  }
+  hidden_boolean BusyCyanFayth {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number CloudyTomatoTana {
+    _hidden_value = true
+  }
+  serviceid OfficialCopperDoro {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SelectiveRedNorri2 {
+    _hidden_value = true
+  }
+  string MedicalCoffeeDevondra {
+    _hidden_value = true
+  }
+  json ShortAmaranthAg {
+    _hidden_value = true
+  }
+  boolean FrightenedAzureBlair2 {
+    _hidden_value = true
+  }
+  serviceid BriefEmeraldFlorri {
+    _hidden_value = true
+  }
+  serviceid StickyAquamarineBeatriz3 {
+    _hidden_value = true
+  }
+  string AtomicScarletRorie3 {
+    _hidden_value = true
+  }
+  SplendidBlueCatina2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  LongVioletVan = "Why is Peter Pan always flying? Because he Neverlands."
+  EndlessPeachMarji = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  ZealousBlueCelestina = 264
+  PersistentRosePam3 = true
+  _hidden_value = true
+}

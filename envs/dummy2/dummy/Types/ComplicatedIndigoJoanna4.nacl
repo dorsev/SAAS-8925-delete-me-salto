@@ -1,0 +1,27 @@
+type dummy.ComplicatedIndigoJoanna4 {
+  annotations {
+    hidden_boolean ExperimentalLavenderKatine3 {
+    }
+    json SouthernCyanEvey {
+    }
+    json WorriedBeigeBrynn {
+    }
+    hidden_boolean EthnicLavenderKaye4 {
+    }
+    json NoisyApricotAnnemarie3 {
+    }
+    serviceid WesternChocolateDeerdre5 {
+    }
+    dummy.ExactLimeKordula LoudApricotAnnadiane4 {
+    }
+  }
+  serviceid_number DifficultBronzeClemence3 {
+    _hidden_value = true
+  }
+  SouthernCyanEvey = "Im only familiar with 25 letters in the English language. I dont know why."
+  WorriedBeigeBrynn = "Im only familiar with 25 letters in the English language. I dont know why."
+  NoisyApricotAnnemarie3 = "What creature is smarter than a talking parrot? A spelling bee."
+  WesternChocolateDeerdre5 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LoudApricotAnnadiane4 = 864
+  _hidden_value = true
+}

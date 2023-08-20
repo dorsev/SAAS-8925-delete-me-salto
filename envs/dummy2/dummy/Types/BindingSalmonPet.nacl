@@ -1,0 +1,110 @@
+type dummy.BindingSalmonPet {
+  annotations {
+    serviceid ExactLimeKorella {
+    }
+    hidden_boolean AnnoyedAquamarineBenni {
+    }
+    number PoisedTurquoiseThomasa {
+    }
+    json LoudApricotAnnadiane {
+    }
+    serviceid_number AfraidCrimsonEmmy2 {
+    }
+    hidden_boolean AboveIvoryJoyce {
+    }
+    serviceid HugeCoffeeDore {
+    }
+  }
+  dummy.AnxiousHarlequinJanna VoicelessApricotArabelle {
+    ColonialPeachMaure = "Why did the kid cross the playground? To get to the other slide."
+    GloriousBlackCarmine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  boolean AmbitiousPeachMaure {
+    _hidden_value = true
+  }
+  boolean AssociatedMaroonLindsey {
+    _hidden_value = true
+  }
+  json LongVioletVanessa {
+    _hidden_value = true
+  }
+  hidden_boolean SickFuchsiaGerhardine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean StatutoryGrayHarriott {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CompulsoryOrangeMalorie {
+    _hidden_value = true
+  }
+  hidden_boolean DeadBrownDaphne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number IntactRosePatrizia {
+    _hidden_value = true
+  }
+  serviceid UnknownFuchsiaGilbertina {
+    _hidden_value = true
+  }
+  string DelicateOliveMadalena {
+    _hidden_value = true
+  }
+  json LikelyBlushClarice {
+    _hidden_value = true
+  }
+  number AmericanBronzeCorrianne {
+    _hidden_value = true
+  }
+  serviceid_number TenderYellowYevette {
+    _hidden_value = true
+  }
+  json LiteraryGreenIris {
+    _hidden_value = true
+  }
+  serviceid_number ChiefCopperDorree {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MushyWhiteVerine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CrucialFuchsiaGenni {
+    _hidden_value = true
+  }
+  boolean MajorBlushClaire {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula DreadfulPinkMerrili {
+    _hidden_value = true
+  }
+  json DependentGrayHeda {
+    _hidden_value = true
+  }
+  boolean DeafIvoryJourdan {
+    _hidden_value = true
+  }
+  serviceid_number PanickyAzureBren {
+    _hidden_value = true
+  }
+  serviceid StiffPeachMaryann {
+    _hidden_value = true
+  }
+  string AmericanBronzeCorrianne2 {
+    _hidden_value = true
+  }
+  serviceid RepresentativePinkMerline {
+    _hidden_value = true
+  }
+  ExactLimeKorella = "What creature is smarter than a talking parrot? A spelling bee."
+  PoisedTurquoiseThomasa = 538
+  LoudApricotAnnadiane = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AfraidCrimsonEmmy2 = 875
+  HugeCoffeeDore = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

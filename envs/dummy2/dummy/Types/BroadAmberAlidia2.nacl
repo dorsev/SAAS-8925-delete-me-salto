@@ -1,0 +1,87 @@
+type dummy.BroadAmberAlidia2 {
+  annotations {
+    dummy.SpectacularMaroonLibbie SoftAquamarineBarbie2 {
+    }
+    string SilkyAquaBamby2 {
+    }
+    hidden_boolean CuriousLimeKirbie2 {
+    }
+    number ExtendedPlumMilissent2 {
+    }
+    serviceid_number BadVioletToinette3 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie SportingSilverRuthy2 {
+    FriendlyBlackCarma = 5
+    FrightenedMagentaLavena = 161
+    RepulsiveBeigeBrena = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    UptightBeigeBrittni = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    ExactLimeKordula2 = 5
+    LocalBlueCharmian = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    SensibleIvoryJordana = "Im only familiar with 25 letters in the English language. I dont know why."
+    MonetaryIvoryJoey = "Why is Peter Pan always flying? Because he Neverlands."
+    WickedBeigeBryna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AshamedScarletRosamund = 830
+    ChillyAmaranthAilsun = 246
+    CooingAmethystAngelique = 44
+    FatalPurpleMyrtle = 790
+    ThoughtlessBeigeBrinna = "Whoever invented the knock-knock joke should get a no bell prize."
+    EvilAzureBili = 103
+    RelievedBlueCathie = true
+    CleverTealSibeal = "Dad Im hungry  Hi hungry Im dad"
+    GrowingCrimsonEnrichetta = 740
+    _hidden_value = true
+  }
+  serviceid SmallAmaranthAgathe4 {
+    _hidden_value = true
+  }
+  string AwkwardPeachMarylee5 {
+    _hidden_value = true
+  }
+  string HardAquaAudre3 {
+    _hidden_value = true
+  }
+  json VictoriousBlueCecil2 {
+    _hidden_value = true
+  }
+  json InformalLavenderKathi {
+    _hidden_value = true
+  }
+  boolean MagicOrangeManya5 {
+    _hidden_value = true
+  }
+  serviceid ConvincedJadeKarine2 {
+    _hidden_value = true
+  }
+  string RedWhiteWendie4 {
+    _hidden_value = true
+  }
+  hidden_boolean StraightforwardMaroonLexy3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ThoughtfulBlueCaye {
+    _hidden_value = true
+  }
+  serviceid MarineMagentaLeona {
+    _hidden_value = true
+  }
+  hidden_boolean ElectricalLavenderKerrie3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ArtisticPeachMarysa {
+    _hidden_value = true
+  }
+  SoftAquamarineBarbie2 = 616
+  SilkyAquaBamby2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ExtendedPlumMilissent2 = 917
+  BadVioletToinette3 = 831
+  _hidden_value = true
+}

@@ -1,0 +1,88 @@
+type dummy.ElectricalLavenderKerrill {
+  annotations {
+    serviceid_number StickyAquaArlyne {
+    }
+    json SkinnyAmberAlvera {
+    }
+    hidden_boolean RoughGreenIdaline {
+    }
+  }
+  dummy.AnxiousHarlequinJanna IndependentChocolateDella {
+    ColonialPeachMaure = "Did you know that protons have mass? I didn't even know they were catholic."
+    GloriousBlackCarmine = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  boolean SlowAmethystAnallese {
+    _hidden_value = true
+  }
+  number MassiveAmaranthAdorne {
+    _hidden_value = true
+  }
+  json SaltyApricotArlee {
+    _hidden_value = true
+  }
+  number HissingApricotAnnmarie {
+    _hidden_value = true
+  }
+  json ConsiderableChocolateDemetra {
+    _hidden_value = true
+  }
+  boolean DeepAmberAllegra {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SafeCopperDoretta {
+    _hidden_value = true
+  }
+  json ReluctantMagentaLee {
+    _hidden_value = true
+  }
+  string ClosedMagentaLela {
+    _hidden_value = true
+  }
+  boolean AlrightGoldGoldina {
+    _hidden_value = true
+  }
+  serviceid_number CheerfulSapphireRhodie {
+    _hidden_value = true
+  }
+  hidden_boolean ToryGreenInes {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean OldBlueChanna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT YellowYellowZonda {
+    _hidden_value = true
+  }
+  number DeliciousScarletRoda {
+    _hidden_value = true
+  }
+  number NarrowCyanFanya {
+    _hidden_value = true
+  }
+  string OutsideGrayHelga {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PoliteSalmonRafa {
+    _hidden_value = true
+  }
+  serviceid_number IraqiOliveMadelyn {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" RelievedSalmonPetronella {
+    _hidden_value = true
+  }
+  serviceid_number VariousBrownCorrinne {
+    _hidden_value = true
+  }
+  hidden_boolean MassiveFuchsiaGerry {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  StickyAquaArlyne = 273
+  SkinnyAmberAlvera = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

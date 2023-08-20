@@ -1,0 +1,42 @@
+type dummy.CorrespondingPlumMinta2 {
+  annotations {
+    serviceid StormyTurquoiseTim3 {
+    }
+    string WonderfulBlueCelesta5 {
+    }
+    hidden_boolean FitHarlequinJackqueline2 {
+    }
+    boolean CostlySapphireRegan {
+    }
+  }
+  json CompulsoryOliveMallorie {
+    _hidden_value = true
+  }
+  json AmateurSalmonPia {
+    _hidden_value = true
+  }
+  number FlutteringAquaAthene2 {
+    _hidden_value = true
+  }
+  string LivelyPeachMarylin2 {
+    _hidden_value = true
+  }
+  serviceid EvolutionarySilverRuperta {
+    _hidden_value = true
+  }
+  string QuickCoralEleonore2 {
+    _hidden_value = true
+  }
+  hidden_boolean UndergroundScarletRomona {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean LooseAquaAugustine {
+    _hidden_value = true
+  }
+  StormyTurquoiseTim3 = "A steak pun is a rare medium well done."
+  WonderfulBlueCelesta5 = "How come the stadium got hot after the game? Because all of the fans left."
+  CostlySapphireRegan = true
+  _hidden_value = true
+}

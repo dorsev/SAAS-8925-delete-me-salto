@@ -1,0 +1,40 @@
+type dummy.BrownFuchsiaGena2 {
+  annotations {
+    number StrictLavenderKatharine2 {
+    }
+    json OkSapphireRhianon2 {
+    }
+    json ModernAmethystAmelita2 {
+    }
+    boolean HarshAmethystAnitra2 {
+    }
+    json FrontCopperEadie3 {
+    }
+    json InquisitiveTealStacy2 {
+    }
+    hidden_boolean FullBlushChristiana2 {
+    }
+  }
+  hidden_boolean IntensiveMoccasinLura3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean VariableRedNollie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean UnusualTurquoiseToby {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  StrictLavenderKatharine2 = 619
+  OkSapphireRhianon2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ModernAmethystAmelita2 = "What do you call two barracuda fish?  A Pairacuda!"
+  HarshAmethystAnitra2 = false
+  FrontCopperEadie3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  InquisitiveTealStacy2 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

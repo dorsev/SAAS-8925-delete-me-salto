@@ -1,0 +1,25 @@
+type dummy.ElectricGreenIngrid3 {
+  annotations {
+    serviceid CleanTomatoTamma2 {
+    }
+    number GreatBlueCharil {
+    }
+    json ForeignBronzeCoriss3 {
+    }
+    boolean ConventionalGoldGusella {
+    }
+    serviceid_number AwakeRedNoemi {
+    }
+    hidden_boolean GiganticAmaranthAdda {
+    }
+  }
+  number PastCoffeeDiann3 {
+    _hidden_value = true
+  }
+  CleanTomatoTamma2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  GreatBlueCharil = 678
+  ForeignBronzeCoriss3 = "Slept like a log last night  woke up in the fireplace."
+  ConventionalGoldGusella = false
+  AwakeRedNoemi = 379
+  _hidden_value = true
+}

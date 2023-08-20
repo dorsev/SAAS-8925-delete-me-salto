@@ -1,0 +1,57 @@
+type dummy.WickedBeigeBrunhilde3 {
+  annotations {
+    hidden_boolean MarvellousMoccasinLorna4 {
+    }
+    dummy.DEFAULT FlyingMoccasinLorelei3 {
+    }
+    boolean PassingSalmonPippy2 {
+    }
+    string RottenApricotArlana2 {
+    }
+    json GrievingAzureBlanca2 {
+    }
+    serviceid PossibleBlushCheslie {
+    }
+    json WiseLavenderKatherina3 {
+    }
+  }
+  boolean ProfessionalChocolateDayna4 {
+    _hidden_value = true
+  }
+  serviceid VictorianJadeKalinda {
+    _hidden_value = true
+  }
+  boolean ObligedOrangeMarcelle {
+    _hidden_value = true
+  }
+  boolean ManyAmethystAnetta2 {
+    _hidden_value = true
+  }
+  string TenderRedOdella {
+    _hidden_value = true
+  }
+  serviceid StrongAquaAryn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ProminentLavenderKelci3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObviousCoffeeDollie {
+    _hidden_value = true
+  }
+  string DistinctiveLimeKristi2 {
+    _hidden_value = true
+  }
+  serviceid WetGrayHedvige {
+    _hidden_value = true
+  }
+  FlyingMoccasinLorelei3 = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  PassingSalmonPippy2 = true
+  RottenApricotArlana2 = "What do you call two barracuda fish?  A Pairacuda!"
+  GrievingAzureBlanca2 = "What do you call two barracuda fish?  A Pairacuda!"
+  PossibleBlushCheslie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  WiseLavenderKatherina3 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

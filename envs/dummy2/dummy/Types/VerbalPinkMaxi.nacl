@@ -1,0 +1,31 @@
+type dummy.VerbalPinkMaxi {
+  annotations {
+    number PreferredTanSavina {
+    }
+    string UncertainMagentaLelia2 {
+    }
+    hidden_boolean FierceAzureBilly {
+    }
+    dummy.OrdinaryCopperEdi UnpleasantRedNora2 {
+    }
+    json DizzyVioletTricia3 {
+    }
+    string OppositeHarlequinJaneczka2 {
+    }
+  }
+  serviceid MightyWhiteVerene2 {
+    _hidden_value = true
+  }
+  serviceid_number InvisibleRoseOrelia {
+    _hidden_value = true
+  }
+  string CoolGreenIolande {
+    _hidden_value = true
+  }
+  PreferredTanSavina = 567
+  UncertainMagentaLelia2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  UnpleasantRedNora2 = "To be Frank, I'd have to change my name."
+  DizzyVioletTricia3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OppositeHarlequinJaneczka2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

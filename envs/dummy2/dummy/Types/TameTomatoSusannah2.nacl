@@ -1,0 +1,78 @@
+type dummy.TameTomatoSusannah2 {
+  annotations {
+    boolean BitterApricotArden {
+    }
+    dummy.SpectacularMaroonLibbie IraqiOliveMadelon {
+    }
+    serviceid RandomMoccasinLorena3 {
+    }
+    string EthnicLavenderKaye {
+    }
+    number WateryYellowZelda {
+    }
+  }
+  serviceid_number ArrogantAquamarineBernadene {
+    _hidden_value = true
+  }
+  boolean EncouragingLimeLacey4 {
+    _hidden_value = true
+  }
+  number LongAmethystAme2 {
+    _hidden_value = true
+  }
+  serviceid ManagerialRedNerta {
+    _hidden_value = true
+  }
+  string ImpressiveIndigoJerry {
+    _hidden_value = true
+  }
+  boolean FierceOliveMaisie {
+    _hidden_value = true
+  }
+  serviceid BareLavenderKelley2 {
+    _hidden_value = true
+  }
+  number GorgeousVioletUrsa {
+    _hidden_value = true
+  }
+  string AbstractMaroonLina2 {
+    _hidden_value = true
+  }
+  serviceid IrrelevantPurpleNanette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChineseGoldGuglielma2 {
+    _hidden_value = true
+  }
+  json DutchLavenderKelsy {
+    _hidden_value = true
+  }
+  number VisualGreenIngaborg2 {
+    _hidden_value = true
+  }
+  string RearPurpleMureil2 {
+    _hidden_value = true
+  }
+  "List<json>" ForeignBronzeCoriss2 {
+    _hidden_value = true
+  }
+  json NaturalBrownCrysta2 {
+    _hidden_value = true
+  }
+  hidden_boolean RemarkableGreenHyacinth {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SharedPinkMelesa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  BitterApricotArden = true
+  IraqiOliveMadelon = 506
+  RandomMoccasinLorena3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  EthnicLavenderKaye = "Why did the kid cross the playground? To get to the other slide."
+  WateryYellowZelda = 826
+  _hidden_value = true
+}

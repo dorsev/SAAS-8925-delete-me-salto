@@ -1,0 +1,41 @@
+type dummy.LongVioletVan3 {
+  annotations {
+    json PeacefulOrangeMargot4 {
+    }
+    boolean BasicChocolateDarice5 {
+    }
+    boolean LightTurquoiseTessie4 {
+    }
+    boolean MusicalIndigoJobey3 {
+    }
+    serviceid_number NuclearCoffeeDonica4 {
+    }
+    serviceid HappyVioletValeda {
+    }
+    number FrozenScarletRosabella {
+    }
+  }
+  json IllAzureBobbee2 {
+    _hidden_value = true
+  }
+  string VaryingPurpleNellie3 {
+    _hidden_value = true
+  }
+  serviceid StrongAquaAshia {
+    _hidden_value = true
+  }
+  serviceid_number SelfishBeigeBridget {
+    _hidden_value = true
+  }
+  string ProspectiveRedNettie2 {
+    _hidden_value = true
+  }
+  PeacefulOrangeMargot4 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BasicChocolateDarice5 = true
+  LightTurquoiseTessie4 = true
+  MusicalIndigoJobey3 = true
+  NuclearCoffeeDonica4 = 936
+  HappyVioletValeda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FrozenScarletRosabella = 334
+  _hidden_value = true
+}

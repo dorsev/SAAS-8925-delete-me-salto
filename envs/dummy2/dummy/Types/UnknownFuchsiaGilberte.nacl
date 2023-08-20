@@ -1,0 +1,30 @@
+type dummy.UnknownFuchsiaGilberte {
+  annotations {
+    json CrudePlumMil {
+    }
+    hidden_boolean OtherBlueCelisse {
+    }
+    string BeautifulTomatoTabina {
+    }
+    serviceid_number ExceptionalOliveMadlin2 {
+    }
+  }
+  serviceid WeakAquamarineBelinda {
+    _hidden_value = true
+  }
+  hidden_boolean EvilPeachMaurise {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid EthnicLavenderKaycee {
+    _hidden_value = true
+  }
+  json WillingGoldGussy {
+    _hidden_value = true
+  }
+  CrudePlumMil = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BeautifulTomatoTabina = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ExceptionalOliveMadlin2 = 895
+  _hidden_value = true
+}

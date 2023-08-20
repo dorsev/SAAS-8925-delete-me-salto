@@ -1,0 +1,95 @@
+type dummy.RespectiveSalmonPersis {
+  annotations {
+    number ImaginativeTanSella3 {
+    }
+    boolean AppropriateChocolateDarcey {
+    }
+    serviceid DustyAmberAlexine {
+    }
+    serviceid VisitingScarletRobbi {
+    }
+  }
+  serviceid CruelAquamarineBessy2 {
+    _hidden_value = true
+  }
+  serviceid_number AlrightGoldGrace2 {
+    _hidden_value = true
+  }
+  number LegislativeMaroonLinea2 {
+    _hidden_value = true
+  }
+  "Map<dummy.ExactLimeKordula>" IndependentChocolateDelly {
+    _hidden_value = true
+  }
+  number IncredibleRosePattie2 {
+    _hidden_value = true
+  }
+  number ExtensiveGoldGlory2 {
+    _hidden_value = true
+  }
+  json AllegedOliveLynne {
+    _hidden_value = true
+  }
+  hidden_boolean IntensiveMoccasinLulu2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FemaleCrimsonEmmeline3 {
+    _hidden_value = true
+  }
+  boolean DetailedCrimsonEmlynne2 {
+    _hidden_value = true
+  }
+  serviceid EnthusiasticBlackCarina3 {
+    _hidden_value = true
+  }
+  hidden_boolean HomelyTurquoiseTessa2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean PleasantBlackCatha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ValidLavenderKerrin2 {
+    _hidden_value = true
+  }
+  string HelplessTealSophey3 {
+    _hidden_value = true
+  }
+  number SmallAmaranthAgathe2 {
+    _hidden_value = true
+  }
+  serviceid_number ShortAmethystAnabel2 {
+    _hidden_value = true
+  }
+  boolean ContinuingGreenIsa {
+    _hidden_value = true
+  }
+  json EvidentIvoryJune2 {
+    _hidden_value = true
+  }
+  boolean GiantMoccasinLottie3 {
+    _hidden_value = true
+  }
+  json CapitalistMagentaLea {
+    _hidden_value = true
+  }
+  serviceid_number EarlyAmethystAmanda4 {
+    _hidden_value = true
+  }
+  serviceid PricklyWhiteViva2 {
+    _hidden_value = true
+  }
+  boolean ExclusiveMagentaLatashia2 {
+    _hidden_value = true
+  }
+  ImaginativeTanSella3 = 821
+  AppropriateChocolateDarcey = false
+  DustyAmberAlexine = "Why did the kid cross the playground? To get to the other slide."
+  VisitingScarletRobbi = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

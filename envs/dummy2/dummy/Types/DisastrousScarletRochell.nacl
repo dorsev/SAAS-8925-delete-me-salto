@@ -1,0 +1,164 @@
+type dummy.DisastrousScarletRochell {
+  annotations {
+    string SleepyTomatoSuki {
+    }
+    hidden_boolean ImaginativeTanSelle {
+    }
+    string LongAmaranthAdi {
+    }
+    hidden_boolean ReadyChocolateDebera {
+    }
+    serviceid ConsciousHarlequinJeanette {
+    }
+    serviceid_number DizzyVioletTricia {
+    }
+  }
+  dummy.AnxiousHarlequinJanna RareEmeraldFlorentia3 {
+    ColonialPeachMaure = "Why did the kid cross the playground? To get to the other slide."
+    GloriousBlackCarmine = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi GrubbyAquaAubry {
+    SillyYellowWini = 733
+    CruelAquamarineBessy = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    TameYellowYalonda = 835
+    RareWhiteWanda = 383
+    SpareMaroonLillis = "Why didnt the skeleton cross the road? Because he had no guts."
+    StupidGreenIzabel = 725
+    MaximumGreenIlyssa = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    TerritorialSalmonPriscella = "What creature is smarter than a talking parrot? A spelling bee."
+    VariedRedNoreen = 267
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 614
+    IntenseLavenderKatuscha = 792
+    SubtleMoccasinLucie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  serviceid LowBlushChristina {
+    _hidden_value = true
+  }
+  serviceid InappropriateRoseOthilia {
+    _hidden_value = true
+  }
+  serviceid GeneticMoccasinLorilyn {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula GayOrangeMariette2 {
+    _hidden_value = true
+  }
+  string HelpfulTealSonnie {
+    _hidden_value = true
+  }
+  string ExcitedOrangeMarion {
+    _hidden_value = true
+  }
+  boolean FaithfulBlackCarlie {
+    _hidden_value = true
+  }
+  number MammothAmaranthAdore {
+    _hidden_value = true
+  }
+  boolean ChangingJadeKassey {
+    _hidden_value = true
+  }
+  number ItchyVioletValentina {
+    _hidden_value = true
+  }
+  boolean WoodenGreenHoratia3 {
+    _hidden_value = true
+  }
+  hidden_boolean UniversalJadeKacey {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid NoblePurpleNeda {
+    _hidden_value = true
+  }
+  number RegulatorySalmonQuintana {
+    _hidden_value = true
+  }
+  hidden_boolean QuickWhiteVonni {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid WonderfulYellowZoe2 {
+    _hidden_value = true
+  }
+  serviceid EvilPeachMaurita {
+    _hidden_value = true
+  }
+  serviceid_number RaspyApricotAnny {
+    _hidden_value = true
+  }
+  serviceid ComplicatedIndigoJoanna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AsleepJadeKarmen {
+    _hidden_value = true
+  }
+  boolean CruelPlumMichaelina {
+    _hidden_value = true
+  }
+  serviceid QuietWhiteViviene {
+    _hidden_value = true
+  }
+  serviceid_number FineBlackCarly {
+    _hidden_value = true
+  }
+  string FamousCoralElianora2 {
+    _hidden_value = true
+  }
+  boolean NiceWhiteVevay {
+    _hidden_value = true
+  }
+  boolean CrudePlumMil2 {
+    _hidden_value = true
+  }
+  "List<boolean>" AbundantAmethystAndie2 {
+    _hidden_value = true
+  }
+  serviceid UnfortunatePeachMarta {
+    _hidden_value = true
+  }
+  string NuclearCoffeeDonica {
+    _hidden_value = true
+  }
+  number ExtendedPlumMilena {
+    _hidden_value = true
+  }
+  number ExpensiveCrimsonErnesta2 {
+    _hidden_value = true
+  }
+  number FrequentLavenderKatie {
+    _hidden_value = true
+  }
+  boolean RareEmeraldFlorenza {
+    _hidden_value = true
+  }
+  hidden_boolean MisleadingRoseOriana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ElectricalLavenderKerrill2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CrudePlumMikaela {
+    _hidden_value = true
+  }
+  json WeakAquamarineBelia {
+    _hidden_value = true
+  }
+  serviceid DeterminedOrangeMarillin {
+    _hidden_value = true
+  }
+  SleepyTomatoSuki = "My first time using an elevator was an uplifting experience. The second time let me down."
+  LongAmaranthAdi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ConsciousHarlequinJeanette = "Why was it called the dark ages? Because of all the knights. "
+  DizzyVioletTricia = 370
+  _hidden_value = true
+}

@@ -1,0 +1,72 @@
+type dummy.CapitalistMagentaLayney2 {
+  annotations {
+    serviceid_number GentleBlackCarmelita {
+    }
+    dummy.DEFAULT IdenticalLimeKorry {
+    }
+    string NuclearCoffeeDonielle {
+    }
+    boolean ExuberantBlackCarla2 {
+    }
+    hidden_boolean AppallingTanSelene {
+    }
+  }
+  serviceid UnnecessaryMoccasinLoralee {
+    _hidden_value = true
+  }
+  string FitHarlequinJackqueline {
+    _hidden_value = true
+  }
+  number FrozenScarletRos {
+    _hidden_value = true
+  }
+  json ValidLavenderKerry {
+    _hidden_value = true
+  }
+  hidden_boolean WeeSapphireRevkah {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean NuclearCoffeeDonna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string PotentialCoralElberta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HandicappedTanShannon {
+    _hidden_value = true
+  }
+  serviceid PureGrayHenryetta {
+    _hidden_value = true
+  }
+  serviceid_number RedundantSalmonPhilippine {
+    _hidden_value = true
+  }
+  serviceid_number WorthwhilePinkMelita {
+    _hidden_value = true
+  }
+  json LengthySapphireRania {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" WanderingTomatoSuzette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<boolean>" WideBronzeCorine {
+    _hidden_value = true
+  }
+  json AggressiveMaroonLilith2 {
+    _hidden_value = true
+  }
+  GentleBlackCarmelita = 206
+  IdenticalLimeKorry = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  NuclearCoffeeDonielle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ExuberantBlackCarla2 = true
+  _hidden_value = true
+}

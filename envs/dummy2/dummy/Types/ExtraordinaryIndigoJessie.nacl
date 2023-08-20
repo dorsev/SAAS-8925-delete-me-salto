@@ -1,0 +1,26 @@
+type dummy.ExtraordinaryIndigoJessie {
+  annotations {
+    json SuccessfulChocolateDarya {
+    }
+    dummy.OrdinaryCopperEdi UnacceptableSalmonPenelope {
+    }
+    string ScaredSapphireRahal {
+    }
+    hidden_boolean CuddlyAmberAlayne {
+    }
+    dummy.DEFAULT ExceptionalOliveMadlin {
+    }
+    hidden_boolean PuzzledTanShani {
+    }
+  }
+  string UnusualTurquoiseTobe {
+    _hidden_value = true
+  }
+  SuccessfulChocolateDarya = "My first time using an elevator was an uplifting experience. The second time let me down."
+  UnacceptableSalmonPenelope = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ScaredSapphireRahal = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ExceptionalOliveMadlin = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  _hidden_value = true
+}

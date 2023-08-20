@@ -1,0 +1,48 @@
+type dummy.EligiblePurpleNelia2 {
+  annotations {
+    dummy.AnxiousHarlequinJanna SquareAmberAlverta {
+    }
+    boolean NormalBrownDana2 {
+    }
+    dummy.DEFAULT AdvisoryOrangeMarie2 {
+    }
+    serviceid AssociatedMaroonLindsy2 {
+    }
+    serviceid HorizontalSalmonPrissie2 {
+    }
+    number BoilingAmaranthAgneta2 {
+    }
+    json TerribleBeigeBriney4 {
+    }
+  }
+  serviceid RoyalBrownCristina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RealTomatoStephine4 {
+    _hidden_value = true
+  }
+  serviceid_number GreasyAquaAubine2 {
+    _hidden_value = true
+  }
+  boolean PhilosophicalRedNoel {
+    _hidden_value = true
+  }
+  number ConvincingSalmonPeggy4 {
+    _hidden_value = true
+  }
+  hidden_boolean ProtestantScarletRobina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SquareAmberAlverta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NormalBrownDana2 = false
+  AdvisoryOrangeMarie2 = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  AssociatedMaroonLindsy2 = "A steak pun is a rare medium well done."
+  HorizontalSalmonPrissie2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  BoilingAmaranthAgneta2 = 593
+  TerribleBeigeBriney4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

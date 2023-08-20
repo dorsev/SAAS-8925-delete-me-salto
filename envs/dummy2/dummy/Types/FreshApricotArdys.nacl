@@ -1,0 +1,130 @@
+type dummy.FreshApricotArdys {
+  annotations {
+    json UnlikelyCrimsonEthelin {
+    }
+    number JapaneseCyanFianna {
+    }
+    json GlobalGrayHermina {
+    }
+    dummy.OrdinaryCopperEdi EnviousAzureBiddy {
+    }
+    serviceid_number MissingPinkMellisa {
+    }
+    serviceid LargeBlueCharmain {
+    }
+  }
+  dummy.AnxiousHarlequinJanna MotionlessTurquoiseTheo {
+    ColonialPeachMaure = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    GloriousBlackCarmine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  hidden_boolean SmoothIndigoJemmie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string WellFuchsiaGipsy {
+    _hidden_value = true
+  }
+  json FeministPlumMina {
+    _hidden_value = true
+  }
+  string FixedGreenHilliary {
+    _hidden_value = true
+  }
+  boolean BlueCoffeeDi {
+    _hidden_value = true
+  }
+  serviceid_number ComplexCopperDrucill {
+    _hidden_value = true
+  }
+  hidden_boolean WetGrayHedwig {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FairCoffeeDinnie {
+    _hidden_value = true
+  }
+  serviceid_number RoundIvoryJohna {
+    _hidden_value = true
+  }
+  boolean EerieAzureBianka {
+    _hidden_value = true
+  }
+  serviceid_number UnexpectedMagentaLaurella {
+    _hidden_value = true
+  }
+  json JoyousBlackCarry {
+    _hidden_value = true
+  }
+  json LongAmaranthAdiana2 {
+    _hidden_value = true
+  }
+  boolean PreliminaryOliveLynea {
+    _hidden_value = true
+  }
+  string LittleAmaranthAdena {
+    _hidden_value = true
+  }
+  boolean IntenseLavenderKattie {
+    _hidden_value = true
+  }
+  number SubtleMoccasinLuciana {
+    _hidden_value = true
+  }
+  boolean QuietApricotAnnis {
+    _hidden_value = true
+  }
+  hidden_boolean UpsetBeigeBritteny {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json RecentBronzeCornelia {
+    _hidden_value = true
+  }
+  hidden_boolean ShortAmaranthAgace {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DeliciousScarletRodi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT AgreeableBeigeBunny {
+    _hidden_value = true
+  }
+  json ClearBlushCinnamon {
+    _hidden_value = true
+  }
+  json SoftApricotApril2 {
+    _hidden_value = true
+  }
+  hidden_boolean TerribleEmeraldFredrika {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ExpensiveCrimsonErnesta {
+    _hidden_value = true
+  }
+  string SophisticatedJadeKarlotta {
+    _hidden_value = true
+  }
+  string FrailVioletTrixy {
+    _hidden_value = true
+  }
+  serviceid ExcitedOrangeMariquilla {
+    _hidden_value = true
+  }
+  UnlikelyCrimsonEthelin = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  JapaneseCyanFianna = 372
+  GlobalGrayHermina = "Why didnt the skeleton cross the road? Because he had no guts."
+  EnviousAzureBiddy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MissingPinkMellisa = 648
+  LargeBlueCharmain = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

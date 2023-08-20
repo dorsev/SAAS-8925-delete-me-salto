@@ -1,0 +1,19 @@
+type dummy.LoudApricotAnnadiane2 {
+  annotations {
+    boolean TropicalOliveLuz2 {
+    }
+    json PriorRosePauline {
+    }
+    hidden_boolean CivicTanShelli4 {
+    }
+    serviceid_number StupidTomatoSunny {
+    }
+  }
+  json CognitiveSalmonQuerida5 {
+    _hidden_value = true
+  }
+  TropicalOliveLuz2 = true
+  PriorRosePauline = "Why do birds fly south for the winter? Because it's too far to walk."
+  StupidTomatoSunny = 742
+  _hidden_value = true
+}

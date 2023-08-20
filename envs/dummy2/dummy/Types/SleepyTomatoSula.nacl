@@ -1,0 +1,116 @@
+type dummy.SleepyTomatoSula {
+  annotations {
+    string ShockedPinkMelisande {
+    }
+    boolean DangerousCrimsonEssy2 {
+    }
+    json InquisitiveTealStafani {
+    }
+    serviceid_number FluffyAmberAlia2 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie RecentBronzeCornelle3 {
+    FriendlyBlackCarma = 507
+    FrightenedMagentaLavena = 961
+    RepulsiveBeigeBrena = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    UptightBeigeBrittni = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ExactLimeKordula2 = 865
+    LocalBlueCharmian = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    SensibleIvoryJordana = "To be Frank, I'd have to change my name."
+    MonetaryIvoryJoey = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WickedBeigeBryna = "Why did the tomato blush? Because it saw the salad dressing."
+    AshamedScarletRosamund = 588
+    ChillyAmaranthAilsun = 457
+    CooingAmethystAngelique = 349
+    FatalPurpleMyrtle = 309
+    ThoughtlessBeigeBrinna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    EvilAzureBili = 616
+    RelievedBlueCathie = false
+    CleverTealSibeal = "Whoever invented the knock-knock joke should get a no bell prize."
+    GrowingCrimsonEnrichetta = 957
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi LoudApricotAnnadiana2 {
+    SillyYellowWini = 629
+    CruelAquamarineBessy = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    TameYellowYalonda = 689
+    RareWhiteWanda = 209
+    SpareMaroonLillis = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    StupidGreenIzabel = 370
+    MaximumGreenIlyssa = "Why do birds fly south for the winter? Because it's too far to walk."
+    TerritorialSalmonPriscella = "To be Frank, I'd have to change my name."
+    VariedRedNoreen = 265
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 651
+    IntenseLavenderKatuscha = 44
+    SubtleMoccasinLucie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  serviceid InnerFuchsiaGenvieve2 {
+    _hidden_value = true
+  }
+  serviceid_number UpperCyanFaustine2 {
+    _hidden_value = true
+  }
+  serviceid_number LeftCoffeeDeny3 {
+    _hidden_value = true
+  }
+  serviceid_number ClassicJadeKaitlynn2 {
+    _hidden_value = true
+  }
+  number NuttyWhiteVikky {
+    _hidden_value = true
+  }
+  serviceid CruelAquamarineBethanne {
+    _hidden_value = true
+  }
+  json SpiritualLavenderKatrinka3 {
+    _hidden_value = true
+  }
+  json OralLimeKylie3 {
+    _hidden_value = true
+  }
+  hidden_boolean ResonantApricotAnsley2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ZanyYellowZuzana {
+    _hidden_value = true
+  }
+  string RivalPurpleNara {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObjectiveOrangeMame {
+    _hidden_value = true
+  }
+  json AncientAmethystAmabelle3 {
+    _hidden_value = true
+  }
+  serviceid ArtificialMagentaLenee {
+    _hidden_value = true
+  }
+  string DampMoccasinLotta2 {
+    _hidden_value = true
+  }
+  json UsualCoralElmira2 {
+    _hidden_value = true
+  }
+  boolean PrettyIndigoJennifer2 {
+    _hidden_value = true
+  }
+  string GrubbyAquaAubry5 {
+    _hidden_value = true
+  }
+  ShockedPinkMelisande = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DangerousCrimsonEssy2 = true
+  InquisitiveTealStafani = "A steak pun is a rare medium well done."
+  FluffyAmberAlia2 = 61
+  _hidden_value = true
+}

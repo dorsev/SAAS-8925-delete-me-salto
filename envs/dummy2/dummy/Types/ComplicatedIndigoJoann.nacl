@@ -1,0 +1,38 @@
+type dummy.ComplicatedIndigoJoann {
+  annotations {
+    serviceid MuddyTurquoiseTheresina {
+    }
+    serviceid AdvisoryOrangeMarieann {
+    }
+    dummy.DEFAULT UsefulChocolateDee {
+    }
+    dummy.DEFAULT ModeratePurpleNatalie {
+    }
+    dummy.DEFAULT DutchLavenderKendra {
+    }
+  }
+  json NuttyWhiteViki {
+    _hidden_value = true
+  }
+  string WildCyanEyde {
+    _hidden_value = true
+  }
+  boolean RelievedSalmonPetronella2 {
+    _hidden_value = true
+  }
+  number InfluentialMoccasinLorenza {
+    _hidden_value = true
+  }
+  MuddyTurquoiseTheresina = "Im only familiar with 25 letters in the English language. I dont know why."
+  AdvisoryOrangeMarieann = "What creature is smarter than a talking parrot? A spelling bee."
+  UsefulChocolateDee = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  ModeratePurpleNatalie = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  DutchLavenderKendra = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  _hidden_value = true
+}

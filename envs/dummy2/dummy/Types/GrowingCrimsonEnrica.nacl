@@ -1,0 +1,89 @@
+type dummy.GrowingCrimsonEnrica {
+  annotations {
+    json EncouragingBlackCaresse {
+    }
+    number UnlikelyCrimsonEthelin3 {
+    }
+    json RedWhiteWendeline4 {
+    }
+    number ExoticSapphireRiki {
+    }
+    string OrganisationalTanSharai {
+    }
+  }
+  dummy.AnxiousHarlequinJanna DecisiveSalmonPenny2 {
+    ColonialPeachMaure = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    GloriousBlackCarmine = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  serviceid InclinedRedNovelia {
+    _hidden_value = true
+  }
+  boolean SingleBronzeCoral2 {
+    _hidden_value = true
+  }
+  boolean SacredRedNorma {
+    _hidden_value = true
+  }
+  serviceid_number ImaginativeTanSelinda {
+    _hidden_value = true
+  }
+  serviceid_number PainfulMaroonLilly {
+    _hidden_value = true
+  }
+  boolean ProgressiveOliveMadelina2 {
+    _hidden_value = true
+  }
+  boolean IntellectualJadeKalila2 {
+    _hidden_value = true
+  }
+  serviceid_number DifferentTealSilvia3 {
+    _hidden_value = true
+  }
+  string AtomicScarletRorie {
+    _hidden_value = true
+  }
+  string PuzzledTanShandy {
+    _hidden_value = true
+  }
+  number ModernTealStafani {
+    _hidden_value = true
+  }
+  boolean DistantIndigoJillie2 {
+    _hidden_value = true
+  }
+  serviceid EstimatedOrangeMargette {
+    _hidden_value = true
+  }
+  string EasyBronzeCollen2 {
+    _hidden_value = true
+  }
+  boolean NarrowAmberAlma {
+    _hidden_value = true
+  }
+  string OddWhiteVinita2 {
+    _hidden_value = true
+  }
+  hidden_boolean SeniorCoffeeDonelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number WiseLavenderKatherina2 {
+    _hidden_value = true
+  }
+  json ExtraordinaryIndigoJessica {
+    _hidden_value = true
+  }
+  hidden_boolean AnxiousAquamarineBenoite2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  EncouragingBlackCaresse = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UnlikelyCrimsonEthelin3 = 567
+  RedWhiteWendeline4 = "A steak pun is a rare medium well done."
+  ExoticSapphireRiki = 883
+  OrganisationalTanSharai = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

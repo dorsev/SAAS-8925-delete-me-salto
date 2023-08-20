@@ -1,0 +1,39 @@
+type dummy.HonestIndigoJerry {
+  annotations {
+    serviceid_number AmbitiousPeachMaureen {
+    }
+    serviceid_number SportingSilverRuthi2 {
+    }
+    serviceid_number IntenseLavenderKatuscha2 {
+    }
+    hidden_boolean SelectedPlumMilli {
+    }
+    serviceid RipeApricotAridatha {
+    }
+  }
+  boolean GorgeousVioletUrsola {
+    _hidden_value = true
+  }
+  hidden_boolean IdeologicalOrangeMargarette3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ReasonableCrimsonEmalia2 {
+    _hidden_value = true
+  }
+  boolean GayOrangeMarietta {
+    _hidden_value = true
+  }
+  serviceid_number AssociatedMaroonLindsey2 {
+    _hidden_value = true
+  }
+  string ConsiderableChocolateDemeter2 {
+    _hidden_value = true
+  }
+  AmbitiousPeachMaureen = 752
+  SportingSilverRuthi2 = 676
+  IntenseLavenderKatuscha2 = 483
+  RipeApricotAridatha = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

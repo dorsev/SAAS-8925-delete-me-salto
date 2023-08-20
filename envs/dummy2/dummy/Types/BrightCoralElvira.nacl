@@ -1,0 +1,16 @@
+type dummy.BrightCoralElvira {
+  annotations {
+    serviceid_number PlainTurquoiseTheresina {
+    }
+    hidden_boolean ComparativePlumMisty3 {
+    }
+    serviceid_number LikelyBlushClarey {
+    }
+  }
+  serviceid ManagingLimeKizzee {
+    _hidden_value = true
+  }
+  PlainTurquoiseTheresina = 616
+  LikelyBlushClarey = 50
+  _hidden_value = true
+}

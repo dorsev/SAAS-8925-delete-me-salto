@@ -1,0 +1,24 @@
+type dummy.OptimisticRosePearle {
+  annotations {
+    serviceid UndergroundScarletRomonda3 {
+    }
+    json SolidAquamarineBarrie2 {
+    }
+    number SoftApricotApril4 {
+    }
+    hidden_boolean AncientEmeraldFlorance4 {
+    }
+    number ManagerialPurpleNerissa2 {
+    }
+  }
+  hidden_boolean EfficientGoldGrethel3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  UndergroundScarletRomonda3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SolidAquamarineBarrie2 = "Slept like a log last night  woke up in the fireplace."
+  SoftApricotApril4 = 966
+  ManagerialPurpleNerissa2 = 5
+  _hidden_value = true
+}

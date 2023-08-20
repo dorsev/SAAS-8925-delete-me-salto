@@ -1,0 +1,80 @@
+type dummy.ParallelMoccasinLuella {
+  annotations {
+    boolean SexualCopperDyna2 {
+    }
+    json KoreanSapphireRasia {
+    }
+    serviceid_number ReluctantMagentaLeda {
+    }
+    boolean UnfairMaroonLilah2 {
+    }
+    hidden_boolean YoungBlueCher {
+    }
+  }
+  dummy.ExactLimeKordula DirtyAmberAlex {
+    _hidden_value = true
+  }
+  serviceid_number KindBlackCaryn {
+    _hidden_value = true
+  }
+  boolean ModeratePurpleNataline {
+    _hidden_value = true
+  }
+  boolean ImmediateCrimsonEmelyne {
+    _hidden_value = true
+  }
+  hidden_boolean LightTurquoiseTessy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string GeneralBlushChristan {
+    _hidden_value = true
+  }
+  json LongBlueChelsy {
+    _hidden_value = true
+  }
+  hidden_boolean AdditionalCopperDotty {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json AllegedOliveLynn2 {
+    _hidden_value = true
+  }
+  serviceid_number ShakyAquaBab2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RetiredSilverSarajane {
+    _hidden_value = true
+  }
+  serviceid_number SimilarBronzeConsolata {
+    _hidden_value = true
+  }
+  "List<json>" MagneticPeachMax {
+    _hidden_value = true
+  }
+  string IrishCrimsonErminie {
+    _hidden_value = true
+  }
+  number ContemporaryFuchsiaGeorgianna {
+    _hidden_value = true
+  }
+  number SacredRedNorri {
+    _hidden_value = true
+  }
+  string BurningRedNikoletta2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnexpectedMagentaLaureen {
+    _hidden_value = true
+  }
+  serviceid QuietWhiteViviene3 {
+    _hidden_value = true
+  }
+  SexualCopperDyna2 = false
+  KoreanSapphireRasia = "What do you call two barracuda fish?  A Pairacuda!"
+  ReluctantMagentaLeda = 442
+  UnfairMaroonLilah2 = true
+  _hidden_value = true
+}

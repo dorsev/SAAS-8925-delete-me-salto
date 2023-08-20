@@ -1,0 +1,117 @@
+type dummy.LiberalCyanFarra2 {
+  annotations {
+    dummy.ExactLimeKordula DeliberateRedNoelle {
+    }
+    string MassiveAmaranthAdria {
+    }
+    json LovelyBlackCass2 {
+    }
+    serviceid_number HostileOrangeMarieann2 {
+    }
+    serviceid DisciplinarySilverRycca2 {
+    }
+    number LevelJadeKamila2 {
+    }
+  }
+  boolean StaticSapphireRebecka {
+    _hidden_value = true
+  }
+  serviceid_number LightTurquoiseTessy2 {
+    _hidden_value = true
+  }
+  serviceid RetiredSilverSarah2 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula UnpleasantRedNonna2 {
+    _hidden_value = true
+  }
+  string TenderYellowYnes2 {
+    _hidden_value = true
+  }
+  number BareLavenderKelley3 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula HurtAzureBlythe5 {
+    _hidden_value = true
+  }
+  json OddWhiteVinita4 {
+    _hidden_value = true
+  }
+  hidden_boolean MiniatureAmaranthAdriane {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DivineRoseOpal2 {
+    _hidden_value = true
+  }
+  json CreativeJadeKania3 {
+    _hidden_value = true
+  }
+  string ColossalAmaranthAbbye5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnacceptableSalmonPenelope4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OlympicRedNessi2 {
+    _hidden_value = true
+  }
+  serviceid_number OrdinaryWhiteVirgie {
+    _hidden_value = true
+  }
+  number ShiveringAquaBabette2 {
+    _hidden_value = true
+  }
+  string TinyCyanEula3 {
+    _hidden_value = true
+  }
+  json EmotionalGrayHertha2 {
+    _hidden_value = true
+  }
+  string DeterminedOrangeMarilyn2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" ConstitutionalHarlequinJayne {
+    _hidden_value = true
+  }
+  json HomelyTurquoiseTerza {
+    _hidden_value = true
+  }
+  number SignificantBrownDanna3 {
+    _hidden_value = true
+  }
+  boolean HarshOliveMahala2 {
+    _hidden_value = true
+  }
+  string FriendlyVioletTrudie3 {
+    _hidden_value = true
+  }
+  boolean DeterminedOrangeMarillin6 {
+    _hidden_value = true
+  }
+  string ShiveringAquaBabette3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConvincingSalmonPeggie3 {
+    _hidden_value = true
+  }
+  serviceid_number FrontCopperEalasaid {
+    _hidden_value = true
+  }
+  hidden_boolean StatutoryGrayHarriott2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula MelodicApricotAnnamaria2 {
+    _hidden_value = true
+  }
+  DeliberateRedNoelle = 901
+  MassiveAmaranthAdria = "Whoever invented the knock-knock joke should get a no bell prize."
+  LovelyBlackCass2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  HostileOrangeMarieann2 = 431
+  DisciplinarySilverRycca2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  LevelJadeKamila2 = 450
+  _hidden_value = true
+}

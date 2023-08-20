@@ -1,0 +1,41 @@
+type dummy.CriminalFuchsiaGeorgia {
+  annotations {
+    serviceid_number HonestIndigoJerrine {
+    }
+    number ThunderingApricotArabella {
+    }
+    serviceid_number FriendlyGoldGunilla {
+    }
+    number SkilledMoccasinLuci {
+    }
+    serviceid AmazingMoccasinLizette2 {
+    }
+    serviceid ZanyYellowZulema {
+    }
+  }
+  number HealthyGoldGracie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EmptyAmethystAndie {
+    _hidden_value = true
+  }
+  serviceid_number InnerFuchsiaGenny {
+    _hidden_value = true
+  }
+  serviceid_number AgreedTanSelina {
+    _hidden_value = true
+  }
+  boolean FarBlushChristie3 {
+    _hidden_value = true
+  }
+  json SorryBrownDaphene {
+    _hidden_value = true
+  }
+  HonestIndigoJerrine = 632
+  ThunderingApricotArabella = 339
+  FriendlyGoldGunilla = 61
+  SkilledMoccasinLuci = 553
+  AmazingMoccasinLizette2 = "Why did the kid cross the playground? To get to the other slide."
+  ZanyYellowZulema = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

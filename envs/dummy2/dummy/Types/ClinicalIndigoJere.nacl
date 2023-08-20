@@ -1,0 +1,25 @@
+type dummy.ClinicalIndigoJere {
+  annotations {
+    number LightAmethystAnett {
+    }
+    boolean FeministPlumMina2 {
+    }
+    json AggregateScarletRobbin {
+    }
+    serviceid_number TropicalOliveLuz {
+    }
+    number JustMaroonLissie {
+    }
+    hidden_boolean QualifiedPinkMellicent {
+    }
+  }
+  string AmusedBeigeBunny {
+    _hidden_value = true
+  }
+  LightAmethystAnett = 949
+  FeministPlumMina2 = true
+  AggregateScarletRobbin = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TropicalOliveLuz = 129
+  JustMaroonLissie = 169
+  _hidden_value = true
+}

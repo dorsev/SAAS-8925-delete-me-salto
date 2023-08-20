@@ -1,0 +1,37 @@
+type dummy.BrokenAmaranthAilee {
+  annotations {
+    boolean ContinuousIvoryJoye {
+    }
+    serviceid DisabledHarlequinJanie2 {
+    }
+    dummy.AnxiousHarlequinJanna NewBlueChandra {
+    }
+    dummy.AnxiousHarlequinJanna IdenticalLimeKorrie {
+    }
+    string SatisfactoryLimeKrissy2 {
+    }
+  }
+  serviceid_number VaguePinkMeghann {
+    _hidden_value = true
+  }
+  serviceid_number InnerFuchsiaGenovera {
+    _hidden_value = true
+  }
+  number ProfoundPinkMerla {
+    _hidden_value = true
+  }
+  number AlertTomatoTabatha {
+    _hidden_value = true
+  }
+  hidden_boolean TroubledBeigeBrittaney {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ContinuousIvoryJoye = false
+  DisabledHarlequinJanie2 = "To be Frank, I'd have to change my name."
+  NewBlueChandra = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  IdenticalLimeKorrie = "I'll tell you what often gets over looked... garden fences."
+  SatisfactoryLimeKrissy2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

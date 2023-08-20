@@ -1,0 +1,17 @@
+type dummy.AcuteLavenderKeriann {
+  annotations {
+    serviceid_number DistinctiveLimeKristen {
+    }
+    serviceid_number VariedRedNorene {
+    }
+    number ConsciousHarlequinJeanie {
+    }
+  }
+  string WarmCopperDulcinea {
+    _hidden_value = true
+  }
+  DistinctiveLimeKristen = 609
+  VariedRedNorene = 321
+  ConsciousHarlequinJeanie = 380
+  _hidden_value = true
+}

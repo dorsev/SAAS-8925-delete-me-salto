@@ -1,0 +1,28 @@
+type dummy.WanderingTomatoSuzanna {
+  annotations {
+    json PreparedCyanFelice {
+    }
+    dummy.DEFAULT DiplomaticMagentaLenora {
+    }
+    string HorizontalSalmonPrudi {
+    }
+    serviceid_number ToughGoldGlenn {
+    }
+  }
+  serviceid_number MassiveFuchsiaGerrie {
+    _hidden_value = true
+  }
+  json GracefulTurquoiseTerri {
+    _hidden_value = true
+  }
+  boolean RulingLimeKippy {
+    _hidden_value = true
+  }
+  PreparedCyanFelice = "Why did the kid cross the playground? To get to the other slide."
+  DiplomaticMagentaLenora = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  HorizontalSalmonPrudi = "To be Frank, I'd have to change my name."
+  ToughGoldGlenn = 20
+  _hidden_value = true
+}

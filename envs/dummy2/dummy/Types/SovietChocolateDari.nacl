@@ -1,0 +1,37 @@
+type dummy.SovietChocolateDari {
+  annotations {
+    json ReadyChocolateDebor2 {
+    }
+    number FaithfulTanShayne {
+    }
+    hidden_boolean ResidentSalmonRachelle {
+    }
+    number PureGrayHenryetta2 {
+    }
+    serviceid_number StableHarlequinJasmin {
+    }
+  }
+  serviceid ModestLavenderKelsi {
+    _hidden_value = true
+  }
+  serviceid_number WesternChocolateDeerdre {
+    _hidden_value = true
+  }
+  serviceid StrictLavenderKatha2 {
+    _hidden_value = true
+  }
+  string MarineMagentaLeonanie {
+    _hidden_value = true
+  }
+  json GermanChocolateDelila {
+    _hidden_value = true
+  }
+  json BrightVioletTova3 {
+    _hidden_value = true
+  }
+  ReadyChocolateDebor2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FaithfulTanShayne = 682
+  PureGrayHenryetta2 = 717
+  StableHarlequinJasmin = 611
+  _hidden_value = true
+}

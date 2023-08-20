@@ -1,0 +1,63 @@
+type dummy.FundamentalFuchsiaGenevieve4 {
+  annotations {
+    serviceid ImpressiveIndigoJessa4 {
+    }
+    serviceid_number DistinctTurquoiseTatum3 {
+    }
+    dummy.DEFAULT GleamingTurquoiseTeriann {
+    }
+    serviceid ElegantMoccasinLucille {
+    }
+    json TenderYellowYoko {
+    }
+    string DryAmberAlex {
+    }
+  }
+  hidden_boolean WeakFuchsiaGayle2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ExperimentalLavenderKatine2 {
+    _hidden_value = true
+  }
+  number AdverseSapphireRaphaela3 {
+    _hidden_value = true
+  }
+  json TechnologicalOrangeMarianna2 {
+    _hidden_value = true
+  }
+  number MarriedCyanFanni2 {
+    _hidden_value = true
+  }
+  json ModernBrownDacy2 {
+    _hidden_value = true
+  }
+  serviceid_number IsolatedPeachMarjy2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SeriousBrownDanella4 {
+    _hidden_value = true
+  }
+  "List<serviceid>" RenewedSilverSandye {
+    _hidden_value = true
+  }
+  serviceid IndividualBrownCrystie3 {
+    _hidden_value = true
+  }
+  string JustMaroonLissa {
+    _hidden_value = true
+  }
+  json ElectronicGreenInessa {
+    _hidden_value = true
+  }
+  ImpressiveIndigoJessa4 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DistinctTurquoiseTatum3 = 723
+  GleamingTurquoiseTeriann = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  ElegantMoccasinLucille = "How come the stadium got hot after the game? Because all of the fans left."
+  TenderYellowYoko = "How come the stadium got hot after the game? Because all of the fans left."
+  DryAmberAlex = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

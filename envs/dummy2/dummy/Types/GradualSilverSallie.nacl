@@ -1,0 +1,83 @@
+type dummy.GradualSilverSallie {
+  annotations {
+    number HomelessSilverSaloma {
+    }
+    serviceid_number MeltedAquaAurel {
+    }
+    boolean RecentBronzeCornela {
+    }
+    string WorthwhilePinkMella {
+    }
+  }
+  hidden_boolean ExuberantBlackCarla {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula RedWhiteWendeline {
+    _hidden_value = true
+  }
+  boolean RealTomatoStephine {
+    _hidden_value = true
+  }
+  serviceid_number InstantSapphireRanee {
+    _hidden_value = true
+  }
+  number CoolGreenIolanthe {
+    _hidden_value = true
+  }
+  serviceid_number UnknownFuchsiaGilberta2 {
+    _hidden_value = true
+  }
+  serviceid ProposedGoldGwendolin2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnsightlyTurquoiseTiphany {
+    _hidden_value = true
+  }
+  json ShortAmethystAnabel {
+    _hidden_value = true
+  }
+  serviceid BalancedSilverRoslyn {
+    _hidden_value = true
+  }
+  serviceid_number CertainBronzeClemmy {
+    _hidden_value = true
+  }
+  serviceid_number RemainingGoldGodiva {
+    _hidden_value = true
+  }
+  hidden_boolean EducationalCrimsonErtha {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SleepyTomatoSuellen {
+    _hidden_value = true
+  }
+  string ExperiencedMagentaLaural {
+    _hidden_value = true
+  }
+  number InitialCoralElsey {
+    _hidden_value = true
+  }
+  serviceid MassiveFuchsiaGerry2 {
+    _hidden_value = true
+  }
+  hidden_boolean WonderfulYellowZonda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json TenderRedOdelinda {
+    _hidden_value = true
+  }
+  serviceid MusicalIndigoJobey {
+    _hidden_value = true
+  }
+  HomelessSilverSaloma = 110
+  MeltedAquaAurel = 53
+  RecentBronzeCornela = true
+  WorthwhilePinkMella = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

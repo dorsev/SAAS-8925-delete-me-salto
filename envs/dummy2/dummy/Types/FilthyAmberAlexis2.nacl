@@ -1,0 +1,26 @@
+type dummy.FilthyAmberAlexis2 {
+  annotations {
+    number ApparentCyanFawne {
+    }
+    hidden_boolean GrowingCrimsonEnrichetta2 {
+    }
+    serviceid_number UnemployedIvoryJolie3 {
+    }
+    serviceid CrudePlumMildred {
+    }
+    hidden_boolean BusyTealShirlene {
+    }
+    boolean LiberalCyanFarica {
+    }
+  }
+  hidden_boolean TerritorialSalmonPrisca2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ApparentCyanFawne = 331
+  UnemployedIvoryJolie3 = 783
+  CrudePlumMildred = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LiberalCyanFarica = true
+  _hidden_value = true
+}

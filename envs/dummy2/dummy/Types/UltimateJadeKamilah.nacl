@@ -1,0 +1,89 @@
+type dummy.UltimateJadeKamilah {
+  annotations {
+    json NearFuchsiaGerianna {
+    }
+    dummy.DEFAULT SuperbMagentaLaurene {
+    }
+    hidden_boolean ImaginativeTanSeline4 {
+    }
+    boolean GrowingCrimsonEnrichetta3 {
+    }
+    boolean GoldenGrayHaleigh {
+    }
+    boolean LiberalCyanFarica2 {
+    }
+  }
+  dummy.OrdinaryCopperEdi PassingSalmonPollyanna {
+    SillyYellowWini = 552
+    CruelAquamarineBessy = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    TameYellowYalonda = 966
+    RareWhiteWanda = 376
+    SpareMaroonLillis = "What do you call two barracuda fish?  A Pairacuda!"
+    StupidGreenIzabel = 926
+    MaximumGreenIlyssa = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    TerritorialSalmonPriscella = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    VariedRedNoreen = 118
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 247
+    IntenseLavenderKatuscha = 128
+    SubtleMoccasinLucie = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" DeliberateRedNoelyn3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string CrazyTealSibylla {
+    _hidden_value = true
+  }
+  boolean PureGrayHenryetta3 {
+    _hidden_value = true
+  }
+  serviceid_number SpanishGreenIormina {
+    _hidden_value = true
+  }
+  "List<number>" TenderAquamarineBeatriz {
+    _hidden_value = true
+  }
+  json SlimyAquamarineBarbara {
+    _hidden_value = true
+  }
+  boolean OfficialCopperDorita3 {
+    _hidden_value = true
+  }
+  serviceid_number RegulatorySalmonQuintana3 {
+    _hidden_value = true
+  }
+  serviceid_number ImmediateCrimsonEmelita {
+    _hidden_value = true
+  }
+  json FamousCoralElianora4 {
+    _hidden_value = true
+  }
+  serviceid_number PurpleScarletRita3 {
+    _hidden_value = true
+  }
+  serviceid_number TurkishPurpleMoyna2 {
+    _hidden_value = true
+  }
+  number GoldenGrayHaley {
+    _hidden_value = true
+  }
+  serviceid DirectChocolateDeana2 {
+    _hidden_value = true
+  }
+  serviceid_number ModernAmethystAmelie {
+    _hidden_value = true
+  }
+  NearFuchsiaGerianna = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SuperbMagentaLaurene = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  GrowingCrimsonEnrichetta3 = false
+  GoldenGrayHaleigh = false
+  LiberalCyanFarica2 = false
+  _hidden_value = true
+}

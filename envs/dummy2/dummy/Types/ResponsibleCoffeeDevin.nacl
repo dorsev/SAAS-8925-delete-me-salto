@@ -1,0 +1,30 @@
+type dummy.ResponsibleCoffeeDevin {
+  annotations {
+    string OrangeWhiteViola {
+    }
+    serviceid_number OverwhelmingPurpleMyrna {
+    }
+    serviceid GladGoldGlyn {
+    }
+    boolean RelatedIndigoJessalyn {
+    }
+    dummy.DEFAULT NetGoldGlenda {
+    }
+    dummy.DEFAULT ProudHarlequinJan {
+    }
+  }
+  string GenerousLavenderKayley {
+    _hidden_value = true
+  }
+  OrangeWhiteViola = "Slept like a log last night  woke up in the fireplace."
+  OverwhelmingPurpleMyrna = 714
+  GladGoldGlyn = "Im only familiar with 25 letters in the English language. I dont know why."
+  RelatedIndigoJessalyn = true
+  NetGoldGlenda = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  ProudHarlequinJan = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  _hidden_value = true
+}

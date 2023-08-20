@@ -1,0 +1,49 @@
+type dummy.UnemployedIvoryJolie {
+  annotations {
+    serviceid_number HomelyTurquoiseTessa {
+    }
+    number NuttyWhiteVikki {
+    }
+    serviceid_number DistinguishedPurpleNathalia2 {
+    }
+    boolean CalmPurpleNancee2 {
+    }
+    json DustyAmberAlexia {
+    }
+    number OverallCrimsonEmmalyn {
+    }
+    boolean WorryingSilverRozamond {
+    }
+  }
+  "List<serviceid>" JudicialJadeKarisa {
+    _hidden_value = true
+  }
+  serviceid CatholicHarlequinJamima {
+    _hidden_value = true
+  }
+  hidden_boolean AllegedOliveLynn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SympatheticPinkMeade {
+    _hidden_value = true
+  }
+  number FashionableSapphireRenae {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" WickedBeigeBryana {
+    _hidden_value = true
+  }
+  serviceid_number StraightHarlequinJaine {
+    _hidden_value = true
+  }
+  HomelyTurquoiseTessa = 458
+  NuttyWhiteVikki = 896
+  DistinguishedPurpleNathalia2 = 701
+  CalmPurpleNancee2 = false
+  DustyAmberAlexia = "Slept like a log last night  woke up in the fireplace."
+  OverallCrimsonEmmalyn = 885
+  WorryingSilverRozamond = false
+  _hidden_value = true
+}

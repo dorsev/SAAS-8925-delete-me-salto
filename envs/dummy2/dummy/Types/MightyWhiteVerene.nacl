@@ -1,0 +1,27 @@
+type dummy.MightyWhiteVerene {
+  annotations {
+    json BadVioletToinette {
+    }
+    string ManyAmethystAnette {
+    }
+    json ImplicitSapphireRheba {
+    }
+    dummy.DEFAULT NarrowCyanFara {
+    }
+    hidden_boolean OnlyBlushClaresta {
+    }
+    json UninterestedTomatoSusy {
+    }
+  }
+  json OddWhiteVinny {
+    _hidden_value = true
+  }
+  BadVioletToinette = "Whoever invented the knock-knock joke should get a no bell prize."
+  ManyAmethystAnette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ImplicitSapphireRheba = "Slept like a log last night  woke up in the fireplace."
+  NarrowCyanFara = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  UninterestedTomatoSusy = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

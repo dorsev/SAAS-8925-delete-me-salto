@@ -1,0 +1,23 @@
+type dummy.DisappointedMagentaLauryn2 {
+  annotations {
+    json PatientPurpleNani3 {
+    }
+    hidden_boolean BewilderedAquamarineBernie {
+    }
+    dummy.ExactLimeKordula UniformScarletRosalyn {
+    }
+    boolean MereGreenIdette {
+    }
+    hidden_boolean VerbalPinkMaxi2 {
+    }
+  }
+  hidden_boolean PhilosophicalRedNoell {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  PatientPurpleNani3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  UniformScarletRosalyn = 893
+  MereGreenIdette = true
+  _hidden_value = true
+}

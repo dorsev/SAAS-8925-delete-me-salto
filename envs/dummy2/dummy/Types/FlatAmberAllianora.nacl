@@ -1,0 +1,45 @@
+type dummy.FlatAmberAllianora {
+  annotations {
+    boolean GivenHarlequinJaney {
+    }
+    json ColdAmaranthAimee3 {
+    }
+    serviceid TragicRosePaulita3 {
+    }
+    string ConfidentHarlequinJade {
+    }
+    hidden_boolean SpareMaroonLilli {
+    }
+    json FellowJadeJustinn2 {
+    }
+    hidden_boolean VaguePinkMeghann2 {
+    }
+    dummy.OrdinaryCopperEdi CuriousLimeKira {
+    }
+  }
+  string BlondeTomatoTalia {
+    _hidden_value = true
+  }
+  serviceid FamousTealSiusan {
+    _hidden_value = true
+  }
+  json HandsomeVioletUta {
+    _hidden_value = true
+  }
+  string RelativeGoldGuillema2 {
+    _hidden_value = true
+  }
+  boolean VastYellowZarla2 {
+    _hidden_value = true
+  }
+  json CompleteCoffeeDevina {
+    _hidden_value = true
+  }
+  GivenHarlequinJaney = false
+  ColdAmaranthAimee3 = "I'll tell you what often gets over looked... garden fences."
+  TragicRosePaulita3 = "Dad Im hungry  Hi hungry Im dad"
+  ConfidentHarlequinJade = "Why didnt the skeleton cross the road? Because he had no guts."
+  FellowJadeJustinn2 = "What do you call two barracuda fish?  A Pairacuda!"
+  CuriousLimeKira = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

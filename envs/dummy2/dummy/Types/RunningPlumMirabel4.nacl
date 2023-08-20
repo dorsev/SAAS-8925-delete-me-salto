@@ -1,0 +1,41 @@
+type dummy.RunningPlumMirabel4 {
+  annotations {
+    string DivineRoseOphelia {
+    }
+    boolean StillIndigoJinny {
+    }
+    serviceid_number GenuineGreenIssi3 {
+    }
+    json MajorBlushClaire4 {
+    }
+    string ClassicalHarlequinJacklyn2 {
+    }
+  }
+  boolean OrthodoxSapphireRebecca2 {
+    _hidden_value = true
+  }
+  string MusicalIndigoJobey4 {
+    _hidden_value = true
+  }
+  string GeographicalPeachMarleen3 {
+    _hidden_value = true
+  }
+  boolean BewilderedAquamarineBernita5 {
+    _hidden_value = true
+  }
+  json SharpFuchsiaGeorgine3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HushedApricotAnnamaria {
+    _hidden_value = true
+  }
+  boolean ZanyYellowZsazsa4 {
+    _hidden_value = true
+  }
+  DivineRoseOphelia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  StillIndigoJinny = false
+  GenuineGreenIssi3 = 924
+  MajorBlushClaire4 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ClassicalHarlequinJacklyn2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

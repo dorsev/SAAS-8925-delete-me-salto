@@ -1,0 +1,54 @@
+type dummy.NativeJadeKate2 {
+  annotations {
+    serviceid_number SoundAmethystAngeline3 {
+    }
+    number SexualCopperEachelle4 {
+    }
+    json BeautifulCoffeeDita2 {
+    }
+    dummy.DEFAULT NuclearCoffeeDonielle6 {
+    }
+    json FineBrownCourtenay3 {
+    }
+  }
+  serviceid_number PureGrayHephzibah2 {
+    _hidden_value = true
+  }
+  number FilthyTurquoiseTeodora3 {
+    _hidden_value = true
+  }
+  serviceid_number JollyBlackCarri3 {
+    _hidden_value = true
+  }
+  number SufficientCrimsonEolanda4 {
+    _hidden_value = true
+  }
+  boolean SoreBeigeBrigid2 {
+    _hidden_value = true
+  }
+  number UnawareSapphireReeba2 {
+    _hidden_value = true
+  }
+  json SeniorCoffeeDonetta2 {
+    _hidden_value = true
+  }
+  serviceid_number ExtensiveGoldGloriane3 {
+    _hidden_value = true
+  }
+  hidden_boolean ToughGoldGlenn4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json CrowdedTomatoTani4 {
+    _hidden_value = true
+  }
+  SoundAmethystAngeline3 = 472
+  SexualCopperEachelle4 = 834
+  BeautifulCoffeeDita2 = "Slept like a log last night  woke up in the fireplace."
+  NuclearCoffeeDonielle6 = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  FineBrownCourtenay3 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

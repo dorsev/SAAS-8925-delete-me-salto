@@ -1,0 +1,23 @@
+type dummy.CrowdedTomatoTania3 {
+  annotations {
+    boolean GreekIndigoJoane {
+    }
+    boolean RealTomatoStephine3 {
+    }
+    string OrdinaryCopperEdin {
+    }
+    boolean RapidGrayHildagarde2 {
+    }
+    json MarxistSapphireRaine {
+    }
+  }
+  string ColossalAmaranthAbbie2 {
+    _hidden_value = true
+  }
+  GreekIndigoJoane = false
+  RealTomatoStephine3 = true
+  OrdinaryCopperEdin = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RapidGrayHildagarde2 = true
+  MarxistSapphireRaine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

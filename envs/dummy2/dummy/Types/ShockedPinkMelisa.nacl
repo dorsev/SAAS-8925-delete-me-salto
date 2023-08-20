@@ -1,0 +1,66 @@
+type dummy.ShockedPinkMelisa {
+  annotations {
+    json UnknownFuchsiaGigi {
+    }
+    json DisgustedAzureBeulah {
+    }
+    string RareWhiteWandie {
+    }
+    dummy.SpectacularMaroonLibbie BadAquamarineBerni {
+    }
+  }
+  dummy.OrdinaryCopperEdi AdorableTomatoSybille {
+    SillyYellowWini = 95
+    CruelAquamarineBessy = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    TameYellowYalonda = 226
+    RareWhiteWanda = 25
+    SpareMaroonLillis = "What do you call two barracuda fish?  A Pairacuda!"
+    StupidGreenIzabel = 184
+    MaximumGreenIlyssa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    TerritorialSalmonPriscella = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    VariedRedNoreen = 954
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 997
+    IntenseLavenderKatuscha = 780
+    SubtleMoccasinLucie = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  boolean LengthySapphireRania3 {
+    _hidden_value = true
+  }
+  boolean NormalBrownDamaris2 {
+    _hidden_value = true
+  }
+  serviceid DrabTurquoiseTasia {
+    _hidden_value = true
+  }
+  boolean GreatAmaranthAddie2 {
+    _hidden_value = true
+  }
+  hidden_boolean BoilingAmaranthAgretha {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string WillingGoldGusta {
+    _hidden_value = true
+  }
+  number LiveIndigoJodi {
+    _hidden_value = true
+  }
+  hidden_boolean RacialPlumMichelle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean OrangePurpleMuire2 {
+    _hidden_value = true
+  }
+  UnknownFuchsiaGigi = "What do you call two barracuda fish?  A Pairacuda!"
+  DisgustedAzureBeulah = "Whoever invented the knock-knock joke should get a no bell prize."
+  RareWhiteWandie = "What do you call two barracuda fish?  A Pairacuda!"
+  BadAquamarineBerni = 876
+  _hidden_value = true
+}

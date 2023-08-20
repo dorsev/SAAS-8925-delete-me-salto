@@ -1,0 +1,29 @@
+type dummy.InfluentialMoccasinLorette2 {
+  annotations {
+    dummy.DEFAULT ProudBlueCatherin2 {
+    }
+    hidden_boolean ChemicalGreenIsadora {
+    }
+    string AmusedBeigeCacilie3 {
+    }
+  }
+  serviceid HomelessSilverSalome2 {
+    _hidden_value = true
+  }
+  serviceid_number AshamedScarletRosalynd {
+    _hidden_value = true
+  }
+  hidden_boolean HistoricalCyanEvangelina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number NecessaryBronzeCorabella {
+    _hidden_value = true
+  }
+  ProudBlueCatherin2 = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  AmusedBeigeCacilie3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

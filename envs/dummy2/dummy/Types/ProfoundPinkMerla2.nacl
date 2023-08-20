@@ -1,0 +1,25 @@
+type dummy.ProfoundPinkMerla2 {
+  annotations {
+    serviceid SteadyAquamarineBea2 {
+    }
+    string GratefulIvoryJorie {
+    }
+    string EssentialCoffeeDione {
+    }
+    boolean KindVioletVally {
+    }
+    number StrategicHarlequinJeannie {
+    }
+    hidden_boolean RollingSilverRubia2 {
+    }
+  }
+  serviceid_number SickFuchsiaGeraldine2 {
+    _hidden_value = true
+  }
+  SteadyAquamarineBea2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  GratefulIvoryJorie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EssentialCoffeeDione = "Did you know that protons have mass? I didn't even know they were catholic."
+  KindVioletVally = false
+  StrategicHarlequinJeannie = 361
+  _hidden_value = true
+}

@@ -1,0 +1,47 @@
+type dummy.DirectChocolateDeane4 {
+  annotations {
+    json QuaintTurquoiseThomasina {
+    }
+    serviceid_number UnevenAquamarineBeilul2 {
+    }
+    json DefeatedAzureBetsy2 {
+    }
+    serviceid PainfulMaroonLillis {
+    }
+    boolean WonderfulEmeraldFlossy {
+    }
+  }
+  boolean RegisteredPurpleNadya {
+    _hidden_value = true
+  }
+  number SoundAmethystAngelina {
+    _hidden_value = true
+  }
+  serviceid_number CrazyVioletTresa2 {
+    _hidden_value = true
+  }
+  serviceid_number RichCoffeeDorelia2 {
+    _hidden_value = true
+  }
+  boolean CrookedAmberAlisa2 {
+    _hidden_value = true
+  }
+  serviceid_number TragicRosePavia3 {
+    _hidden_value = true
+  }
+  boolean PreciousWhiteVirginie {
+    _hidden_value = true
+  }
+  string SlimyAquamarineBarbabra2 {
+    _hidden_value = true
+  }
+  json AmateurSalmonPhylys {
+    _hidden_value = true
+  }
+  QuaintTurquoiseThomasina = "To be Frank, I'd have to change my name."
+  UnevenAquamarineBeilul2 = 98
+  DefeatedAzureBetsy2 = "A steak pun is a rare medium well done."
+  PainfulMaroonLillis = "Why did the kid cross the playground? To get to the other slide."
+  WonderfulEmeraldFlossy = false
+  _hidden_value = true
+}

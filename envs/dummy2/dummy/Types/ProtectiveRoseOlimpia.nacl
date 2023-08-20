@@ -1,0 +1,53 @@
+type dummy.ProtectiveRoseOlimpia {
+  annotations {
+    serviceid_number DeliberateRedNoellyn2 {
+    }
+    hidden_boolean PlannedPlumMireielle {
+    }
+    string SpiritualLavenderKatlin {
+    }
+    boolean CentralBronzeConcordia {
+    }
+  }
+  serviceid_number EssentialCoffeeDion {
+    _hidden_value = true
+  }
+  boolean SteepAmethystAlys2 {
+    _hidden_value = true
+  }
+  serviceid ExcessSilverSapphire2 {
+    _hidden_value = true
+  }
+  number PermanentFuchsiaGayel3 {
+    _hidden_value = true
+  }
+  boolean JollyVioletVallie {
+    _hidden_value = true
+  }
+  hidden_boolean SurroundingOrangeMarget {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json HiddenRedOdessa2 {
+    _hidden_value = true
+  }
+  "List<boolean>" FundamentalFuchsiaGene {
+    _hidden_value = true
+  }
+  boolean GracefulTurquoiseTerrie {
+    _hidden_value = true
+  }
+  hidden_boolean WonderfulBlueCelesta4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number RapidGrayHildagard {
+    _hidden_value = true
+  }
+  DeliberateRedNoellyn2 = 291
+  SpiritualLavenderKatlin = "A steak pun is a rare medium well done."
+  CentralBronzeConcordia = true
+  _hidden_value = true
+}

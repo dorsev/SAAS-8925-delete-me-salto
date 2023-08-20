@@ -1,0 +1,26 @@
+type dummy.DampMoccasinLory {
+  annotations {
+    json InstantSapphireRanee2 {
+    }
+    serviceid SystematicOrangeMarcela {
+    }
+    number IllEmeraldGae2 {
+    }
+    serviceid_number BalancedSilverRosita {
+    }
+    boolean DisturbingTealSherie2 {
+    }
+    string LuckyBlackCassandry {
+    }
+  }
+  string BadVioletToma {
+    _hidden_value = true
+  }
+  InstantSapphireRanee2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SystematicOrangeMarcela = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  IllEmeraldGae2 = 228
+  BalancedSilverRosita = 486
+  DisturbingTealSherie2 = false
+  LuckyBlackCassandry = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

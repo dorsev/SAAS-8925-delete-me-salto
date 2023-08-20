@@ -1,0 +1,56 @@
+type dummy.OrthodoxSapphireRebecka {
+  annotations {
+    number UninterestedTomatoSusie {
+    }
+    hidden_boolean PassingSalmonPippy {
+    }
+    serviceid_number SecondaryFuchsiaGertruda {
+    }
+    hidden_boolean PainfulMaroonLilly2 {
+    }
+    serviceid_number ProbableSalmonPhylys2 {
+    }
+    serviceid LoudApricotAnnadiana {
+    }
+  }
+  dummy.DEFAULT LovelyCoralEllissa3 {
+    _hidden_value = true
+  }
+  serviceid_number FantasticBlackCarline {
+    _hidden_value = true
+  }
+  number SkilledMoccasinLuce {
+    _hidden_value = true
+  }
+  hidden_boolean DoubleCrimsonEthyl {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json SillyIvoryJoelie {
+    _hidden_value = true
+  }
+  number JollyVioletValina2 {
+    _hidden_value = true
+  }
+  json FrozenScarletRos2 {
+    _hidden_value = true
+  }
+  serviceid_number ProvincialPeachMarita3 {
+    _hidden_value = true
+  }
+  boolean RoundAmberAlmeta2 {
+    _hidden_value = true
+  }
+  number CuddlyAmberAlayne2 {
+    _hidden_value = true
+  }
+  string PleasantBlackCatha2 {
+    _hidden_value = true
+  }
+  UninterestedTomatoSusie = 350
+  SecondaryFuchsiaGertruda = 206
+  ProbableSalmonPhylys2 = 874
+  LoudApricotAnnadiana = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

@@ -1,0 +1,137 @@
+type dummy.EconomicBlushClarabelle {
+  annotations {
+    boolean InappropriateRoseOttilie2 {
+    }
+    json PrettyWhiteVirgie {
+    }
+    hidden_boolean BoringPeachMarnia {
+    }
+    json PunyAmaranthAeriell2 {
+    }
+  }
+  dummy.AnxiousHarlequinJanna RemarkableGreenHyacintha {
+    ColonialPeachMaure = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    GloriousBlackCarmine = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  string MuteApricotAnneliese {
+    _hidden_value = true
+  }
+  number RedBrownDallas4 {
+    _hidden_value = true
+  }
+  hidden_boolean IllAzureBobbi2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ProudBlueCatherina2 {
+    _hidden_value = true
+  }
+  boolean ContinuousIvoryJuanita {
+    _hidden_value = true
+  }
+  serviceid_number FellowJadeJustine3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LightAmethystAnett2 {
+    _hidden_value = true
+  }
+  boolean BlackBlushClarisse3 {
+    _hidden_value = true
+  }
+  serviceid_number KindOrangeMaribelle2 {
+    _hidden_value = true
+  }
+  json AshamedAquamarineBernadina2 {
+    _hidden_value = true
+  }
+  serviceid ElaborateRedNicolette {
+    _hidden_value = true
+  }
+  number CompatibleSapphireRennie2 {
+    _hidden_value = true
+  }
+  serviceid MonthlyMaroonLinette {
+    _hidden_value = true
+  }
+  string CharacteristicOliveMalinda2 {
+    _hidden_value = true
+  }
+  string MagicOrangeManya3 {
+    _hidden_value = true
+  }
+  json ImperialLavenderKath2 {
+    _hidden_value = true
+  }
+  serviceid_number IndustrialBrownDannye2 {
+    _hidden_value = true
+  }
+  json MaleCoffeeDiannne {
+    _hidden_value = true
+  }
+  serviceid ObviousCoffeeDolly {
+    _hidden_value = true
+  }
+  number SufficientCrimsonEolande {
+    _hidden_value = true
+  }
+  json PeculiarPlumMicheline2 {
+    _hidden_value = true
+  }
+  "List<number>" WickedBeigeBrunhilde {
+    _hidden_value = true
+  }
+  "List<string>" ParallelMoccasinLuisa {
+    _hidden_value = true
+  }
+  boolean VaguePinkMehetabel2 {
+    _hidden_value = true
+  }
+  serviceid_number UgliestYellowZaneta2 {
+    _hidden_value = true
+  }
+  serviceid ContentPeachMatti2 {
+    _hidden_value = true
+  }
+  serviceid_number SingleBronzeCorabelle {
+    _hidden_value = true
+  }
+  hidden_boolean FinalBrownDale2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BlueCoffeeDian2 {
+    _hidden_value = true
+  }
+  hidden_boolean AshamedScarletRosana {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ZanyYellowZulema2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ColdAmaranthAime {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" LooseAquaAugustina5 {
+    _hidden_value = true
+  }
+  number PoisedTurquoiseThomasa6 {
+    _hidden_value = true
+  }
+  string ParticularBlushClaude2 {
+    _hidden_value = true
+  }
+  json GradualSilverSallee3 {
+    _hidden_value = true
+  }
+  InappropriateRoseOttilie2 = true
+  PrettyWhiteVirgie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PunyAmaranthAeriell2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

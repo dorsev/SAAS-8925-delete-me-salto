@@ -1,0 +1,60 @@
+type dummy.SuperbMagentaLaurena2 {
+  annotations {
+    hidden_boolean SufficientCrimsonEolanda3 {
+    }
+    number IraqiOliveMadelyn2 {
+    }
+    string EquivalentJadeKaleena3 {
+    }
+    serviceid_number DependentGrayHeath {
+    }
+    hidden_boolean PricklyAquaAurilia {
+    }
+  }
+  dummy.AnxiousHarlequinJanna BrokenIndigoJoceline {
+    ColonialPeachMaure = "To be Frank, I'd have to change my name."
+    GloriousBlackCarmine = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula GeneralBlushChristean4 {
+    _hidden_value = true
+  }
+  number ModestLavenderKelsi4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PaleGrayHarrietta {
+    _hidden_value = true
+  }
+  string BindingSalmonPetra {
+    _hidden_value = true
+  }
+  serviceid_number FierceAzureBillye2 {
+    _hidden_value = true
+  }
+  hidden_boolean CoolGreenIolande2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ParentalRedNicki5 {
+    _hidden_value = true
+  }
+  boolean NegativeEmeraldGarnette2 {
+    _hidden_value = true
+  }
+  boolean ObnoxiousAzureBrandi3 {
+    _hidden_value = true
+  }
+  serviceid QuickestWhiteVyky {
+    _hidden_value = true
+  }
+  hidden_boolean BlondeTomatoTaffy2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  IraqiOliveMadelyn2 = 80
+  EquivalentJadeKaleena3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DependentGrayHeath = 320
+  _hidden_value = true
+}

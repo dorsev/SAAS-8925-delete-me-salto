@@ -1,0 +1,26 @@
+type dummy.LivelyBlackCasey {
+  annotations {
+    number HappyVioletValaria {
+    }
+    serviceid_number AmusedBeigeCacilie2 {
+    }
+    dummy.AnxiousHarlequinJanna OldAmethystAmi2 {
+    }
+    serviceid_number CircularRoseOriana {
+    }
+    serviceid_number ComparableMoccasinLizette {
+    }
+    string BlushingTomatoTamar {
+    }
+  }
+  string ConfusedAquamarineBerty {
+    _hidden_value = true
+  }
+  HappyVioletValaria = 265
+  AmusedBeigeCacilie2 = 299
+  OldAmethystAmi2 = "I'll tell you what often gets over looked... garden fences."
+  CircularRoseOriana = 705
+  ComparableMoccasinLizette = 487
+  BlushingTomatoTamar = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

@@ -1,0 +1,94 @@
+type dummy.ThirstyAquaAsia {
+  annotations {
+    serviceid_number FuriousRedNicolle {
+    }
+    serviceid_number AncientEmeraldFlor {
+    }
+    string DecentMoccasinLora {
+    }
+    json SuccessiveMoccasinLola {
+    }
+    number SteepAmberAlyda {
+    }
+  }
+  dummy.SpectacularMaroonLibbie MarkedMagentaLauraine {
+    FriendlyBlackCarma = 848
+    FrightenedMagentaLavena = 534
+    RepulsiveBeigeBrena = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UptightBeigeBrittni = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    ExactLimeKordula2 = 401
+    LocalBlueCharmian = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    SensibleIvoryJordana = "What do you call two barracuda fish?  A Pairacuda!"
+    MonetaryIvoryJoey = "What do you do on a remote island? Try and find the TV island it belongs to."
+    WickedBeigeBryna = "Why did the tomato blush? Because it saw the salad dressing."
+    AshamedScarletRosamund = 590
+    ChillyAmaranthAilsun = 585
+    CooingAmethystAngelique = 773
+    FatalPurpleMyrtle = 497
+    ThoughtlessBeigeBrinna = "Im only familiar with 25 letters in the English language. I dont know why."
+    EvilAzureBili = 445
+    RelievedBlueCathie = false
+    CleverTealSibeal = "Did you know that protons have mass? I didn't even know they were catholic."
+    GrowingCrimsonEnrichetta = 95
+    _hidden_value = true
+  }
+  boolean TenderAquamarineBecca {
+    _hidden_value = true
+  }
+  serviceid CuriousLimeKirby {
+    _hidden_value = true
+  }
+  number CommercialCopperDorelle {
+    _hidden_value = true
+  }
+  string SlowAmethystAnabelle {
+    _hidden_value = true
+  }
+  boolean ParliamentaryFuchsiaGertrudis {
+    _hidden_value = true
+  }
+  string WorriedGrayHarri {
+    _hidden_value = true
+  }
+  serviceid_number CognitiveSalmonQuinn {
+    _hidden_value = true
+  }
+  number WorryingSilverRozalin {
+    _hidden_value = true
+  }
+  number CivicTanShelley {
+    _hidden_value = true
+  }
+  number AgriculturalGoldGoldi {
+    _hidden_value = true
+  }
+  serviceid_number HomelessSilverSalome {
+    _hidden_value = true
+  }
+  boolean ProperCoralElinore {
+    _hidden_value = true
+  }
+  hidden_boolean AbundantAmethystAndie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean WoodenGreenHoratia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid BoredPlumMonika {
+    _hidden_value = true
+  }
+  FuriousRedNicolle = 332
+  AncientEmeraldFlor = 699
+  DecentMoccasinLora = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SuccessiveMoccasinLola = "Slept like a log last night  woke up in the fireplace."
+  SteepAmberAlyda = 978
+  _hidden_value = true
+}

@@ -1,0 +1,115 @@
+type dummy.SouthernCyanEvita {
+  annotations {
+    json HeavyChocolateDavita3 {
+    }
+    serviceid WonderfulYellowZoe4 {
+    }
+    json SymbolicPurpleNadine {
+    }
+    dummy.DEFAULT FierceAzureBillye3 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie StupidTomatoSusan3 {
+    FriendlyBlackCarma = 773
+    FrightenedMagentaLavena = 705
+    RepulsiveBeigeBrena = "Why didnt the skeleton cross the road? Because he had no guts."
+    UptightBeigeBrittni = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    ExactLimeKordula2 = 647
+    LocalBlueCharmian = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    SensibleIvoryJordana = "What did one nut say as he chased another nut?  I'm a cashew!"
+    MonetaryIvoryJoey = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WickedBeigeBryna = "Why didnt the skeleton cross the road? Because he had no guts."
+    AshamedScarletRosamund = 735
+    ChillyAmaranthAilsun = 196
+    CooingAmethystAngelique = 454
+    FatalPurpleMyrtle = 789
+    ThoughtlessBeigeBrinna = "Im only familiar with 25 letters in the English language. I dont know why."
+    EvilAzureBili = 311
+    RelievedBlueCathie = false
+    CleverTealSibeal = "Why was it called the dark ages? Because of all the knights. "
+    GrowingCrimsonEnrichetta = 601
+    _hidden_value = true
+  }
+  number LightAmethystAnet2 {
+    _hidden_value = true
+  }
+  serviceid_number GreyEmeraldFranni2 {
+    _hidden_value = true
+  }
+  hidden_boolean HonChocolateDatha2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PowerfulCopperDru2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean BraveMoccasinLucine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean EagerBeigeCandra {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean MutualLimeKimberley2 {
+    _hidden_value = true
+  }
+  number LivingGrayHenrietta {
+    _hidden_value = true
+  }
+  serviceid OrangePurpleMufinella2 {
+    _hidden_value = true
+  }
+  boolean HappyVioletVale3 {
+    _hidden_value = true
+  }
+  serviceid NearFuchsiaGerianne3 {
+    _hidden_value = true
+  }
+  boolean RespectiveSalmonPerry4 {
+    _hidden_value = true
+  }
+  number WeeSapphireRetha3 {
+    _hidden_value = true
+  }
+  number KeenGrayHannah {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GrandEmeraldFrancene3 {
+    _hidden_value = true
+  }
+  serviceid LightAmethystAnett3 {
+    _hidden_value = true
+  }
+  "List<json>" ConventionalGoldGussie3 {
+    _hidden_value = true
+  }
+  serviceid UptightBeigeBrook2 {
+    _hidden_value = true
+  }
+  string GothicSapphireRamona4 {
+    _hidden_value = true
+  }
+  json FantasticBlackCarlotta5 {
+    _hidden_value = true
+  }
+  serviceid HostileOrangeMariejeanne4 {
+    _hidden_value = true
+  }
+  HeavyChocolateDavita3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  WonderfulYellowZoe4 = "I'll tell you what often gets over looked... garden fences."
+  SymbolicPurpleNadine = "Did you know that protons have mass? I didn't even know they were catholic."
+  FierceAzureBillye3 = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  _hidden_value = true
+}

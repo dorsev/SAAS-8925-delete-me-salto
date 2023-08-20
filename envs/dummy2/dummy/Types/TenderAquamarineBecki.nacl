@@ -1,0 +1,154 @@
+type dummy.TenderAquamarineBecki {
+  annotations {
+    number BloodyTomatoTallie {
+    }
+    number FriendlyVioletTrudie {
+    }
+    boolean LengthySapphireRanice {
+    }
+  }
+  dummy.SpectacularMaroonLibbie EerieAzureBianca {
+    FriendlyBlackCarma = 394
+    FrightenedMagentaLavena = 834
+    RepulsiveBeigeBrena = "I'll tell you what often gets over looked... garden fences."
+    UptightBeigeBrittni = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    ExactLimeKordula2 = 87
+    LocalBlueCharmian = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    SensibleIvoryJordana = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MonetaryIvoryJoey = "I'll tell you what often gets over looked... garden fences."
+    WickedBeigeBryna = "Did you know that protons have mass? I didn't even know they were catholic."
+    AshamedScarletRosamund = 98
+    ChillyAmaranthAilsun = 616
+    CooingAmethystAngelique = 200
+    FatalPurpleMyrtle = 940
+    ThoughtlessBeigeBrinna = "Did you know that protons have mass? I didn't even know they were catholic."
+    EvilAzureBili = 33
+    RelievedBlueCathie = false
+    CleverTealSibeal = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    GrowingCrimsonEnrichetta = 985
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi CrucialFuchsiaGenny {
+    SillyYellowWini = 187
+    CruelAquamarineBessy = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    TameYellowYalonda = 450
+    RareWhiteWanda = 285
+    SpareMaroonLillis = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    StupidGreenIzabel = 564
+    MaximumGreenIlyssa = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    TerritorialSalmonPriscella = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    VariedRedNoreen = 945
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 704
+    IntenseLavenderKatuscha = 515
+    SubtleMoccasinLucie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  dummy.SpectacularMaroonLibbie JointCoralElissa {
+    FriendlyBlackCarma = 680
+    FrightenedMagentaLavena = 939
+    RepulsiveBeigeBrena = "What did one nut say as he chased another nut?  I'm a cashew!"
+    UptightBeigeBrittni = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ExactLimeKordula2 = 254
+    LocalBlueCharmian = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    SensibleIvoryJordana = "What do you do on a remote island? Try and find the TV island it belongs to."
+    MonetaryIvoryJoey = "A steak pun is a rare medium well done."
+    WickedBeigeBryna = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AshamedScarletRosamund = 343
+    ChillyAmaranthAilsun = 63
+    CooingAmethystAngelique = 788
+    FatalPurpleMyrtle = 974
+    ThoughtlessBeigeBrinna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    EvilAzureBili = 765
+    RelievedBlueCathie = true
+    CleverTealSibeal = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    GrowingCrimsonEnrichetta = 394
+    _hidden_value = true
+  }
+  "List<boolean>" PositiveCoffeeDonella {
+    _hidden_value = true
+  }
+  hidden_boolean RulingLimeKippie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid_number>" GrubbyAquaAubry2 {
+    _hidden_value = true
+  }
+  serviceid_number MarxistSapphireRaina {
+    _hidden_value = true
+  }
+  hidden_boolean GentleIndigoJobye {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string GeneticMoccasinLorie {
+    _hidden_value = true
+  }
+  json VariousBronzeCorrina {
+    _hidden_value = true
+  }
+  boolean FatVioletTrixi {
+    _hidden_value = true
+  }
+  json IndependentChocolateDella2 {
+    _hidden_value = true
+  }
+  json ShortYellowWilone {
+    _hidden_value = true
+  }
+  boolean RealTomatoStesha {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula ShortYellowWilone2 {
+    _hidden_value = true
+  }
+  serviceid ChemicalGreenIsahella {
+    _hidden_value = true
+  }
+  serviceid_number RedBrownDallas2 {
+    _hidden_value = true
+  }
+  string BumpyAmaranthAiley {
+    _hidden_value = true
+  }
+  number StandardCopperDrusy {
+    _hidden_value = true
+  }
+  hidden_boolean LiquidRosePaloma {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean WarmCopperDulcinea3 {
+    _hidden_value = true
+  }
+  string WeeklyLavenderKessiah {
+    _hidden_value = true
+  }
+  number PurpleScarletRita {
+    _hidden_value = true
+  }
+  json ProtectiveRoseOlive {
+    _hidden_value = true
+  }
+  number EuropeanBronzeConcordia {
+    _hidden_value = true
+  }
+  BloodyTomatoTallie = 899
+  FriendlyVioletTrudie = 865
+  LengthySapphireRanice = false
+  _hidden_value = true
+}

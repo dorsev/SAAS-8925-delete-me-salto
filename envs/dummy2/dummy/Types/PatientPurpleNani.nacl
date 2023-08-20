@@ -1,0 +1,71 @@
+type dummy.PatientPurpleNani {
+  annotations {
+    number WholeBronzeCloe {
+    }
+    boolean HugeAmaranthAdel2 {
+    }
+    boolean CurrentBrownCynthy {
+    }
+    dummy.ExactLimeKordula OutrageousAzureBrandise {
+    }
+    serviceid_number FatAmaranthAbigale2 {
+    }
+  }
+  number SelectiveRedNovelia {
+    _hidden_value = true
+  }
+  number WillingGoldGussy2 {
+    _hidden_value = true
+  }
+  serviceid AlliedPlumMissie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ElectricGreenIngrid {
+    _hidden_value = true
+  }
+  string ConceptualTanShelagh {
+    _hidden_value = true
+  }
+  serviceid BewilderedAquamarineBernita {
+    _hidden_value = true
+  }
+  hidden_boolean RevolutionaryJadeKary2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FatAmaranthAbigael {
+    _hidden_value = true
+  }
+  number PersonalBronzeCordelia {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SuperPeachMartica {
+    _hidden_value = true
+  }
+  hidden_boolean StrangeYellowWinnifred {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean TerribleEmeraldFredra {
+    _hidden_value = true
+  }
+  hidden_boolean EnthusiasticPinkMerrie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number LegalBrownDaile {
+    _hidden_value = true
+  }
+  json PleasantBlackCatharine {
+    _hidden_value = true
+  }
+  WholeBronzeCloe = 289
+  HugeAmaranthAdel2 = false
+  CurrentBrownCynthy = false
+  OutrageousAzureBrandise = 595
+  FatAmaranthAbigale2 = 657
+  _hidden_value = true
+}

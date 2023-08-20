@@ -1,0 +1,82 @@
+type dummy.VariableRedNona2 {
+  annotations {
+    hidden_boolean BoldPlumMinette {
+    }
+    serviceid_number MagentaWhiteVelvet2 {
+    }
+    json SadYellowWillamina2 {
+    }
+    boolean ShallowAmberAloise {
+    }
+    hidden_boolean HugeAmaranthAdel4 {
+    }
+    json AdvancedHarlequinJacenta {
+    }
+  }
+  json BreezyAmaranthAidan2 {
+    _hidden_value = true
+  }
+  hidden_boolean OriginalChocolateDarsey2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AwareChocolateDasha2 {
+    _hidden_value = true
+  }
+  serviceid ModeratePurpleNatalie3 {
+    _hidden_value = true
+  }
+  serviceid_number VictoriousBlueCecil {
+    _hidden_value = true
+  }
+  hidden_boolean GoldenGrayHaleigh2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number MaleCoffeeDianne {
+    _hidden_value = true
+  }
+  string PowerfulCopperDruci2 {
+    _hidden_value = true
+  }
+  json InstitutionalMaroonLeshia3 {
+    _hidden_value = true
+  }
+  serviceid_number ArbitrarySilverRowena {
+    _hidden_value = true
+  }
+  "List<boolean>" GoodBlackCarmon {
+    _hidden_value = true
+  }
+  number AmericanBronzeCorrina {
+    _hidden_value = true
+  }
+  string EstablishedMagentaLeigh3 {
+    _hidden_value = true
+  }
+  serviceid DelightfulBeigeCammie {
+    _hidden_value = true
+  }
+  number IndividualBrownCthrine2 {
+    _hidden_value = true
+  }
+  boolean ConvincingSalmonPeggi {
+    _hidden_value = true
+  }
+  string MusicalIndigoJoanne5 {
+    _hidden_value = true
+  }
+  boolean ParentalRedNicholle2 {
+    _hidden_value = true
+  }
+  number OkayOliveMaggie3 {
+    _hidden_value = true
+  }
+  MagentaWhiteVelvet2 = 218
+  SadYellowWillamina2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ShallowAmberAloise = false
+  AdvancedHarlequinJacenta = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

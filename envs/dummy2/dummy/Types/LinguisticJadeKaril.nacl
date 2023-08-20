@@ -1,0 +1,75 @@
+type dummy.LinguisticJadeKaril {
+  annotations {
+    number MedievalJadeKaren4 {
+    }
+    number LikelyBlushClaribel2 {
+    }
+    json HorizontalSalmonPrudi2 {
+    }
+    boolean WearyBeigeBrooke2 {
+    }
+    serviceid_number TotalBrownDanice {
+    }
+  }
+  number RawJadeKarlen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnchangedSilverRubetta {
+    _hidden_value = true
+  }
+  serviceid_number CrazyTealSibylla2 {
+    _hidden_value = true
+  }
+  string PlasticAquaAuria3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT JealousAzureBobbie {
+    _hidden_value = true
+  }
+  number WetAquamarineBell3 {
+    _hidden_value = true
+  }
+  hidden_boolean LiableLimeKimmi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BrightCoralElyse {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number FortunateRoseOliy {
+    _hidden_value = true
+  }
+  string PoliticalBlushChloette4 {
+    _hidden_value = true
+  }
+  serviceid_number FriendlyVioletTrudy2 {
+    _hidden_value = true
+  }
+  json DisciplinarySilverRycca {
+    _hidden_value = true
+  }
+  string OrganisationalTanSharai4 {
+    _hidden_value = true
+  }
+  string FiscalRedNiki3 {
+    _hidden_value = true
+  }
+  serviceid_number StandardCopperDrusy2 {
+    _hidden_value = true
+  }
+  serviceid_number IcyAquaAudrye {
+    _hidden_value = true
+  }
+  serviceid_number CleanTomatoTami4 {
+    _hidden_value = true
+  }
+  MedievalJadeKaren4 = 235
+  LikelyBlushClaribel2 = 257
+  HorizontalSalmonPrudi2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  WearyBeigeBrooke2 = false
+  TotalBrownDanice = 289
+  _hidden_value = true
+}

@@ -1,0 +1,39 @@
+type dummy.LivelyPeachMarylynne2 {
+  annotations {
+    dummy.DEFAULT AwfulAquamarineBernelle3 {
+    }
+    serviceid JollyBlackCaron {
+    }
+    dummy.DEFAULT AwkwardPeachMarylee3 {
+    }
+    number BloodyCyanFedora3 {
+    }
+  }
+  dummy.OrdinaryCopperEdi RandomMoccasinLorena4 {
+    SillyYellowWini = 250
+    CruelAquamarineBessy = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    TameYellowYalonda = 402
+    RareWhiteWanda = 616
+    SpareMaroonLillis = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    StupidGreenIzabel = 22
+    MaximumGreenIlyssa = "How come the stadium got hot after the game? Because all of the fans left."
+    TerritorialSalmonPriscella = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    VariedRedNoreen = 317
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 862
+    IntenseLavenderKatuscha = 358
+    SubtleMoccasinLucie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  AwfulAquamarineBernelle3 = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  JollyBlackCaron = "Why did the tomato blush? Because it saw the salad dressing."
+  AwkwardPeachMarylee3 = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  BloodyCyanFedora3 = 651
+  _hidden_value = true
+}

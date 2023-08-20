@@ -1,0 +1,22 @@
+type dummy.RelatedIndigoJessamyn {
+  annotations {
+    string EstimatedOrangeMargie2 {
+    }
+    serviceid_number FollowingBrownCynthea3 {
+    }
+    serviceid_number FluffyAmberAlica3 {
+    }
+    serviceid_number GratefulIvoryJorie2 {
+    }
+  }
+  "List<hidden_boolean>" EssentialCoffeeDionne3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  EstimatedOrangeMargie2 = "Dad Im hungry  Hi hungry Im dad"
+  FollowingBrownCynthea3 = 5
+  FluffyAmberAlica3 = 454
+  GratefulIvoryJorie2 = 801
+  _hidden_value = true
+}

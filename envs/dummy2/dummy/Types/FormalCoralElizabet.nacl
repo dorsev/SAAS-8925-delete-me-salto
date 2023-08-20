@@ -1,0 +1,19 @@
+type dummy.FormalCoralElizabet {
+  annotations {
+    serviceid CreepyAmberAlaine3 {
+    }
+    string SkinnyAmberAloysia {
+    }
+    hidden_boolean ExcessSilverSara3 {
+    }
+    json AboveIvoryJoyan {
+    }
+  }
+  serviceid_number SharpAquaBabara {
+    _hidden_value = true
+  }
+  CreepyAmberAlaine3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SkinnyAmberAloysia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AboveIvoryJoyan = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

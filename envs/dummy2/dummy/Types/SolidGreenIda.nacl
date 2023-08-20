@@ -1,0 +1,75 @@
+type dummy.SolidGreenIda {
+  annotations {
+    number AggressiveMaroonLiliane2 {
+    }
+    serviceid_number SuspiciousPurpleMyrle {
+    }
+    string BriefEmeraldFlorrie2 {
+    }
+  }
+  boolean BrightVioletTove {
+    _hidden_value = true
+  }
+  hidden_boolean IntactRosePatti {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SeparateCopperDorolisa {
+    _hidden_value = true
+  }
+  hidden_boolean BriefEmeraldFlory2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SuccessiveMoccasinLois {
+    _hidden_value = true
+  }
+  hidden_boolean SatisfactoryLimeKrissy3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number UndergroundScarletRomonda2 {
+    _hidden_value = true
+  }
+  hidden_boolean AppallingTanSelene3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number LittleBlushChiquia {
+    _hidden_value = true
+  }
+  serviceid_number CleanCyanFernande2 {
+    _hidden_value = true
+  }
+  hidden_boolean StraightAmethystAlysia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ClassicJadeKaitlyn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UptightBeigeBrittne2 {
+    _hidden_value = true
+  }
+  json TerribleBeigeBrinna {
+    _hidden_value = true
+  }
+  json RemoteIndigoJenica {
+    _hidden_value = true
+  }
+  string ComplexCopperDrucill2 {
+    _hidden_value = true
+  }
+  string PreliminaryOliveLynea3 {
+    _hidden_value = true
+  }
+  AggressiveMaroonLiliane2 = 220
+  SuspiciousPurpleMyrle = 667
+  BriefEmeraldFlorrie2 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

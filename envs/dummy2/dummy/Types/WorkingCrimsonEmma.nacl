@@ -1,0 +1,72 @@
+type dummy.WorkingCrimsonEmma {
+  annotations {
+    serviceid_number GreatBlueCharil3 {
+    }
+    number WorryingSilverRozalin3 {
+    }
+    serviceid BigVioletTonie3 {
+    }
+    hidden_boolean LtdCoralElnora4 {
+    }
+    dummy.DEFAULT LoyalPurpleNata {
+    }
+    string RetailMagentaLeontine {
+    }
+    number RainyWhiteWalliw2 {
+    }
+  }
+  string UnknownFuchsiaGigi2 {
+    _hidden_value = true
+  }
+  serviceid_number QuickWhiteVonni5 {
+    _hidden_value = true
+  }
+  serviceid DullTurquoiseTed {
+    _hidden_value = true
+  }
+  serviceid RelievedSalmonPetronella4 {
+    _hidden_value = true
+  }
+  string FatAmaranthAbigail {
+    _hidden_value = true
+  }
+  boolean SystematicOrangeMarcella {
+    _hidden_value = true
+  }
+  number ClumsyVioletTracie2 {
+    _hidden_value = true
+  }
+  hidden_boolean GiantAmaranthAdaline {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SpecificChocolateDarbie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CrazyTealSibylla3 {
+    _hidden_value = true
+  }
+  boolean ScottishChocolateDela {
+    _hidden_value = true
+  }
+  serviceid_number RulingLimeKira {
+    _hidden_value = true
+  }
+  hidden_boolean VastYellowZea3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  GreatBlueCharil3 = 784
+  WorryingSilverRozalin3 = 563
+  BigVioletTonie3 = "Why did the kid cross the playground? To get to the other slide."
+  LoyalPurpleNata = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  RetailMagentaLeontine = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RainyWhiteWalliw2 = 884
+  _hidden_value = true
+}

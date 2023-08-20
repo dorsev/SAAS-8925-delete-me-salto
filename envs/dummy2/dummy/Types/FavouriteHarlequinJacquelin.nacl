@@ -1,0 +1,26 @@
+type dummy.FavouriteHarlequinJacquelin {
+  annotations {
+    boolean AwkwardPeachMaryl2 {
+    }
+    number UnsightlyTurquoiseTiphany2 {
+    }
+    serviceid IncreasedCrimsonEstella2 {
+    }
+    dummy.SpectacularMaroonLibbie InstantSapphireRandy3 {
+    }
+    number SportingSilverRuthi {
+    }
+    string BeautifulVioletTommy2 {
+    }
+  }
+  boolean InherentRedNita {
+    _hidden_value = true
+  }
+  AwkwardPeachMaryl2 = false
+  UnsightlyTurquoiseTiphany2 = 627
+  IncreasedCrimsonEstella2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  InstantSapphireRandy3 = 163
+  SportingSilverRuthi = 575
+  BeautifulVioletTommy2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

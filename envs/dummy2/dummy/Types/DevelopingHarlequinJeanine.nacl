@@ -1,0 +1,39 @@
+type dummy.DevelopingHarlequinJeanine {
+  annotations {
+    json TotalBrownDaniella3 {
+    }
+    hidden_boolean SadGrayHesther {
+    }
+    hidden_boolean IndependentChocolateDella4 {
+    }
+    string AttractiveCyanFerne4 {
+    }
+  }
+  boolean IllAzureBobbe2 {
+    _hidden_value = true
+  }
+  "List<json>" LateAmethystAmber2 {
+    _hidden_value = true
+  }
+  string ShockedPinkMelisandra2 {
+    _hidden_value = true
+  }
+  serviceid DevotedRosePaule {
+    _hidden_value = true
+  }
+  number ZanyBlueCelina2 {
+    _hidden_value = true
+  }
+  string VastYellowZelda3 {
+    _hidden_value = true
+  }
+  string NativeJadeKatalin2 {
+    _hidden_value = true
+  }
+  json SignificantBrownDanita {
+    _hidden_value = true
+  }
+  TotalBrownDaniella3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AttractiveCyanFerne4 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

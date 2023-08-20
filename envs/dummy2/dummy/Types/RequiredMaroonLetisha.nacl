@@ -1,0 +1,119 @@
+type dummy.RequiredMaroonLetisha {
+  annotations {
+    serviceid BoredAquamarineBerri {
+    }
+    dummy.DEFAULT LegitimatePinkMaybelle2 {
+    }
+    boolean YummyYellowZorina4 {
+    }
+    hidden_boolean ForwardSapphireRica {
+    }
+    hidden_boolean FantasticSapphireRegine2 {
+    }
+    boolean ShiveringAquaBabita2 {
+    }
+  }
+  dummy.AnxiousHarlequinJanna ProtestantScarletRobinett {
+    ColonialPeachMaure = "What did one nut say as he chased another nut?  I'm a cashew!"
+    GloriousBlackCarmine = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  json ContinuedLimeLanae {
+    _hidden_value = true
+  }
+  string JoyousBlackCarrissa3 {
+    _hidden_value = true
+  }
+  serviceid ControlledTanSheilah2 {
+    _hidden_value = true
+  }
+  boolean StuckRoseOphelie2 {
+    _hidden_value = true
+  }
+  number BigVioletTony {
+    _hidden_value = true
+  }
+  number CautiousScarletRivi {
+    _hidden_value = true
+  }
+  number ComparableMoccasinLoella {
+    _hidden_value = true
+  }
+  string StraightforwardMaroonLezlie {
+    _hidden_value = true
+  }
+  string LonelyOliveLyn {
+    _hidden_value = true
+  }
+  number HandicappedTanShantee {
+    _hidden_value = true
+  }
+  boolean NavalPinkMelamie {
+    _hidden_value = true
+  }
+  hidden_boolean WearyBeigeBrook3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number AwakeRedNolie {
+    _hidden_value = true
+  }
+  string GentleBlackCarmelle {
+    _hidden_value = true
+  }
+  number HugeAmaranthAdelaida3 {
+    _hidden_value = true
+  }
+  number ElegantMoccasinLucina {
+    _hidden_value = true
+  }
+  string BriefEmeraldFlory3 {
+    _hidden_value = true
+  }
+  serviceid UsualCoralEllynn2 {
+    _hidden_value = true
+  }
+  serviceid_number InternalCoralEdythe2 {
+    _hidden_value = true
+  }
+  number FundamentalFuchsiaGenevieve3 {
+    _hidden_value = true
+  }
+  "List<number>" ImpossibleCopperDulcea3 {
+    _hidden_value = true
+  }
+  hidden_boolean MarvellousMoccasinLorrayne2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ControlledTanSheilakathryn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FinancialBronzeCorette2 {
+    _hidden_value = true
+  }
+  serviceid_number CasualOliveLurlene4 {
+    _hidden_value = true
+  }
+  serviceid_number LegislativeMaroonLinell4 {
+    _hidden_value = true
+  }
+  serviceid AcuteLavenderKenna {
+    _hidden_value = true
+  }
+  string FrontCopperEadie {
+    _hidden_value = true
+  }
+  number FoolishAzureBinni4 {
+    _hidden_value = true
+  }
+  BoredAquamarineBerri = "Why is Peter Pan always flying? Because he Neverlands."
+  LegitimatePinkMaybelle2 = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  YummyYellowZorina4 = false
+  ShiveringAquaBabita2 = false
+  _hidden_value = true
+}

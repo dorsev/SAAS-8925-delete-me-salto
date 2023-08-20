@@ -1,0 +1,51 @@
+type dummy.GreekIndigoJoana2 {
+  annotations {
+    dummy.DEFAULT HotAquaAudry5 {
+    }
+    boolean SillyIvoryJoelie2 {
+    }
+    number SlimyAquamarineBarbara3 {
+    }
+    serviceid_number FancyTurquoiseTedi3 {
+    }
+    serviceid DueCopperDot {
+    }
+    json PlainIndigoJewel2 {
+    }
+    boolean PreciseIndigoJobi {
+    }
+  }
+  string YellowGoldGiulietta {
+    _hidden_value = true
+  }
+  number HollowAmberAllx3 {
+    _hidden_value = true
+  }
+  json ExpectedLimeLaney {
+    _hidden_value = true
+  }
+  json CoolAmaranthAinsley3 {
+    _hidden_value = true
+  }
+  string PleasantBlueCathe {
+    _hidden_value = true
+  }
+  boolean GlamorousTurquoiseTeressa {
+    _hidden_value = true
+  }
+  hidden_boolean DrabTurquoiseTasia3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  HotAquaAudry5 = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  SillyIvoryJoelie2 = false
+  SlimyAquamarineBarbara3 = 769
+  FancyTurquoiseTedi3 = 415
+  DueCopperDot = "Whoever invented the knock-knock joke should get a no bell prize."
+  PlainIndigoJewel2 = "What creature is smarter than a talking parrot? A spelling bee."
+  PreciseIndigoJobi = false
+  _hidden_value = true
+}

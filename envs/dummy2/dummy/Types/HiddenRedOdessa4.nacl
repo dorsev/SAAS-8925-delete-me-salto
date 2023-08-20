@@ -1,0 +1,86 @@
+type dummy.HiddenRedOdessa4 {
+  annotations {
+    hidden_boolean EerieAzureBeverly {
+    }
+    json ProfoundPinkMerla3 {
+    }
+    number SatisfiedHarlequinJazmin3 {
+    }
+    dummy.ExactLimeKordula ImmediateCrimsonEmeline2 {
+    }
+  }
+  dummy.OrdinaryCopperEdi UncertainMagentaLelah2 {
+    SillyYellowWini = 983
+    CruelAquamarineBessy = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    TameYellowYalonda = 425
+    RareWhiteWanda = 823
+    SpareMaroonLillis = "Whoever invented the knock-knock joke should get a no bell prize."
+    StupidGreenIzabel = 856
+    MaximumGreenIlyssa = "What do you do on a remote island? Try and find the TV island it belongs to."
+    TerritorialSalmonPriscella = "What do you do on a remote island? Try and find the TV island it belongs to."
+    VariedRedNoreen = 640
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 86
+    IntenseLavenderKatuscha = 460
+    SubtleMoccasinLucie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna FairCoffeeDinnie3 {
+    ColonialPeachMaure = "Why did the kid cross the playground? To get to the other slide."
+    GloriousBlackCarmine = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  hidden_boolean GivenHarlequinJaney3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UnlikelyCrimsonEthelda {
+    _hidden_value = true
+  }
+  serviceid CrazyVioletTrenna {
+    _hidden_value = true
+  }
+  serviceid MetropolitanOrangeMargarita {
+    _hidden_value = true
+  }
+  string VoluntaryGoldGwenni2 {
+    _hidden_value = true
+  }
+  hidden_boolean LittleAmaranthAdelle2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LateAmethystAmata {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ScaryBeigeBrenna2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DampAmberAlene {
+    _hidden_value = true
+  }
+  number GoodBlueCelisse {
+    _hidden_value = true
+  }
+  serviceid_number DeliciousApricotArdisj2 {
+    _hidden_value = true
+  }
+  serviceid DifferentBlueCharline3 {
+    _hidden_value = true
+  }
+  json SolarRosePammie2 {
+    _hidden_value = true
+  }
+  ProfoundPinkMerla3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SatisfiedHarlequinJazmin3 = 95
+  ImmediateCrimsonEmeline2 = 118
+  _hidden_value = true
+}

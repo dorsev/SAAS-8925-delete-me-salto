@@ -1,0 +1,26 @@
+type dummy.ImmensePlumMirilla {
+  annotations {
+    boolean AvailableBlushChryste {
+    }
+    json ThenSalmonPhoebe3 {
+    }
+    string IntactRosePatsy4 {
+    }
+    number DangerousCrimsonEssie3 {
+    }
+  }
+  serviceid_number BoringPeachMarni {
+    _hidden_value = true
+  }
+  json GoodBlueCelle {
+    _hidden_value = true
+  }
+  boolean HelpfulBlackCaroline4 {
+    _hidden_value = true
+  }
+  AvailableBlushChryste = true
+  ThenSalmonPhoebe3 = "Why did the kid cross the playground? To get to the other slide."
+  IntactRosePatsy4 = "Dad Im hungry  Hi hungry Im dad"
+  DangerousCrimsonEssie3 = 914
+  _hidden_value = true
+}

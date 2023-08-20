@@ -1,0 +1,156 @@
+type dummy.ChiefCopperDorri5 {
+  annotations {
+    hidden_boolean RecentBronzeCornelle5 {
+    }
+    hidden_boolean DarkTurquoiseTaryn4 {
+    }
+    number BiologicalMaroonLetizia2 {
+    }
+    hidden_boolean RelevantCoffeeDoralin3 {
+    }
+    serviceid_number AfraidAquamarineBelvia3 {
+    }
+  }
+  "List<dummy.SpectacularMaroonLibbie>" FreshApricotArdith2 {
+    FriendlyBlackCarma = 116
+    FrightenedMagentaLavena = 752
+    RepulsiveBeigeBrena = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UptightBeigeBrittni = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    ExactLimeKordula2 = 305
+    LocalBlueCharmian = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    SensibleIvoryJordana = "I'll tell you what often gets over looked... garden fences."
+    MonetaryIvoryJoey = "Why is Peter Pan always flying? Because he Neverlands."
+    WickedBeigeBryna = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AshamedScarletRosamund = 518
+    ChillyAmaranthAilsun = 815
+    CooingAmethystAngelique = 208
+    FatalPurpleMyrtle = 571
+    ThoughtlessBeigeBrinna = "Im only familiar with 25 letters in the English language. I dont know why."
+    EvilAzureBili = 625
+    RelievedBlueCathie = true
+    CleverTealSibeal = "I'll tell you what often gets over looked... garden fences."
+    GrowingCrimsonEnrichetta = 424
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna HistoricalCyanEvangelina2 {
+    ColonialPeachMaure = "Why was it called the dark ages? Because of all the knights. "
+    GloriousBlackCarmine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  json GeneticMoccasinLorie2 {
+    _hidden_value = true
+  }
+  boolean VerbalPinkMaxine {
+    _hidden_value = true
+  }
+  json RoughGreenIdalina {
+    _hidden_value = true
+  }
+  boolean EvilAzureBilli {
+    _hidden_value = true
+  }
+  string ComplexCopperDrucy2 {
+    _hidden_value = true
+  }
+  serviceid_number LinearRedNesta4 {
+    _hidden_value = true
+  }
+  serviceid_number ProminentLavenderKelci4 {
+    _hidden_value = true
+  }
+  boolean CapitalistMagentaLayla {
+    _hidden_value = true
+  }
+  serviceid ApplicablePlumMirella3 {
+    _hidden_value = true
+  }
+  number IdealEmeraldFrederique2 {
+    _hidden_value = true
+  }
+  json RandomMoccasinLoren2 {
+    _hidden_value = true
+  }
+  number ComingSilverSandi2 {
+    _hidden_value = true
+  }
+  number ReasonableCrimsonEmelda2 {
+    _hidden_value = true
+  }
+  boolean EnchantingBlackCaren {
+    _hidden_value = true
+  }
+  hidden_boolean ArbitrarySilverRoxane3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SoundRoseOlenka2 {
+    _hidden_value = true
+  }
+  string InnocentMagentaLarine {
+    _hidden_value = true
+  }
+  boolean MammothAmaranthAdora4 {
+    _hidden_value = true
+  }
+  serviceid_number CheerfulSapphireRhody4 {
+    _hidden_value = true
+  }
+  serviceid GracefulTurquoiseTerrie3 {
+    _hidden_value = true
+  }
+  serviceid_number ClinicalIndigoJenny5 {
+    _hidden_value = true
+  }
+  hidden_boolean SweetAquaAshlan3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number EvolutionarySilverRuth {
+    _hidden_value = true
+  }
+  serviceid_number DualSapphireRhetta {
+    _hidden_value = true
+  }
+  hidden_boolean UnnecessaryMoccasinLorain {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid WorriedGrayHarrie2 {
+    _hidden_value = true
+  }
+  serviceid StrongBronzeCollie2 {
+    _hidden_value = true
+  }
+  json SocialBlueCharmion2 {
+    _hidden_value = true
+  }
+  boolean GrumpyVioletUrsola {
+    _hidden_value = true
+  }
+  serviceid_number CapitalistMagentaLea2 {
+    _hidden_value = true
+  }
+  serviceid_number HarshApricotAnn {
+    _hidden_value = true
+  }
+  hidden_boolean AvailableBlushChrystal2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ShinyTurquoiseTiertza3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  BiologicalMaroonLetizia2 = 942
+  AfraidAquamarineBelvia3 = 80
+  _hidden_value = true
+}

@@ -1,0 +1,69 @@
+type dummy.CombativeAquamarineBerte2 {
+  annotations {
+    serviceid_number HotAquaAudry4 {
+    }
+    hidden_boolean BigAmaranthAbbey2 {
+    }
+    json SaltyApricotArleen3 {
+    }
+    boolean PrimaryCoffeeDoll {
+    }
+    number HelpfulTealSonni {
+    }
+    serviceid_number SilentApricotAntonia2 {
+    }
+  }
+  hidden_boolean ColourfulScarletRosaleen {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ContemporaryFuchsiaGeorgiana3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BasicChocolateDarice2 {
+    _hidden_value = true
+  }
+  hidden_boolean RevolutionaryJadeKary3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number FlutteringAquaAstrix2 {
+    _hidden_value = true
+  }
+  string SmoothAquamarineBarbette {
+    _hidden_value = true
+  }
+  serviceid NaughtyAzureBonnie {
+    _hidden_value = true
+  }
+  serviceid WrongBrownCrissy {
+    _hidden_value = true
+  }
+  boolean CuddlyAmberAlayne5 {
+    _hidden_value = true
+  }
+  hidden_boolean KeyCopperDorothee2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string CharmingBeigeCallida2 {
+    _hidden_value = true
+  }
+  hidden_boolean ContemporaryFuchsiaGeorgie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid_number>" HandicappedTanShanon3 {
+    _hidden_value = true
+  }
+  HotAquaAudry4 = 586
+  SaltyApricotArleen3 = "Why is Peter Pan always flying? Because he Neverlands."
+  PrimaryCoffeeDoll = true
+  HelpfulTealSonni = 909
+  SilentApricotAntonia2 = 289
+  _hidden_value = true
+}

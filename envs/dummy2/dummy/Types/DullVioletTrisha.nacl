@@ -1,0 +1,27 @@
+type dummy.DullVioletTrisha {
+  annotations {
+    hidden_boolean GloriousBlackCarmine5 {
+    }
+    serviceid CulturalCoralElicia2 {
+    }
+    serviceid GrossLavenderKettie {
+    }
+    hidden_boolean LengthySapphireRania5 {
+    }
+    serviceid_number ChubbyAmberAlina2 {
+    }
+    serviceid CivilianSapphireRandee {
+    }
+  }
+  boolean BloodyCyanFedora4 {
+    _hidden_value = true
+  }
+  serviceid_number RigidPinkMerrily4 {
+    _hidden_value = true
+  }
+  CulturalCoralElicia2 = "Why was it called the dark ages? Because of all the knights. "
+  GrossLavenderKettie = "Why didnt the skeleton cross the road? Because he had no guts."
+  ChubbyAmberAlina2 = 364
+  CivilianSapphireRandee = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

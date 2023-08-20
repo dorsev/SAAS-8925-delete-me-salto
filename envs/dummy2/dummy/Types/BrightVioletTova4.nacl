@@ -1,0 +1,26 @@
+type dummy.BrightVioletTova4 {
+  annotations {
+    json MuddyTurquoiseTherese {
+    }
+    json AlertTomatoTabatha2 {
+    }
+    serviceid AmateurSalmonPierette2 {
+    }
+    serviceid JollyBlackCarrie2 {
+    }
+    serviceid_number BasicChocolateDarice3 {
+    }
+    string AncientAmethystAmabelle2 {
+    }
+  }
+  serviceid_number FierceOliveMaire2 {
+    _hidden_value = true
+  }
+  MuddyTurquoiseTherese = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AlertTomatoTabatha2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  AmateurSalmonPierette2 = "Why is Peter Pan always flying? Because he Neverlands."
+  JollyBlackCarrie2 = "Why did the tomato blush? Because it saw the salad dressing."
+  BasicChocolateDarice3 = 12
+  AncientAmethystAmabelle2 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

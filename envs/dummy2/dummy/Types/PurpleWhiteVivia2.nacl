@@ -1,0 +1,23 @@
+type dummy.PurpleWhiteVivia2 {
+  annotations {
+    string ExperiencedMagentaLaural2 {
+    }
+    serviceid_number ConsciousHarlequinJeanette3 {
+    }
+    boolean WickedScarletRoseanne2 {
+    }
+    boolean SpareMaroonLillian2 {
+    }
+  }
+  number EverydayLimeLacee {
+    _hidden_value = true
+  }
+  number IntelligentMaroonLinnet5 {
+    _hidden_value = true
+  }
+  ExperiencedMagentaLaural2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ConsciousHarlequinJeanette3 = 645
+  WickedScarletRoseanne2 = false
+  SpareMaroonLillian2 = true
+  _hidden_value = true
+}

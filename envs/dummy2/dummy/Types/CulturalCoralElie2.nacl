@@ -1,0 +1,105 @@
+type dummy.CulturalCoralElie2 {
+  annotations {
+    serviceid OccasionalIvoryJuliette {
+    }
+    number MarvellousMoccasinLorrayne {
+    }
+    hidden_boolean ImpressiveIndigoJerrylee {
+    }
+    string AwfulAquamarineBernete {
+    }
+    hidden_boolean NewWhiteVevay {
+    }
+  }
+  number CharmingBeigeCalli2 {
+    _hidden_value = true
+  }
+  serviceid_number SadGrayHettie {
+    _hidden_value = true
+  }
+  string FlatGrayHannis {
+    _hidden_value = true
+  }
+  hidden_boolean TestyYellowYoko {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json StrangeYellowWinnie {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" HilariousBlackCarolyne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CausalSapphireRene2 {
+    _hidden_value = true
+  }
+  number MutualLimeKimberly {
+    _hidden_value = true
+  }
+  string ConfidentHarlequinJacynth {
+    _hidden_value = true
+  }
+  boolean FixedGreenHolli {
+    _hidden_value = true
+  }
+  "List<json>" ShakyAquaBab {
+    _hidden_value = true
+  }
+  json InternalCoralEdy {
+    _hidden_value = true
+  }
+  serviceid_number MinorEmeraldGabriela {
+    _hidden_value = true
+  }
+  string SensibleIvoryJordain {
+    _hidden_value = true
+  }
+  boolean SecondaryFuchsiaGertrud2 {
+    _hidden_value = true
+  }
+  json IntenseLavenderKattie3 {
+    _hidden_value = true
+  }
+  serviceid_number SadYellowWillette {
+    _hidden_value = true
+  }
+  string LevelJadeKameko {
+    _hidden_value = true
+  }
+  hidden_boolean DampAmberAlena {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LargeBlueCharlot {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number DevelopedPinkMerilyn {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" FluffyAmberAlice2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SportingSilverRuthie {
+    _hidden_value = true
+  }
+  number FatAmaranthAbigale {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ImportantBlueChastity {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  OccasionalIvoryJuliette = "Im only familiar with 25 letters in the English language. I dont know why."
+  MarvellousMoccasinLorrayne = 645
+  AwfulAquamarineBernete = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

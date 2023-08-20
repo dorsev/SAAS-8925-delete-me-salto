@@ -1,0 +1,25 @@
+type dummy.DampAmberAlena2 {
+  annotations {
+    dummy.ExactLimeKordula JoyousBlackCarry4 {
+    }
+    dummy.DEFAULT SweetGreenHollie {
+    }
+    string CivicTanShelley3 {
+    }
+    string IllEmeraldGael {
+    }
+  }
+  dummy.DEFAULT ConsistentHarlequinJanis {
+    _hidden_value = true
+  }
+  "List<number>" RoughAquaAustina {
+    _hidden_value = true
+  }
+  JoyousBlackCarry4 = 203
+  SweetGreenHollie = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  CivicTanShelley3 = "A steak pun is a rare medium well done."
+  IllEmeraldGael = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

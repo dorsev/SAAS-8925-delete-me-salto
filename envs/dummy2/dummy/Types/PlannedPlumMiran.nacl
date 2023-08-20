@@ -1,0 +1,19 @@
+type dummy.PlannedPlumMiran {
+  annotations {
+    boolean RipeApricotAriel {
+    }
+    hidden_boolean RelativeGoldGuglielma {
+    }
+    json UnhappyMaroonLida {
+    }
+    serviceid JitteryVioletValeria2 {
+    }
+  }
+  boolean CivicTanShelli3 {
+    _hidden_value = true
+  }
+  RipeApricotAriel = false
+  UnhappyMaroonLida = "How come the stadium got hot after the game? Because all of the fans left."
+  JitteryVioletValeria2 = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

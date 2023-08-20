@@ -1,0 +1,34 @@
+type dummy.EqualCrimsonEmiline2 {
+  annotations {
+    dummy.DEFAULT SlowCyanEugenie5 {
+    }
+    number DeadBrownDarb {
+    }
+    string MiddleCopperDyana3 {
+    }
+    string NarrowCyanFara2 {
+    }
+    serviceid_number LeadingCrimsonElyssa {
+    }
+  }
+  number ParliamentaryFuchsiaGertrudis2 {
+    _hidden_value = true
+  }
+  serviceid EncouragingLimeLacie2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" CleanTomatoTamma4 {
+    _hidden_value = true
+  }
+  number MightyTanShandie2 {
+    _hidden_value = true
+  }
+  SlowCyanEugenie5 = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  DeadBrownDarb = 403
+  MiddleCopperDyana3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NarrowCyanFara2 = "Why did the kid cross the playground? To get to the other slide."
+  LeadingCrimsonElyssa = 974
+  _hidden_value = true
+}

@@ -1,0 +1,66 @@
+type dummy.SupportingSilverSamara2 {
+  annotations {
+    serviceid BeautifulVioletToni {
+    }
+    string ItalianGoldGrayce {
+    }
+    boolean OddWhiteVinita5 {
+    }
+    serviceid FellowJadeJustinn3 {
+    }
+    dummy.DEFAULT SingleBronzeCorabella2 {
+    }
+  }
+  serviceid PremierOrangeMaria2 {
+    _hidden_value = true
+  }
+  json PublicBlushChristyna2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SubtleMoccasinLuciana3 {
+    _hidden_value = true
+  }
+  hidden_boolean ScaryBeigeBria4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CoherentScarletRoseline2 {
+    _hidden_value = true
+  }
+  serviceid_number ArchitecturalRosePatience3 {
+    _hidden_value = true
+  }
+  json KindOrangeMarice3 {
+    _hidden_value = true
+  }
+  string WeeklyLavenderKessiah4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OddFuchsiaGenevra3 {
+    _hidden_value = true
+  }
+  boolean AngryAquamarineBenedicta2 {
+    _hidden_value = true
+  }
+  number PreciousWhiteVitia {
+    _hidden_value = true
+  }
+  serviceid_number RemoteIndigoJenelle2 {
+    _hidden_value = true
+  }
+  number FinalBrownDalenna {
+    _hidden_value = true
+  }
+  serviceid_number FiscalRedNiki4 {
+    _hidden_value = true
+  }
+  BeautifulVioletToni = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ItalianGoldGrayce = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OddWhiteVinita5 = false
+  FellowJadeJustinn3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SingleBronzeCorabella2 = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  _hidden_value = true
+}

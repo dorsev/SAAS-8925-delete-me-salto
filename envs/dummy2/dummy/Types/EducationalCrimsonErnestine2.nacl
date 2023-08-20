@@ -1,0 +1,68 @@
+type dummy.EducationalCrimsonErnestine2 {
+  annotations {
+    boolean DesperateIvoryJunia {
+    }
+    dummy.DEFAULT SorryBrownDanyelle3 {
+    }
+    serviceid RomanticMagentaLeandra3 {
+    }
+  }
+  dummy.AnxiousHarlequinJanna SouthernCyanEvey3 {
+    ColonialPeachMaure = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    GloriousBlackCarmine = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  boolean EnormousFuchsiaGinny2 {
+    _hidden_value = true
+  }
+  json FrozenScarletRosabel2 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula ProfessionalChocolateDayle3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObnoxiousAzureBrandie4 {
+    _hidden_value = true
+  }
+  boolean ColourfulScarletRosalia2 {
+    _hidden_value = true
+  }
+  number GlamorousTurquoiseTerese {
+    _hidden_value = true
+  }
+  json FlatGrayHannis3 {
+    _hidden_value = true
+  }
+  boolean ExpensiveCrimsonErnestine2 {
+    _hidden_value = true
+  }
+  json EconomicBlushClarabelle3 {
+    _hidden_value = true
+  }
+  serviceid_number PrintedRedNevsa4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WearyBeigeBrooke4 {
+    _hidden_value = true
+  }
+  "Map<boolean>" NakedMagentaLebbie2 {
+    _hidden_value = true
+  }
+  hidden_boolean NewWhiteVeronique3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ThoughtlessBeigeBrita {
+    _hidden_value = true
+  }
+  number SweetAquaAshla2 {
+    _hidden_value = true
+  }
+  DesperateIvoryJunia = true
+  SorryBrownDanyelle3 = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  RomanticMagentaLeandra3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

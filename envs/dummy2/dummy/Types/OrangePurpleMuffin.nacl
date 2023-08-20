@@ -1,0 +1,32 @@
+type dummy.OrangePurpleMuffin {
+  annotations {
+    boolean OtherBlueCeline2 {
+    }
+    serviceid RecentBronzeCornie {
+    }
+    serviceid_number ProbableSalmonPhyllys {
+    }
+    json FamousCoralElfrieda {
+    }
+    boolean SurvivingSapphireRickie {
+    }
+    serviceid_number TraditionalChocolateDeirdre {
+    }
+    string BiologicalMaroonLetitia {
+    }
+    boolean IcyAquaAugusta {
+    }
+  }
+  dummy.DEFAULT CivilianSapphireRanda {
+    _hidden_value = true
+  }
+  OtherBlueCeline2 = false
+  RecentBronzeCornie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ProbableSalmonPhyllys = 24
+  FamousCoralElfrieda = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SurvivingSapphireRickie = false
+  TraditionalChocolateDeirdre = 163
+  BiologicalMaroonLetitia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  IcyAquaAugusta = true
+  _hidden_value = true
+}

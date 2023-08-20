@@ -1,0 +1,49 @@
+type dummy.CurvedAmberAlisun4 {
+  annotations {
+    hidden_boolean EvilAzureBill2 {
+    }
+    serviceid_number JoyousBlackCarry5 {
+    }
+    boolean SupremeGreenIsabel3 {
+    }
+    serviceid_number FluffyAmberAlice6 {
+    }
+    serviceid AmericanBronzeCorrie {
+    }
+  }
+  number ContinentalOliveMagdalen {
+    _hidden_value = true
+  }
+  json VitalEmeraldFilia2 {
+    _hidden_value = true
+  }
+  hidden_boolean PermanentFuchsiaGavrielle2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number LiquidRosePaige2 {
+    _hidden_value = true
+  }
+  json StuckRoseOphelia {
+    _hidden_value = true
+  }
+  hidden_boolean AggressiveMaroonLilias2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string AngryFuchsiaGilli {
+    _hidden_value = true
+  }
+  hidden_boolean DependentGrayHeda3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  JoyousBlackCarry5 = 200
+  SupremeGreenIsabel3 = true
+  FluffyAmberAlice6 = 834
+  AmericanBronzeCorrie = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

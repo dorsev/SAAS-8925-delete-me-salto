@@ -1,0 +1,23 @@
+type dummy.SoundRoseOlenka {
+  annotations {
+    string SadGrayHester {
+    }
+    boolean DisgustedAzureBev {
+    }
+    string BrightVioletTova2 {
+    }
+    string CharacteristicOliveMalinda {
+    }
+    json InfluentialMoccasinLorenza2 {
+    }
+  }
+  number SuperTomatoSusanetta {
+    _hidden_value = true
+  }
+  SadGrayHester = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DisgustedAzureBev = false
+  BrightVioletTova2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CharacteristicOliveMalinda = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  InfluentialMoccasinLorenza2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

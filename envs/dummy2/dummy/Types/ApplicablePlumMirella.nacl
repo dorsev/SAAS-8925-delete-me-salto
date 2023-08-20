@@ -1,0 +1,20 @@
+type dummy.ApplicablePlumMirella {
+  annotations {
+    string InquisitiveTealStacia {
+    }
+    string LongAmethystAmbur {
+    }
+    json ConfidentialScarletRois {
+    }
+    boolean SteepAmberAlyce {
+    }
+  }
+  serviceid_number EligiblePurpleNeille {
+    _hidden_value = true
+  }
+  InquisitiveTealStacia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LongAmethystAmbur = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ConfidentialScarletRois = "Did you know that protons have mass? I didn't even know they were catholic."
+  SteepAmberAlyce = false
+  _hidden_value = true
+}

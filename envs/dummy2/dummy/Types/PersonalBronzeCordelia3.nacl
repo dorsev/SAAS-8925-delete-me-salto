@@ -1,0 +1,34 @@
+type dummy.PersonalBronzeCordelia3 {
+  annotations {
+    dummy.OrdinaryCopperEdi FunOrangeMarcile2 {
+    }
+    boolean PayableOrangeMarcie {
+    }
+    number ShinyTurquoiseTiffani2 {
+    }
+    hidden_boolean BroadCoralElisabetta7 {
+    }
+    string InterestedCoffeeDina3 {
+    }
+  }
+  serviceid_number StrikingOliveMagdalen {
+    _hidden_value = true
+  }
+  number ProudBlueCathe {
+    _hidden_value = true
+  }
+  serviceid_number SatisfiedHarlequinJean2 {
+    _hidden_value = true
+  }
+  boolean LongAmethystAmbur3 {
+    _hidden_value = true
+  }
+  boolean LivingGrayHenrieta2 {
+    _hidden_value = true
+  }
+  FunOrangeMarcile2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PayableOrangeMarcie = false
+  ShinyTurquoiseTiffani2 = 435
+  InterestedCoffeeDina3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

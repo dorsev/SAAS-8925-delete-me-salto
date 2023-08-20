@@ -1,0 +1,79 @@
+type dummy.RidiculousMoccasinLiz {
+  annotations {
+    json LengthySapphireRania6 {
+    }
+    number IndustrialBrownDannie {
+    }
+    string ImperialLavenderKaterine5 {
+    }
+    boolean WeirdSilverRoze3 {
+    }
+    string MajorBlushClair {
+    }
+  }
+  dummy.OrdinaryCopperEdi FatAmaranthAbigale6 {
+    SillyYellowWini = 104
+    CruelAquamarineBessy = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    TameYellowYalonda = 147
+    RareWhiteWanda = 608
+    SpareMaroonLillis = "Slept like a log last night  woke up in the fireplace."
+    StupidGreenIzabel = 976
+    MaximumGreenIlyssa = "Slept like a log last night  woke up in the fireplace."
+    TerritorialSalmonPriscella = "What creature is smarter than a talking parrot? A spelling bee."
+    VariedRedNoreen = 47
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 396
+    IntenseLavenderKatuscha = 582
+    SubtleMoccasinLucie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  serviceid SymbolicPurpleNadiya3 {
+    _hidden_value = true
+  }
+  number ObjectiveOrangeMamie {
+    _hidden_value = true
+  }
+  boolean SportingSilverRyann {
+    _hidden_value = true
+  }
+  string PeculiarPlumMichelina4 {
+    _hidden_value = true
+  }
+  serviceid MilitaryChocolateDarline {
+    _hidden_value = true
+  }
+  json SeparateCopperDoroteya {
+    _hidden_value = true
+  }
+  serviceid_number SparklingTurquoiseTildi2 {
+    _hidden_value = true
+  }
+  boolean AngryAquamarineBenedikta2 {
+    _hidden_value = true
+  }
+  number ClearBlushCinnamon4 {
+    _hidden_value = true
+  }
+  hidden_boolean ModernAmethystAmeline5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string WorkingCrimsonEmmaline3 {
+    _hidden_value = true
+  }
+  serviceid ProvincialPeachMarita4 {
+    _hidden_value = true
+  }
+  json WeakFuchsiaGayleen {
+    _hidden_value = true
+  }
+  LengthySapphireRania6 = "Why was it called the dark ages? Because of all the knights. "
+  IndustrialBrownDannie = 189
+  ImperialLavenderKaterine5 = "I'll tell you what often gets over looked... garden fences."
+  WeirdSilverRoze3 = false
+  MajorBlushClair = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

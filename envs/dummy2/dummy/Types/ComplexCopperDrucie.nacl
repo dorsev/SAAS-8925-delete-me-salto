@@ -1,0 +1,96 @@
+type dummy.ComplexCopperDrucie {
+  annotations {
+    serviceid_number SingleBronzeCorabella {
+    }
+    serviceid_number GiganticAmaranthAdara {
+    }
+    string ModernTealStarla {
+    }
+    json IncredibleRosePatty3 {
+    }
+    number VariousBrownCorry {
+    }
+    dummy.DEFAULT PresidentialLimeKrystalle {
+    }
+  }
+  dummy.SpectacularMaroonLibbie StupidTomatoSunshine {
+    FriendlyBlackCarma = 958
+    FrightenedMagentaLavena = 808
+    RepulsiveBeigeBrena = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    UptightBeigeBrittni = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    ExactLimeKordula2 = 793
+    LocalBlueCharmian = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    SensibleIvoryJordana = "What creature is smarter than a talking parrot? A spelling bee."
+    MonetaryIvoryJoey = "I'll tell you what often gets over looked... garden fences."
+    WickedBeigeBryna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AshamedScarletRosamund = 251
+    ChillyAmaranthAilsun = 325
+    CooingAmethystAngelique = 163
+    FatalPurpleMyrtle = 907
+    ThoughtlessBeigeBrinna = "Why didnt the skeleton cross the road? Because he had no guts."
+    EvilAzureBili = 418
+    RelievedBlueCathie = false
+    CleverTealSibeal = "Why did the tomato blush? Because it saw the salad dressing."
+    GrowingCrimsonEnrichetta = 693
+    _hidden_value = true
+  }
+  serviceid EntitledIvoryJuliane {
+    _hidden_value = true
+  }
+  serviceid LikelyBlushClarice3 {
+    _hidden_value = true
+  }
+  serviceid HealthyGoldGracia {
+    _hidden_value = true
+  }
+  hidden_boolean HarshOliveMahalia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ExcessSilverSara {
+    _hidden_value = true
+  }
+  string PoliticalBlushChloe {
+    _hidden_value = true
+  }
+  number GloriousScarletRosanne {
+    _hidden_value = true
+  }
+  string CompetitiveGrayHeida {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" FineBrownCourtenay {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DeliciousScarletRodi2 {
+    _hidden_value = true
+  }
+  string LiableLimeKimberlyn3 {
+    _hidden_value = true
+  }
+  string GrumpyVioletUrsulina {
+    _hidden_value = true
+  }
+  string FranticAzureBird {
+    _hidden_value = true
+  }
+  string FashionableSapphireRenata2 {
+    _hidden_value = true
+  }
+  SingleBronzeCorabella = 429
+  GiganticAmaranthAdara = 503
+  ModernTealStarla = "How come the stadium got hot after the game? Because all of the fans left."
+  IncredibleRosePatty3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  VariousBrownCorry = 438
+  PresidentialLimeKrystalle = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  _hidden_value = true
+}

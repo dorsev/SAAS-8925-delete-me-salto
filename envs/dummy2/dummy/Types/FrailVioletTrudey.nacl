@@ -1,0 +1,39 @@
+type dummy.FrailVioletTrudey {
+  annotations {
+    json WideBronzeCorine4 {
+    }
+    serviceid_number CoolAmberAinslie {
+    }
+    hidden_boolean OutstandingTealStefania {
+    }
+    string BalancedSilverRosita3 {
+    }
+    hidden_boolean GreenVioletUla {
+    }
+    serviceid_number FutureCoffeeDolly2 {
+    }
+  }
+  hidden_boolean AmericanBronzeCorrie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MassiveFuchsiaGerri {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UnderlyingLimeKoressa3 {
+    _hidden_value = true
+  }
+  hidden_boolean KoreanSapphireRaquela3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  WideBronzeCorine4 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CoolAmberAinslie = 992
+  BalancedSilverRosita3 = "To be Frank, I'd have to change my name."
+  FutureCoffeeDolly2 = 830
+  _hidden_value = true
+}

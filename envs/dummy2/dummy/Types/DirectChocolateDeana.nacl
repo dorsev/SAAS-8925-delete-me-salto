@@ -1,0 +1,88 @@
+type dummy.DirectChocolateDeana {
+  annotations {
+    boolean SmoothAquamarineBarbi {
+    }
+    number LtdCoralElna {
+    }
+    number ScaryBeigeBriana {
+    }
+    number AutomaticLavenderKi {
+    }
+    serviceid StaleAquaArlinda {
+    }
+    serviceid DifferentTealSilvie2 {
+    }
+  }
+  hidden_boolean InadequateLavenderKeeley {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number OutdoorSilverSascha {
+    _hidden_value = true
+  }
+  hidden_boolean MotionlessTurquoiseThelma2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PriorRosePauli {
+    _hidden_value = true
+  }
+  string DistinguishedPurpleNathalia3 {
+    _hidden_value = true
+  }
+  string AbsentPinkMelony {
+    _hidden_value = true
+  }
+  hidden_boolean UnitedCopperEddi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number UnemployedIvoryJoline2 {
+    _hidden_value = true
+  }
+  serviceid CreepyAmberAlaine2 {
+    _hidden_value = true
+  }
+  boolean NastyMaroonLisha {
+    _hidden_value = true
+  }
+  serviceid IncreasedCrimsonEstelle3 {
+    _hidden_value = true
+  }
+  json HomelessAzureBlinnie2 {
+    _hidden_value = true
+  }
+  serviceid_number PerfectBlackCate2 {
+    _hidden_value = true
+  }
+  json TeenageScarletRobinetta {
+    _hidden_value = true
+  }
+  boolean PsychologicalIvoryJolee2 {
+    _hidden_value = true
+  }
+  hidden_boolean MarvellousMoccasinLorne2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ParentalRedNicholle {
+    _hidden_value = true
+  }
+  boolean JoyousBlackCarry3 {
+    _hidden_value = true
+  }
+  boolean RoundIvoryJohnette {
+    _hidden_value = true
+  }
+  SmoothAquamarineBarbi = true
+  LtdCoralElna = 337
+  ScaryBeigeBriana = 124
+  AutomaticLavenderKi = 244
+  StaleAquaArlinda = "Why did the tomato blush? Because it saw the salad dressing."
+  DifferentTealSilvie2 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

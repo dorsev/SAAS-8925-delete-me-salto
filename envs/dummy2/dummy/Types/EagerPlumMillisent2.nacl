@@ -1,0 +1,75 @@
+type dummy.EagerPlumMillisent2 {
+  annotations {
+    dummy.AnxiousHarlequinJanna ElegantTurquoiseTeddie4 {
+    }
+    dummy.OrdinaryCopperEdi MutualLimeKimberley {
+    }
+    dummy.DEFAULT IllAzureBobbette {
+    }
+    serviceid_number RegionalCopperDoria {
+    }
+    boolean ParentalRedNicki2 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie SpontaneousTanShaun2 {
+    FriendlyBlackCarma = 901
+    FrightenedMagentaLavena = 92
+    RepulsiveBeigeBrena = "A steak pun is a rare medium well done."
+    UptightBeigeBrittni = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    ExactLimeKordula2 = 389
+    LocalBlueCharmian = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    SensibleIvoryJordana = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    MonetaryIvoryJoey = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    WickedBeigeBryna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AshamedScarletRosamund = 484
+    ChillyAmaranthAilsun = 424
+    CooingAmethystAngelique = 240
+    FatalPurpleMyrtle = 763
+    ThoughtlessBeigeBrinna = "A steak pun is a rare medium well done."
+    EvilAzureBili = 361
+    RelievedBlueCathie = true
+    CleverTealSibeal = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    GrowingCrimsonEnrichetta = 246
+    _hidden_value = true
+  }
+  hidden_boolean ViolentIvoryJolene3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string FellowJadeJustine2 {
+    _hidden_value = true
+  }
+  number BewilderedAquamarineBernita3 {
+    _hidden_value = true
+  }
+  serviceid_number SaltyApricotArleen2 {
+    _hidden_value = true
+  }
+  boolean PlainIndigoJewelle2 {
+    _hidden_value = true
+  }
+  serviceid CompatibleSapphireRenelle {
+    _hidden_value = true
+  }
+  serviceid_number LeftCoffeeDeny2 {
+    _hidden_value = true
+  }
+  hidden_boolean StingyYellowWinnah {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ElegantTurquoiseTeddie4 = "I'll tell you what often gets over looked... garden fences."
+  MutualLimeKimberley = "What do you do on a remote island? Try and find the TV island it belongs to."
+  IllAzureBobbette = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  RegionalCopperDoria = 469
+  ParentalRedNicki2 = true
+  _hidden_value = true
+}

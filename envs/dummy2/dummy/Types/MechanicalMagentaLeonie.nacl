@@ -1,0 +1,22 @@
+type dummy.MechanicalMagentaLeonie {
+  annotations {
+    serviceid LoudLavenderKiersten {
+    }
+    serviceid_number AgreedTanSelia {
+    }
+    number OldAmethystAmi {
+    }
+    hidden_boolean LonelyOliveLynda {
+    }
+    json ScaredSalmonRafaelita {
+    }
+  }
+  number CuriousTealSidonia {
+    _hidden_value = true
+  }
+  LoudLavenderKiersten = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AgreedTanSelia = 621
+  OldAmethystAmi = 574
+  ScaredSalmonRafaelita = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

@@ -1,0 +1,23 @@
+type dummy.QuickAmethystAmmamaria3 {
+  annotations {
+    serviceid_number BroadCoralElisabetta3 {
+    }
+    serviceid_number DryAmberAlexandra2 {
+    }
+    number FashionableSapphireRenata5 {
+    }
+    serviceid_number HardAquaAudre2 {
+    }
+    string EnvironmentalCoffeeDomeniga {
+    }
+  }
+  serviceid_number PopularChocolateDavida3 {
+    _hidden_value = true
+  }
+  BroadCoralElisabetta3 = 220
+  DryAmberAlexandra2 = 681
+  FashionableSapphireRenata5 = 819
+  HardAquaAudre2 = 630
+  EnvironmentalCoffeeDomeniga = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

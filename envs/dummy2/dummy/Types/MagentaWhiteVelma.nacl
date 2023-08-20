@@ -1,0 +1,21 @@
+type dummy.MagentaWhiteVelma {
+  annotations {
+    number YummyYellowZorine {
+    }
+    hidden_boolean DearGoldGlennie {
+    }
+    string BrightVioletTory {
+    }
+    hidden_boolean TerritorialSalmonPris {
+    }
+    string OkayOliveMahala {
+    }
+  }
+  serviceid_number RealTomatoStesha2 {
+    _hidden_value = true
+  }
+  YummyYellowZorine = 339
+  BrightVioletTory = "Did you know that protons have mass? I didn't even know they were catholic."
+  OkayOliveMahala = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

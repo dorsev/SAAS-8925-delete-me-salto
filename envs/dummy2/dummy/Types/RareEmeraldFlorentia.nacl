@@ -1,0 +1,57 @@
+type dummy.RareEmeraldFlorentia {
+  annotations {
+    serviceid_number EducationalCrimsonEryn {
+    }
+    serviceid GeographicalPeachMarlene {
+    }
+    dummy.DEFAULT UnemployedIvoryJoly {
+    }
+    hidden_boolean SpontaneousTanShauna {
+    }
+    boolean RidiculousMoccasinLivvyy {
+    }
+    string HotAquaAudrey2 {
+    }
+  }
+  serviceid_number FairCoffeeDinny {
+    _hidden_value = true
+  }
+  serviceid_number ScatteredAquaAveryl {
+    _hidden_value = true
+  }
+  boolean RoughGreenIdell2 {
+    _hidden_value = true
+  }
+  serviceid BadBlushCiel {
+    _hidden_value = true
+  }
+  number FederalGrayHallie {
+    _hidden_value = true
+  }
+  serviceid_number CleanTomatoTami {
+    _hidden_value = true
+  }
+  json ScaryBeigeBrenna {
+    _hidden_value = true
+  }
+  boolean TopChocolateDareen {
+    _hidden_value = true
+  }
+  string DefensiveRoseOona {
+    _hidden_value = true
+  }
+  json ExpectedLimeLani {
+    _hidden_value = true
+  }
+  serviceid_number CorrespondingPlumMinta {
+    _hidden_value = true
+  }
+  EducationalCrimsonEryn = 829
+  GeographicalPeachMarlene = "Why is Peter Pan always flying? Because he Neverlands."
+  UnemployedIvoryJoly = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  RidiculousMoccasinLivvyy = false
+  HotAquaAudrey2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

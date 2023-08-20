@@ -1,0 +1,78 @@
+type dummy.FashionableSapphireRenata6 {
+  annotations {
+    serviceid_number InternationalBlushClaudie {
+    }
+    string AverageTomatoTabbie {
+    }
+    string StiffPeachMarya {
+    }
+    hidden_boolean ObnoxiousAzureBrandie3 {
+    }
+    hidden_boolean SelectSalmonPhilipa2 {
+    }
+    string UsualCoralElly {
+    }
+  }
+  string ExcitedOrangeMariquilla4 {
+    _hidden_value = true
+  }
+  hidden_boolean GreyEmeraldFrannie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CalmPurpleNanci2 {
+    _hidden_value = true
+  }
+  number JuniorIvoryJordain {
+    _hidden_value = true
+  }
+  serviceid RudeTanShaylyn4 {
+    _hidden_value = true
+  }
+  hidden_boolean JointCoralElisha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string RubberSilverSarena2 {
+    _hidden_value = true
+  }
+  number RadicalGrayHelen {
+    _hidden_value = true
+  }
+  boolean MagnificentWhiteVanya {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ManagerialPurpleNerita5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "Map<string>" DullVioletTrish2 {
+    _hidden_value = true
+  }
+  string CombinedOliveMaighdiln5 {
+    _hidden_value = true
+  }
+  serviceid FitHarlequinJaclin3 {
+    _hidden_value = true
+  }
+  json PrettyIndigoJennie4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LengthySapphireRania4 {
+    _hidden_value = true
+  }
+  number CatholicHarlequinJamie {
+    _hidden_value = true
+  }
+  json VitalEmeraldFifine2 {
+    _hidden_value = true
+  }
+  InternationalBlushClaudie = 589
+  AverageTomatoTabbie = "Why did the tomato blush? Because it saw the salad dressing."
+  StiffPeachMarya = "Why do birds fly south for the winter? Because it's too far to walk."
+  UsualCoralElly = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

@@ -1,0 +1,35 @@
+type dummy.ContinentalOliveMagdalene {
+  annotations {
+    serviceid_number CompleteCoffeeDevinne {
+    }
+    string WoodenAquamarineBellanca {
+    }
+    dummy.SpectacularMaroonLibbie MushyWhiteVerina {
+    }
+    serviceid LargeAmaranthAdeline2 {
+    }
+    number SpanishGreenIona {
+    }
+  }
+  string UnconsciousSapphireRaychel {
+    _hidden_value = true
+  }
+  serviceid_number CalmPurpleNanci {
+    _hidden_value = true
+  }
+  json MagicOrangeManya {
+    _hidden_value = true
+  }
+  serviceid_number SurroundingOrangeMargette {
+    _hidden_value = true
+  }
+  json LovelyBlackCassandry {
+    _hidden_value = true
+  }
+  CompleteCoffeeDevinne = 734
+  WoodenAquamarineBellanca = "A steak pun is a rare medium well done."
+  MushyWhiteVerina = 527
+  LargeAmaranthAdeline2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SpanishGreenIona = 776
+  _hidden_value = true
+}

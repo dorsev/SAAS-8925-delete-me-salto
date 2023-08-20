@@ -1,0 +1,86 @@
+type dummy.NaughtyAzureBonni {
+  annotations {
+    serviceid_number SwiftAmethystAnastasie2 {
+    }
+    serviceid_number BizarreTanSean3 {
+    }
+    string SubsequentFuchsiaGilemette {
+    }
+    serviceid PoliteSalmonRafaelia3 {
+    }
+    number LonelyAzureBobette2 {
+    }
+    number RenewedSilverSandra2 {
+    }
+    string CuddlyAmberAlayne3 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie BeautifulCoffeeDixie {
+    FriendlyBlackCarma = 232
+    FrightenedMagentaLavena = 296
+    RepulsiveBeigeBrena = "What creature is smarter than a talking parrot? A spelling bee."
+    UptightBeigeBrittni = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    ExactLimeKordula2 = 346
+    LocalBlueCharmian = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    SensibleIvoryJordana = "I'll tell you what often gets over looked... garden fences."
+    MonetaryIvoryJoey = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    WickedBeigeBryna = "Whoever invented the knock-knock joke should get a no bell prize."
+    AshamedScarletRosamund = 969
+    ChillyAmaranthAilsun = 891
+    CooingAmethystAngelique = 298
+    FatalPurpleMyrtle = 804
+    ThoughtlessBeigeBrinna = "A steak pun is a rare medium well done."
+    EvilAzureBili = 779
+    RelievedBlueCathie = true
+    CleverTealSibeal = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    GrowingCrimsonEnrichetta = 872
+    _hidden_value = true
+  }
+  serviceid_number MiserableSalmonRachel {
+    _hidden_value = true
+  }
+  serviceid WorriedBeigeBrynna {
+    _hidden_value = true
+  }
+  number DisappointedMagentaLaurianne {
+    _hidden_value = true
+  }
+  string FuriousRedNicoline {
+    _hidden_value = true
+  }
+  hidden_boolean DisgustedAzureBettye4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string BalancedSilverRosita2 {
+    _hidden_value = true
+  }
+  serviceid BadAquamarineBernette {
+    _hidden_value = true
+  }
+  serviceid_number ViolentIvoryJolene2 {
+    _hidden_value = true
+  }
+  string PlainTurquoiseTherine {
+    _hidden_value = true
+  }
+  boolean RoughGreenIdelle2 {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" PatientPurpleNanine {
+    _hidden_value = true
+  }
+  SwiftAmethystAnastasie2 = 837
+  BizarreTanSean3 = 52
+  SubsequentFuchsiaGilemette = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PoliteSalmonRafaelia3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  LonelyAzureBobette2 = 596
+  RenewedSilverSandra2 = 377
+  CuddlyAmberAlayne3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

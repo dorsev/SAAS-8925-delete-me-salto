@@ -1,0 +1,48 @@
+type dummy.GlobalGrayHermine2 {
+  annotations {
+    json ComprehensiveGreenHyacintha {
+    }
+    json SlightGoldGwenny {
+    }
+    string MusicalIndigoJoanne4 {
+    }
+    hidden_boolean ImaginativeTanSeline6 {
+    }
+    json ThenSalmonPhoebe2 {
+    }
+  }
+  boolean EmotionalGrayHerta2 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula ProudBlueCathee {
+    _hidden_value = true
+  }
+  number WastefulYellowZia3 {
+    _hidden_value = true
+  }
+  boolean VictoriousBlueCayla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LiveIndigoJodi2 {
+    _hidden_value = true
+  }
+  json ControversialLimeKyla {
+    _hidden_value = true
+  }
+  serviceid PoisedTurquoiseThomasa5 {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingPeachMarquita2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExcessiveOliveMadelena2 {
+    _hidden_value = true
+  }
+  ComprehensiveGreenHyacintha = "Why is Peter Pan always flying? Because he Neverlands."
+  SlightGoldGwenny = "Im only familiar with 25 letters in the English language. I dont know why."
+  MusicalIndigoJoanne4 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ThenSalmonPhoebe2 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

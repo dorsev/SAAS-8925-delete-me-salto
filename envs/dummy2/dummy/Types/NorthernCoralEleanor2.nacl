@@ -1,0 +1,123 @@
+type dummy.NorthernCoralEleanor2 {
+  annotations {
+    json CharacteristicOliveMalinda3 {
+    }
+    json ConservativeCoralElle {
+    }
+    boolean LateAmethystAmber {
+    }
+    hidden_boolean CuriousLimeKirbee {
+    }
+    number ExcessSilverSapphira2 {
+    }
+    boolean BitterJadeKarylin {
+    }
+    serviceid_number JoyousBlackCarrissa2 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie ConfidentHarlequinJade2 {
+    FriendlyBlackCarma = 778
+    FrightenedMagentaLavena = 887
+    RepulsiveBeigeBrena = "What creature is smarter than a talking parrot? A spelling bee."
+    UptightBeigeBrittni = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    ExactLimeKordula2 = 562
+    LocalBlueCharmian = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    SensibleIvoryJordana = "What did one nut say as he chased another nut?  I'm a cashew!"
+    MonetaryIvoryJoey = "Why was it called the dark ages? Because of all the knights. "
+    WickedBeigeBryna = "What do you do on a remote island? Try and find the TV island it belongs to."
+    AshamedScarletRosamund = 604
+    ChillyAmaranthAilsun = 64
+    CooingAmethystAngelique = 554
+    FatalPurpleMyrtle = 265
+    ThoughtlessBeigeBrinna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    EvilAzureBili = 992
+    RelievedBlueCathie = true
+    CleverTealSibeal = "What do you call two barracuda fish?  A Pairacuda!"
+    GrowingCrimsonEnrichetta = 635
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna GiantAmaranthAda {
+    ColonialPeachMaure = "To be Frank, I'd have to change my name."
+    GloriousBlackCarmine = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  boolean UsedFuchsiaGeorgeanna {
+    _hidden_value = true
+  }
+  serviceid FamousTealSiusan2 {
+    _hidden_value = true
+  }
+  number LegislativeMaroonLinell3 {
+    _hidden_value = true
+  }
+  "Map<json>" GreekIndigoJoanne {
+    _hidden_value = true
+  }
+  serviceid_number HollowAmberAllx2 {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingPeachMarrilee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" NuclearCoffeeDonica3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json SmilingBlueCathryn2 {
+    _hidden_value = true
+  }
+  number HonChocolateDasya2 {
+    _hidden_value = true
+  }
+  "Map<boolean>" ThoughtlessBeigeBrinna3 {
+    _hidden_value = true
+  }
+  json BasicChocolateDarleen3 {
+    _hidden_value = true
+  }
+  number NeighbouringPurpleNancee {
+    _hidden_value = true
+  }
+  json FunctionalMaroonLexine3 {
+    _hidden_value = true
+  }
+  serviceid_number FlatGrayHannie4 {
+    _hidden_value = true
+  }
+  hidden_boolean LimitedCoralElke2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number SquareJadeKaia4 {
+    _hidden_value = true
+  }
+  serviceid_number EconomicBlushClarabelle2 {
+    _hidden_value = true
+  }
+  number LowAmberAlly2 {
+    _hidden_value = true
+  }
+  hidden_boolean StraightHarlequinJami {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ManagingLimeKitti4 {
+    _hidden_value = true
+  }
+  CharacteristicOliveMalinda3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ConservativeCoralElle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LateAmethystAmber = true
+  ExcessSilverSapphira2 = 99
+  BitterJadeKarylin = false
+  JoyousBlackCarrissa2 = 465
+  _hidden_value = true
+}

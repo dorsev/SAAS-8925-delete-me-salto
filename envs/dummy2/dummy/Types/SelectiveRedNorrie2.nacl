@@ -1,0 +1,37 @@
+type dummy.SelectiveRedNorrie2 {
+  annotations {
+    string LogicalLavenderKelcie {
+    }
+    serviceid_number TemporaryGrayHalley {
+    }
+    dummy.AnxiousHarlequinJanna AppropriateChocolateDarcee2 {
+    }
+    hidden_boolean WetAmberAlidia {
+    }
+    boolean CruelAquamarineBethanne2 {
+    }
+  }
+  json ModeratePurpleNatalya {
+    _hidden_value = true
+  }
+  serviceid InclinedRedNyssa2 {
+    _hidden_value = true
+  }
+  number DrunkPeachMarlee2 {
+    _hidden_value = true
+  }
+  string AbsentPinkMelony4 {
+    _hidden_value = true
+  }
+  boolean PhysicalCoffeeDenni4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SoleLimeKissee2 {
+    _hidden_value = true
+  }
+  LogicalLavenderKelcie = "Im only familiar with 25 letters in the English language. I dont know why."
+  TemporaryGrayHalley = 496
+  AppropriateChocolateDarcee2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  CruelAquamarineBethanne2 = true
+  _hidden_value = true
+}

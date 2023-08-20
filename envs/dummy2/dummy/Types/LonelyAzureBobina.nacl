@@ -1,0 +1,63 @@
+type dummy.LonelyAzureBobina {
+  annotations {
+    serviceid OptimisticSalmonPeg2 {
+    }
+    dummy.AnxiousHarlequinJanna PermanentFuchsiaGayel2 {
+    }
+    hidden_boolean VocationalTanShaine {
+    }
+    json ElectricalLavenderKerri {
+    }
+    string WrittenGreenIvonne {
+    }
+  }
+  serviceid WorthyRedOdette {
+    _hidden_value = true
+  }
+  boolean MelodicApricotAnnalise2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HostileOrangeMariel {
+    _hidden_value = true
+  }
+  string ResidentSalmonRaf {
+    _hidden_value = true
+  }
+  number ExcitedBlackCaritta {
+    _hidden_value = true
+  }
+  json SatisfactoryLimeKrissie {
+    _hidden_value = true
+  }
+  hidden_boolean WellFuchsiaGiralda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string QuickestWhiteWallie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AdequateGrayHildegaard {
+    _hidden_value = true
+  }
+  number ScatteredAquaAveryl2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" GrubbyAquaAubrey2 {
+    _hidden_value = true
+  }
+  string IraqiOliveMadelle {
+    _hidden_value = true
+  }
+  string WeeklyLavenderKeslie {
+    _hidden_value = true
+  }
+  number CriminalFuchsiaGeorgette {
+    _hidden_value = true
+  }
+  OptimisticSalmonPeg2 = "Dad Im hungry  Hi hungry Im dad"
+  PermanentFuchsiaGayel2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ElectricalLavenderKerri = "A steak pun is a rare medium well done."
+  WrittenGreenIvonne = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

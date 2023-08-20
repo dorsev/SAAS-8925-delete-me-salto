@@ -1,0 +1,56 @@
+type dummy.CrazyVioletTresa {
+  annotations {
+    boolean DeepChocolateDeloria {
+    }
+    boolean MarginalLimeKristal {
+    }
+    hidden_boolean QuietCoralElaina3 {
+    }
+    serviceid UpsetOliveMab2 {
+    }
+    hidden_boolean NetGoldGlenda2 {
+    }
+  }
+  json ImperialLavenderKaterine4 {
+    _hidden_value = true
+  }
+  json NearbyLimeKoral {
+    _hidden_value = true
+  }
+  serviceid_number GenuineGreenIsobel {
+    _hidden_value = true
+  }
+  "List<serviceid>" LocalBlueCharmian2 {
+    _hidden_value = true
+  }
+  number BlindIvoryJuanita2 {
+    _hidden_value = true
+  }
+  serviceid DutchLavenderKenna {
+    _hidden_value = true
+  }
+  serviceid ProminentLavenderKelci2 {
+    _hidden_value = true
+  }
+  string InnocentTealStacey {
+    _hidden_value = true
+  }
+  serviceid_number UnknownFuchsiaGilberte3 {
+    _hidden_value = true
+  }
+  number NavalPinkMela {
+    _hidden_value = true
+  }
+  "List<boolean>" ProtestantScarletRobina {
+    _hidden_value = true
+  }
+  hidden_boolean EmpiricalPinkMeaghan {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  DeepChocolateDeloria = true
+  MarginalLimeKristal = false
+  UpsetOliveMab2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

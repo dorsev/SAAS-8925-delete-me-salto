@@ -1,0 +1,78 @@
+type dummy.SillyYellowWinifred2 {
+  annotations {
+    number ForthcomingPeachMarris2 {
+    }
+    string HurtAzureBlondie4 {
+    }
+    serviceid_number TastyAquaAshlie3 {
+    }
+    serviceid AutonomousScarletRonny {
+    }
+    boolean ColourfulScarletRosalia {
+    }
+    serviceid GrumpyVioletUrsulina2 {
+    }
+  }
+  dummy.AnxiousHarlequinJanna RegulatorySalmonQuintilla2 {
+    ColonialPeachMaure = "Slept like a log last night  woke up in the fireplace."
+    GloriousBlackCarmine = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  json CompetentSalmonPeri {
+    _hidden_value = true
+  }
+  serviceid_number ProfitablePurpleNanon {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula ManualRosePaola2 {
+    _hidden_value = true
+  }
+  hidden_boolean WearyBeigeBrunhilda4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number UnsightlyTurquoiseTisha2 {
+    _hidden_value = true
+  }
+  hidden_boolean WastefulYellowZia4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number GeneralBlushChristean5 {
+    _hidden_value = true
+  }
+  hidden_boolean EnviousAzureBiddy5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number UncomfortablePlumModestine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FriendlyVioletTrudy3 {
+    _hidden_value = true
+  }
+  boolean AcademicEmeraldFrieda3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DreadfulPinkMerrill {
+    _hidden_value = true
+  }
+  json GrimScarletRonnica2 {
+    _hidden_value = true
+  }
+  hidden_boolean WesternChocolateDehlia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ForthcomingPeachMarris2 = 402
+  HurtAzureBlondie4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  TastyAquaAshlie3 = 121
+  AutonomousScarletRonny = "Did you know that protons have mass? I didn't even know they were catholic."
+  ColourfulScarletRosalia = false
+  GrumpyVioletUrsulina2 = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

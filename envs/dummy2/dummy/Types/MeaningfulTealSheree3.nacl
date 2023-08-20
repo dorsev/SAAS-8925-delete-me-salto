@@ -1,0 +1,36 @@
+type dummy.MeaningfulTealSheree3 {
+  annotations {
+    dummy.SpectacularMaroonLibbie InfluentialMoccasinLorette4 {
+    }
+    json DistinctTurquoiseTatiania3 {
+    }
+    number FranticAzureBirgit4 {
+    }
+    string DisturbingTealSherill5 {
+    }
+    hidden_boolean VitalEmeraldFifi2 {
+    }
+    json ChineseGoldGuenevere2 {
+    }
+  }
+  json StrangeCoralEdiva {
+    _hidden_value = true
+  }
+  string DrivingRoseOralia {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" OriginalChocolateDarsey {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MissingPinkMelly {
+    _hidden_value = true
+  }
+  InfluentialMoccasinLorette4 = 879
+  DistinctTurquoiseTatiania3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FranticAzureBirgit4 = 287
+  DisturbingTealSherill5 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ChineseGoldGuenevere2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

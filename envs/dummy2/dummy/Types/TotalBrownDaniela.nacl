@@ -1,0 +1,29 @@
+type dummy.TotalBrownDaniela {
+  annotations {
+    json CircularRoseOrly {
+    }
+    serviceid DeterminedOrangeMarillin2 {
+    }
+    serviceid CharmingBeigeCallie {
+    }
+    string HappyBrownDaisie {
+    }
+  }
+  dummy.DEFAULT BlushingTomatoTalyah {
+    _hidden_value = true
+  }
+  boolean SoleLimeKirstyn2 {
+    _hidden_value = true
+  }
+  json MinimalPlumMorganica {
+    _hidden_value = true
+  }
+  json CharmingBeigeCallie2 {
+    _hidden_value = true
+  }
+  CircularRoseOrly = "Im only familiar with 25 letters in the English language. I dont know why."
+  DeterminedOrangeMarillin2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  CharmingBeigeCallie = "Why was it called the dark ages? Because of all the knights. "
+  HappyBrownDaisie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

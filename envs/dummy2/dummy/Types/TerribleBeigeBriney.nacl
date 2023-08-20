@@ -1,0 +1,83 @@
+type dummy.TerribleBeigeBriney {
+  annotations {
+    serviceid_number LengthySapphireRania2 {
+    }
+    number SickFuchsiaGerhardine2 {
+    }
+    serviceid_number DistinctiveLimeKristen2 {
+    }
+    json AngryAquamarineBenetta {
+    }
+    string SoftCoralElayne {
+    }
+    json GratefulIvoryJorey {
+    }
+  }
+  dummy.OrdinaryCopperEdi HistoricLavenderKellie {
+    SillyYellowWini = 103
+    CruelAquamarineBessy = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    TameYellowYalonda = 219
+    RareWhiteWanda = 73
+    SpareMaroonLillis = "Im only familiar with 25 letters in the English language. I dont know why."
+    StupidGreenIzabel = 178
+    MaximumGreenIlyssa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    TerritorialSalmonPriscella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    VariedRedNoreen = 108
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 173
+    IntenseLavenderKatuscha = 948
+    SubtleMoccasinLucie = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  serviceid_number ImmenseAmaranthAdele {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EmbarrassingSilverSaundra {
+    _hidden_value = true
+  }
+  boolean VivaciousBlueCecilla {
+    _hidden_value = true
+  }
+  boolean GreatAmaranthAddia {
+    _hidden_value = true
+  }
+  serviceid_number MedievalJadeKaren {
+    _hidden_value = true
+  }
+  serviceid MobilePurpleMoria {
+    _hidden_value = true
+  }
+  string PermanentFuchsiaGavrielle {
+    _hidden_value = true
+  }
+  hidden_boolean WetAquamarineBelita {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ControversialLimeKyle2 {
+    _hidden_value = true
+  }
+  hidden_boolean ConsistentHarlequinJanith2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json FunctionalMaroonLexie {
+    _hidden_value = true
+  }
+  hidden_boolean RottenApricotAriella {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  LengthySapphireRania2 = 6
+  SickFuchsiaGerhardine2 = 475
+  DistinctiveLimeKristen2 = 250
+  AngryAquamarineBenetta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SoftCoralElayne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  GratefulIvoryJorey = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

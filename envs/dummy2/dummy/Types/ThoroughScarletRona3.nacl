@@ -1,0 +1,39 @@
+type dummy.ThoroughScarletRona3 {
+  annotations {
+    dummy.DEFAULT SolidGreenIdalina3 {
+    }
+    number InvolvedCoffeeDenice3 {
+    }
+    hidden_boolean SoundAmethystAngeline2 {
+    }
+    string BroadCoralElisabetta5 {
+    }
+    serviceid_number ContinuousIvoryJoycelin {
+    }
+  }
+  json RelatedIndigoJessamine2 {
+    _hidden_value = true
+  }
+  string KindBlackCaryl {
+    _hidden_value = true
+  }
+  serviceid WesternChocolateDeerdre3 {
+    _hidden_value = true
+  }
+  serviceid_number CondemnedAquamarineBerthe2 {
+    _hidden_value = true
+  }
+  json AmericanBronzeCorrianne5 {
+    _hidden_value = true
+  }
+  json AmbitiousPeachMaureene2 {
+    _hidden_value = true
+  }
+  SolidGreenIdalina3 = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  InvolvedCoffeeDenice3 = 45
+  BroadCoralElisabetta5 = "What do you call two barracuda fish?  A Pairacuda!"
+  ContinuousIvoryJoycelin = 975
+  _hidden_value = true
+}

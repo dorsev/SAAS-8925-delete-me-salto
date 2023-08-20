@@ -1,0 +1,83 @@
+type dummy.RichTomatoStevena {
+  annotations {
+    serviceid BraveBeigeCal {
+    }
+    dummy.AnxiousHarlequinJanna HelplessTealSophey2 {
+    }
+    serviceid MagnificentWhiteVanny {
+    }
+    string ExtraordinaryIndigoJessika {
+    }
+    serviceid_number AverageCoralElyse {
+    }
+  }
+  boolean SpiritualLavenderKatrinka {
+    _hidden_value = true
+  }
+  serviceid NakedMagentaLeanor {
+    _hidden_value = true
+  }
+  number RoastedWhiteWenonah {
+    _hidden_value = true
+  }
+  serviceid_number BlankPinkMelodie {
+    _hidden_value = true
+  }
+  json MixedMaroonLesly {
+    _hidden_value = true
+  }
+  boolean HighBlueCharity {
+    _hidden_value = true
+  }
+  serviceid_number DelicateOliveMadalena2 {
+    _hidden_value = true
+  }
+  string PerfectBlackCaterina2 {
+    _hidden_value = true
+  }
+  string SplendidOrangeMandie {
+    _hidden_value = true
+  }
+  boolean TameTomatoSusette {
+    _hidden_value = true
+  }
+  serviceid_number FunnyVioletTwyla {
+    _hidden_value = true
+  }
+  number AdditionalCopperDottie {
+    _hidden_value = true
+  }
+  serviceid_number OrangeWhiteVinny2 {
+    _hidden_value = true
+  }
+  boolean TechnicalCopperEde2 {
+    _hidden_value = true
+  }
+  string BrightVioletTova {
+    _hidden_value = true
+  }
+  serviceid BewilderedAquamarineBerny2 {
+    _hidden_value = true
+  }
+  serviceid_number HappyBlackCarola {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DivineRoseOpaline {
+    _hidden_value = true
+  }
+  json LowAmberAllyce2 {
+    _hidden_value = true
+  }
+  serviceid_number IncredibleRosePatty2 {
+    _hidden_value = true
+  }
+  json StrictLavenderKatha {
+    _hidden_value = true
+  }
+  BraveBeigeCal = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HelplessTealSophey2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MagnificentWhiteVanny = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ExtraordinaryIndigoJessika = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AverageCoralElyse = 90
+  _hidden_value = true
+}

@@ -1,0 +1,26 @@
+type dummy.NiceBrownCybill {
+  annotations {
+    number HostileOrangeMariejeanne2 {
+    }
+    json WeeSapphireRevkah2 {
+    }
+    number AngryFuchsiaGillian {
+    }
+    serviceid ManyWhiteVera {
+    }
+    serviceid_number GuiltyFuchsiaGilly {
+    }
+    boolean MissingPinkMellisent {
+    }
+  }
+  boolean ZanyYellowZsazsa2 {
+    _hidden_value = true
+  }
+  HostileOrangeMariejeanne2 = 543
+  WeeSapphireRevkah2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AngryFuchsiaGillian = 797
+  ManyWhiteVera = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GuiltyFuchsiaGilly = 447
+  MissingPinkMellisent = false
+  _hidden_value = true
+}

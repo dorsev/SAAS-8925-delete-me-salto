@@ -1,0 +1,59 @@
+type dummy.DoubtfulTealSindee {
+  annotations {
+    string SolidAquamarineBasia {
+    }
+    json WonderfulYellowZola {
+    }
+    json FranticAzureBirgit {
+    }
+    serviceid_number EventualTanSharron {
+    }
+    hidden_boolean BigVioletTonie {
+    }
+    dummy.SpectacularMaroonLibbie DeterminedOrangeMarin {
+    }
+  }
+  number OutrageousAzureBrandy {
+    _hidden_value = true
+  }
+  hidden_boolean AlliedPlumMisti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number MistyTurquoiseTheda {
+    _hidden_value = true
+  }
+  boolean InternalCoralEdythe {
+    _hidden_value = true
+  }
+  hidden_boolean ConsistentHarlequinJanith {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json AdministrativeGreenHonoria {
+    _hidden_value = true
+  }
+  boolean RevolutionaryJadeKary {
+    _hidden_value = true
+  }
+  string PleasedEmeraldGabriell {
+    _hidden_value = true
+  }
+  string UncertainMagentaLeland {
+    _hidden_value = true
+  }
+  json DisturbingTealSherill {
+    _hidden_value = true
+  }
+  serviceid UnderlyingLimeKori2 {
+    _hidden_value = true
+  }
+  SolidAquamarineBasia = "Why didnt the skeleton cross the road? Because he had no guts."
+  WonderfulYellowZola = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FranticAzureBirgit = "How come the stadium got hot after the game? Because all of the fans left."
+  EventualTanSharron = 250
+  DeterminedOrangeMarin = 195
+  _hidden_value = true
+}

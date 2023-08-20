@@ -1,0 +1,81 @@
+type dummy.FutureCoffeeDolorita {
+  annotations {
+    serviceid_number UnconsciousSapphireRaven4 {
+    }
+    number MassGreenIlla {
+    }
+    string SelectedPlumMillie {
+    }
+    serviceid SuccessfulChocolateDarsie {
+    }
+    serviceid EncouragingBlackCari2 {
+    }
+    string ExplicitMaroonLisetta2 {
+    }
+  }
+  hidden_boolean MuteApricotAnnecorinne2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number FatalPurpleMyrtle3 {
+    _hidden_value = true
+  }
+  json InstantSapphireRandy4 {
+    _hidden_value = true
+  }
+  string BroadAmberAlidia {
+    _hidden_value = true
+  }
+  number ComplexCopperDrucie2 {
+    _hidden_value = true
+  }
+  "List<number>" LimitedCoralElladine {
+    _hidden_value = true
+  }
+  boolean DisturbedAzureBeverley2 {
+    _hidden_value = true
+  }
+  json GiganticAmaranthAddi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ArabLimeKiri {
+    _hidden_value = true
+  }
+  "List<boolean>" WoodenGreenHortense {
+    _hidden_value = true
+  }
+  boolean SolidAquamarineBasia3 {
+    _hidden_value = true
+  }
+  serviceid_number AppropriateChocolateDarcey2 {
+    _hidden_value = true
+  }
+  number AdorableTomatoSydel3 {
+    _hidden_value = true
+  }
+  serviceid_number MagicOrangeManya2 {
+    _hidden_value = true
+  }
+  serviceid JuniorIvoryJonis2 {
+    _hidden_value = true
+  }
+  hidden_boolean UnableCoralEloisa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number CompetitiveGrayHedy2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PurpleScarletRisa {
+    _hidden_value = true
+  }
+  UnconsciousSapphireRaven4 = 380
+  MassGreenIlla = 452
+  SelectedPlumMillie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SuccessfulChocolateDarsie = "To be Frank, I'd have to change my name."
+  EncouragingBlackCari2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ExplicitMaroonLisetta2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

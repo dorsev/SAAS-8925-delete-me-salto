@@ -1,0 +1,74 @@
+type dummy.ConfusedMaroonLil {
+  annotations {
+    boolean ShyTomatoStormie3 {
+    }
+    number ProbableSalmonPhyllys3 {
+    }
+    serviceid TotalBrownDaniella2 {
+    }
+    hidden_boolean SatisfiedHarlequinJeana3 {
+    }
+    hidden_boolean FunnyBlackCarmel {
+    }
+    dummy.DEFAULT ExtraCoffeeDiane2 {
+    }
+  }
+  dummy.OrdinaryCopperEdi RetiredSilverSarah {
+    SillyYellowWini = 685
+    CruelAquamarineBessy = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    TameYellowYalonda = 295
+    RareWhiteWanda = 98
+    SpareMaroonLillis = "To be Frank, I'd have to change my name."
+    StupidGreenIzabel = 391
+    MaximumGreenIlyssa = "Did you know that protons have mass? I didn't even know they were catholic."
+    TerritorialSalmonPriscella = "How come the stadium got hot after the game? Because all of the fans left."
+    VariedRedNoreen = 925
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 11
+    IntenseLavenderKatuscha = 521
+    SubtleMoccasinLucie = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  json FlexibleLavenderKathlin {
+    _hidden_value = true
+  }
+  serviceid FriendlyBlackCarmel {
+    _hidden_value = true
+  }
+  boolean MonthlyMaroonLinnea2 {
+    _hidden_value = true
+  }
+  serviceid ArchitecturalRosePatrice {
+    _hidden_value = true
+  }
+  string AestheticSapphireRea2 {
+    _hidden_value = true
+  }
+  number OralLimeKylila {
+    _hidden_value = true
+  }
+  number MotionlessTurquoiseTheo2 {
+    _hidden_value = true
+  }
+  serviceid WarmCopperDulcy {
+    _hidden_value = true
+  }
+  string FuriousRedNicolina2 {
+    _hidden_value = true
+  }
+  serviceid_number BizarreTanSeana2 {
+    _hidden_value = true
+  }
+  string VaguePinkMel {
+    _hidden_value = true
+  }
+  ShyTomatoStormie3 = false
+  ProbableSalmonPhyllys3 = 544
+  TotalBrownDaniella2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ExtraCoffeeDiane2 = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  _hidden_value = true
+}

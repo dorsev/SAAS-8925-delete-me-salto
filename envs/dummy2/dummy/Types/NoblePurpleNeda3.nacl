@@ -1,0 +1,23 @@
+type dummy.NoblePurpleNeda3 {
+  annotations {
+    dummy.ExactLimeKordula SuitableCrimsonEmelyne {
+    }
+    number WhiteBronzeClovis {
+    }
+    json ValidLavenderKerstin {
+    }
+    json PrettyIndigoJennie {
+    }
+    serviceid_number WastefulYellowZilvia {
+    }
+  }
+  "List<serviceid_number>" FoolishSapphireReiko2 {
+    _hidden_value = true
+  }
+  SuitableCrimsonEmelyne = 252
+  WhiteBronzeClovis = 298
+  ValidLavenderKerstin = "A steak pun is a rare medium well done."
+  PrettyIndigoJennie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  WastefulYellowZilvia = 144
+  _hidden_value = true
+}

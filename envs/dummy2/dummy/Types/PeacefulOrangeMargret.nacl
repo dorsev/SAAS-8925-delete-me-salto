@@ -1,0 +1,96 @@
+type dummy.PeacefulOrangeMargret {
+  annotations {
+    string ImportantTealSophie {
+    }
+    number EmptyAmethystAndra {
+    }
+    json SunnyTanSharia {
+    }
+    boolean ExtremeHarlequinJacki {
+    }
+    json FilthyAmberAlexis {
+    }
+    json StrangeTurquoiseTimothea {
+    }
+  }
+  number AnonymousSapphireRayshell {
+    _hidden_value = true
+  }
+  number KeyCopperDorothee {
+    _hidden_value = true
+  }
+  string SecondaryFuchsiaGertrud {
+    _hidden_value = true
+  }
+  hidden_boolean FamousCoralElianora {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SillyIvoryJoell {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string AccessibleOrangeMarilin {
+    _hidden_value = true
+  }
+  json AmazingMoccasinLizette {
+    _hidden_value = true
+  }
+  hidden_boolean WonderfulEmeraldFlossi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SillyYellowWinifred {
+    _hidden_value = true
+  }
+  number PriorRosePaulie {
+    _hidden_value = true
+  }
+  hidden_boolean OrganisationalTanShara {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BroadAmberAlie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ObnoxiousAzureBrandi {
+    _hidden_value = true
+  }
+  serviceid_number FrozenScarletRosa {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EuropeanBronzeCon {
+    _hidden_value = true
+  }
+  number UglyPlumMidge {
+    _hidden_value = true
+  }
+  string HorribleOrangeMaren {
+    _hidden_value = true
+  }
+  string ManyAmethystAnetta {
+    _hidden_value = true
+  }
+  serviceid UpperCyanFaustine {
+    _hidden_value = true
+  }
+  string ContinuingGreenIrma {
+    _hidden_value = true
+  }
+  serviceid DetailedCrimsonEmily {
+    _hidden_value = true
+  }
+  ImportantTealSophie = "Why do birds fly south for the winter? Because it's too far to walk."
+  EmptyAmethystAndra = 588
+  SunnyTanSharia = "What creature is smarter than a talking parrot? A spelling bee."
+  ExtremeHarlequinJacki = false
+  FilthyAmberAlexis = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  StrangeTurquoiseTimothea = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

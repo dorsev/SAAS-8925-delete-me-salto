@@ -1,0 +1,35 @@
+type dummy.BigAmaranthAbbi {
+  annotations {
+    serviceid_number PuzzledTomatoStephi {
+    }
+    boolean PowerfulTomatoStephanie {
+    }
+    json EconomicBlushClaresta {
+    }
+    serviceid NuclearCoffeeDonna2 {
+    }
+    json RainyAquaAustin {
+    }
+  }
+  number DomesticCopperEaster2 {
+    _hidden_value = true
+  }
+  serviceid_number HelpfulBlackCaroljean2 {
+    _hidden_value = true
+  }
+  number HuskyApricotAnnabela {
+    _hidden_value = true
+  }
+  "List<dummy.ExactLimeKordula>" ConcernedBronzeCorrena {
+    _hidden_value = true
+  }
+  string ClassicalHarlequinJacklin {
+    _hidden_value = true
+  }
+  PuzzledTomatoStephi = 46
+  PowerfulTomatoStephanie = true
+  EconomicBlushClaresta = "Why was it called the dark ages? Because of all the knights. "
+  NuclearCoffeeDonna2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  RainyAquaAustin = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

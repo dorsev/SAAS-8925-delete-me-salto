@@ -1,0 +1,25 @@
+type dummy.DeadTealSileas {
+  annotations {
+    dummy.DEFAULT MistyTurquoiseTheda4 {
+    }
+    json SafeCopperDorey {
+    }
+    dummy.SpectacularMaroonLibbie CoastalPlumMichel2 {
+    }
+    boolean OutstandingIndigoJenna2 {
+    }
+    serviceid ConfusedMaroonLil2 {
+    }
+  }
+  json ScornfulBeigeBrianne {
+    _hidden_value = true
+  }
+  MistyTurquoiseTheda4 = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  SafeCopperDorey = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CoastalPlumMichel2 = 355
+  OutstandingIndigoJenna2 = true
+  ConfusedMaroonLil2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

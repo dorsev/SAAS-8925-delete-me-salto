@@ -1,0 +1,54 @@
+type dummy.RidiculousMoccasinLiz2 {
+  annotations {
+    number ProfitablePurpleNaomi2 {
+    }
+    json GiganticAmaranthAdda3 {
+    }
+    serviceid_number GrowingCrimsonEnrika2 {
+    }
+  }
+  number PreciousWhiteVirginie2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ChineseGoldGuglielma5 {
+    _hidden_value = true
+  }
+  json IslamicRoseOlympe {
+    _hidden_value = true
+  }
+  serviceid ExternalEmeraldFlorida3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RussianCyanFelicity2 {
+    _hidden_value = true
+  }
+  number IncCrimsonErma2 {
+    _hidden_value = true
+  }
+  boolean ZanyYellowZsazsa5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BlindIvoryJuanita3 {
+    _hidden_value = true
+  }
+  string AngryFuchsiaGillan2 {
+    _hidden_value = true
+  }
+  string ImpossibleTealSorcha2 {
+    _hidden_value = true
+  }
+  hidden_boolean LoudApricotAnnadiana3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BraveMoccasinLucine2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ProfitablePurpleNaomi2 = 197
+  GiganticAmaranthAdda3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GrowingCrimsonEnrika2 = 851
+  _hidden_value = true
+}

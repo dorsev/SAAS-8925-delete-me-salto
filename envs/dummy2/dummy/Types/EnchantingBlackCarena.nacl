@@ -1,0 +1,65 @@
+type dummy.EnchantingBlackCarena {
+  annotations {
+    dummy.DEFAULT EagerPlumMilzie2 {
+    }
+    serviceid DeterminedBeigeCandida2 {
+    }
+    serviceid_number LengthySapphireRanice2 {
+    }
+    string MeltedAquaAurea {
+    }
+    boolean BreezyAmaranthAigneis {
+    }
+  }
+  dummy.DEFAULT ClearTomatoTammi {
+    _hidden_value = true
+  }
+  string WonderfulBlueCelesta3 {
+    _hidden_value = true
+  }
+  hidden_boolean CurlyAmberAlbina3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean StickyAquamarineBeatrisa2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json GeneralBlushChristan3 {
+    _hidden_value = true
+  }
+  serviceid_number AvailableBlushChrystel {
+    _hidden_value = true
+  }
+  string EconomicBlushClaresta2 {
+    _hidden_value = true
+  }
+  number ConfidentialScarletRomola {
+    _hidden_value = true
+  }
+  json MagneticPeachMaurizia {
+    _hidden_value = true
+  }
+  json TastyAquaAshli3 {
+    _hidden_value = true
+  }
+  json NotablePeachMartica {
+    _hidden_value = true
+  }
+  serviceid AsleepJadeKarmen2 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula UpperCyanFaustina {
+    _hidden_value = true
+  }
+  EagerPlumMilzie2 = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  DeterminedBeigeCandida2 = "Why was it called the dark ages? Because of all the knights. "
+  LengthySapphireRanice2 = 134
+  MeltedAquaAurea = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  BreezyAmaranthAigneis = true
+  _hidden_value = true
+}

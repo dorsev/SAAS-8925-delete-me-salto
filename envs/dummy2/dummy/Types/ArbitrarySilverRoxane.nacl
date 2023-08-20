@@ -1,0 +1,49 @@
+type dummy.ArbitrarySilverRoxane {
+  annotations {
+    boolean ExcellentCoralEffie {
+    }
+    serviceid_number JuniorIvoryJonis {
+    }
+    json LittleBlushChlo {
+    }
+  }
+  boolean PoorBronzeCoretta2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SoftCoralElayne3 {
+    _hidden_value = true
+  }
+  boolean RedBrownDallas3 {
+    _hidden_value = true
+  }
+  json InstantSapphireRandy {
+    _hidden_value = true
+  }
+  serviceid VictoriousBlueCecelia2 {
+    _hidden_value = true
+  }
+  json HumanBronzeConstanta {
+    _hidden_value = true
+  }
+  serviceid_number GreatAmaranthAddie {
+    _hidden_value = true
+  }
+  hidden_boolean MedievalJadeKaren2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json DefinitePeachMartguerita {
+    _hidden_value = true
+  }
+  boolean RottenApricotArlana {
+    _hidden_value = true
+  }
+  serviceid AshamedScarletRosanna2 {
+    _hidden_value = true
+  }
+  ExcellentCoralEffie = true
+  JuniorIvoryJonis = 730
+  LittleBlushChlo = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

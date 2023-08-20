@@ -1,0 +1,39 @@
+type dummy.ExternalEmeraldFlorina2 {
+  annotations {
+    json PoisedTurquoiseThomasa2 {
+    }
+    hidden_boolean DrabTurquoiseTate {
+    }
+    serviceid_number FellowJadeJustinn {
+    }
+    number PastCoffeeDiann2 {
+    }
+    serviceid_number BigBlushCheslie {
+    }
+    serviceid_number HeavyAmethystAndromache {
+    }
+  }
+  serviceid_number SupposedCyanFarrah2 {
+    _hidden_value = true
+  }
+  serviceid_number PsychologicalIvoryJolee {
+    _hidden_value = true
+  }
+  serviceid_number PoisedTurquoiseThomasa3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SupremeGreenIsabelle {
+    _hidden_value = true
+  }
+  hidden_boolean PublicBlushChrysler {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  PoisedTurquoiseThomasa2 = "A steak pun is a rare medium well done."
+  FellowJadeJustinn = 65
+  PastCoffeeDiann2 = 196
+  BigBlushCheslie = 164
+  HeavyAmethystAndromache = 246
+  _hidden_value = true
+}

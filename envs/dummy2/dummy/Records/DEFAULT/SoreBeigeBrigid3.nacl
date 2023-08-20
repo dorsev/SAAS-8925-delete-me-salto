@@ -1,0 +1,5 @@
+dummy.DEFAULT SoreBeigeBrigid3 {
+  legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _parent = dummy.DisturbingTealSherill2
+  _alias = "SoreBeigeBrigid3_alias"
+}

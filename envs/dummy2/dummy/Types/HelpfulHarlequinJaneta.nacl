@@ -1,0 +1,122 @@
+type dummy.HelpfulHarlequinJaneta {
+  annotations {
+    serviceid ExcitedBlackCarissa {
+    }
+    serviceid CrucialFuchsiaGenny2 {
+    }
+    hidden_boolean SpatialSalmonPerle2 {
+    }
+    number PanickyAzureBren2 {
+    }
+    number SlipperyAquamarineBarbaraanne {
+    }
+  }
+  dummy.SpectacularMaroonLibbie HelpfulBlackCarolina {
+    FriendlyBlackCarma = 540
+    FrightenedMagentaLavena = 546
+    RepulsiveBeigeBrena = "Why didnt the skeleton cross the road? Because he had no guts."
+    UptightBeigeBrittni = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    ExactLimeKordula2 = 332
+    LocalBlueCharmian = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    SensibleIvoryJordana = "Why is Peter Pan always flying? Because he Neverlands."
+    MonetaryIvoryJoey = "I'll tell you what often gets over looked... garden fences."
+    WickedBeigeBryna = "Dad Im hungry  Hi hungry Im dad"
+    AshamedScarletRosamund = 411
+    ChillyAmaranthAilsun = 674
+    CooingAmethystAngelique = 125
+    FatalPurpleMyrtle = 794
+    ThoughtlessBeigeBrinna = "Why do birds fly south for the winter? Because it's too far to walk."
+    EvilAzureBili = 617
+    RelievedBlueCathie = true
+    CleverTealSibeal = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    GrowingCrimsonEnrichetta = 309
+    _hidden_value = true
+  }
+  json ArtificialMagentaLena {
+    _hidden_value = true
+  }
+  json SoftApricotAntonina {
+    _hidden_value = true
+  }
+  string TightAquamarineBecki {
+    _hidden_value = true
+  }
+  number TechnicalCopperEdee2 {
+    _hidden_value = true
+  }
+  serviceid_number WorryingSilverRozalin2 {
+    _hidden_value = true
+  }
+  serviceid_number NewWhiteVeronique {
+    _hidden_value = true
+  }
+  number EncouragingBlackCari {
+    _hidden_value = true
+  }
+  serviceid MushyWhiteVerla {
+    _hidden_value = true
+  }
+  boolean DiverseRedNicola {
+    _hidden_value = true
+  }
+  hidden_boolean ConcernedTealSibilla {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string CorrespondingPlumMiquela2 {
+    _hidden_value = true
+  }
+  string TameYellowYelena {
+    _hidden_value = true
+  }
+  serviceid_number MinorEmeraldGabriel2 {
+    _hidden_value = true
+  }
+  boolean CleverTealSibeal3 {
+    _hidden_value = true
+  }
+  string CurlyAmberAlbertine {
+    _hidden_value = true
+  }
+  serviceid MajorBlushClaire2 {
+    _hidden_value = true
+  }
+  boolean PersonalBronzeCoralyn {
+    _hidden_value = true
+  }
+  json SelfishBeigeBridgette {
+    _hidden_value = true
+  }
+  "Map<boolean>" OddWhiteVinita {
+    _hidden_value = true
+  }
+  json EmbarrassingSilverSaudra2 {
+    _hidden_value = true
+  }
+  serviceid_number PowerfulTomatoStephanie2 {
+    _hidden_value = true
+  }
+  hidden_boolean ElectronicGreenIngaberg2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DizzyVioletTressa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json SolidAquamarineBasia2 {
+    _hidden_value = true
+  }
+  ExcitedBlackCarissa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CrucialFuchsiaGenny2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  PanickyAzureBren2 = 880
+  SlipperyAquamarineBarbaraanne = 818
+  _hidden_value = true
+}

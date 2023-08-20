@@ -1,0 +1,112 @@
+type dummy.CorporateEmeraldGarnet5 {
+  annotations {
+    serviceid_number GiganticVioletUlrike {
+    }
+    serviceid VoluntaryGoldGwenette3 {
+    }
+    hidden_boolean DeterminedBeigeCandie {
+    }
+    string LocalBlueCharmane3 {
+    }
+    string PartialOliveLyndel2 {
+    }
+  }
+  "Map<dummy.OrdinaryCopperEdi>" MuddyTurquoiseTheodosia {
+    SillyYellowWini = 15
+    CruelAquamarineBessy = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    TameYellowYalonda = 948
+    RareWhiteWanda = 95
+    SpareMaroonLillis = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    StupidGreenIzabel = 319
+    MaximumGreenIlyssa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    TerritorialSalmonPriscella = "Why do birds fly south for the winter? Because it's too far to walk."
+    VariedRedNoreen = 909
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 226
+    IntenseLavenderKatuscha = 247
+    SubtleMoccasinLucie = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna SleepyTomatoSukey {
+    ColonialPeachMaure = "I'll tell you what often gets over looked... garden fences."
+    GloriousBlackCarmine = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  json DrabTurquoiseTasha2 {
+    _hidden_value = true
+  }
+  hidden_boolean DistinctHarlequinJanene {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json AnnoyedAquamarineBennie {
+    _hidden_value = true
+  }
+  hidden_boolean UncomfortablePlumMoina3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string StructuralIvoryJosey {
+    _hidden_value = true
+  }
+  hidden_boolean ArtificialMagentaLenee2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SecretGrayHetty {
+    _hidden_value = true
+  }
+  serviceid_number MainBlushCilka {
+    _hidden_value = true
+  }
+  "List<boolean>" ParliamentaryFuchsiaGiacinta2 {
+    _hidden_value = true
+  }
+  number ExternalEmeraldFlorie {
+    _hidden_value = true
+  }
+  string ResidentialIndigoJessamyn {
+    _hidden_value = true
+  }
+  "List<serviceid>" ProudBlueCathee2 {
+    _hidden_value = true
+  }
+  hidden_boolean NoisySilverSadie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ProgressiveOliveMadella3 {
+    _hidden_value = true
+  }
+  json PricklyAquaAurlie2 {
+    _hidden_value = true
+  }
+  serviceid VaguePinkMehetabel3 {
+    _hidden_value = true
+  }
+  number MagicOrangeMara {
+    _hidden_value = true
+  }
+  hidden_boolean KoreanSapphireRasla2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UnfortunatePeachMarsha {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IntenseLavenderKattie5 {
+    _hidden_value = true
+  }
+  GiganticVioletUlrike = 736
+  VoluntaryGoldGwenette3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LocalBlueCharmane3 = "I'll tell you what often gets over looked... garden fences."
+  PartialOliveLyndel2 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

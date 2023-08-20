@@ -1,0 +1,87 @@
+type dummy.ItalianGoldGratiana {
+  annotations {
+    boolean VocationalTanShalne {
+    }
+    serviceid_number AliveFuchsiaGilligan {
+    }
+    serviceid_number PrettyIndigoJennifer {
+    }
+    hidden_boolean ArtificialMagentaLenette {
+    }
+    string AverageAmaranthAbagail {
+    }
+    json MightyWhiteVerena {
+    }
+  }
+  number LegitimatePinkMay2 {
+    _hidden_value = true
+  }
+  serviceid FragileTealSondra2 {
+    _hidden_value = true
+  }
+  hidden_boolean SoleLimeKirsti {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json GothicSapphireRamona {
+    _hidden_value = true
+  }
+  string HardBronzeCordi {
+    _hidden_value = true
+  }
+  json EffectiveChocolateDeena {
+    _hidden_value = true
+  }
+  serviceid_number PreliminaryOliveLyndsie {
+    _hidden_value = true
+  }
+  serviceid_number RoundYellowWilhelmine {
+    _hidden_value = true
+  }
+  hidden_boolean PreliminaryOliveLyndy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CalmBeigeCal2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FlyingMoccasinLorelei {
+    _hidden_value = true
+  }
+  number FlexibleLavenderKathleen {
+    _hidden_value = true
+  }
+  json ExoticScarletRikki {
+    _hidden_value = true
+  }
+  string WorryingSilverRozanna {
+    _hidden_value = true
+  }
+  "Map<dummy.DEFAULT>" NuclearCoffeeDonielle2 {
+    _hidden_value = true
+  }
+  number LongAmethystAme {
+    _hidden_value = true
+  }
+  hidden_boolean ShaggyAquaAvis {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MeanIvoryJulee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json IncCrimsonErmengarde {
+    _hidden_value = true
+  }
+  VocationalTanShalne = true
+  AliveFuchsiaGilligan = 500
+  PrettyIndigoJennifer = 829
+  AverageAmaranthAbagail = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MightyWhiteVerena = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

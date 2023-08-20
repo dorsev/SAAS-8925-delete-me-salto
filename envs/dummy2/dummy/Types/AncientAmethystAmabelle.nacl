@@ -1,0 +1,25 @@
+type dummy.AncientAmethystAmabelle {
+  annotations {
+    number LexicalSilverSadie {
+    }
+    number TartYellowXena {
+    }
+    number EarlyAmethystAmandi {
+    }
+    hidden_boolean DyingScarletRobyn4 {
+    }
+    json ToryGreenIndira {
+    }
+    json ObedientBlackCassie2 {
+    }
+  }
+  string WanderingTomatoSuzanna2 {
+    _hidden_value = true
+  }
+  LexicalSilverSadie = 901
+  TartYellowXena = 17
+  EarlyAmethystAmandi = 838
+  ToryGreenIndira = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ObedientBlackCassie2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

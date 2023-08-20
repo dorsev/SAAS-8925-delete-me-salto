@@ -1,0 +1,52 @@
+type dummy.EnthusiasticPinkMerrie2 {
+  annotations {
+    serviceid GenerousLavenderKaylee2 {
+    }
+    serviceid ArtisticPeachMathilda2 {
+    }
+    serviceid_number ModestLavenderKelsi7 {
+    }
+    json BrightTomatoTamara {
+    }
+  }
+  boolean RigidPinkMerrily3 {
+    _hidden_value = true
+  }
+  hidden_boolean ArmedGrayHelaina3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json GreatBlueCharil4 {
+    _hidden_value = true
+  }
+  serviceid_number RattyWhiteWandis {
+    _hidden_value = true
+  }
+  string BoldPlumMinnaminnie5 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HelpfulHarlequinJaneta2 {
+    _hidden_value = true
+  }
+  json RequiredMaroonLeta3 {
+    _hidden_value = true
+  }
+  string BloodyTomatoTallou5 {
+    _hidden_value = true
+  }
+  number FatIvoryJoelle2 {
+    _hidden_value = true
+  }
+  serviceid BusyTealShirlene4 {
+    _hidden_value = true
+  }
+  string NationalBlueCherianne {
+    _hidden_value = true
+  }
+  GenerousLavenderKaylee2 = "Slept like a log last night  woke up in the fireplace."
+  ArtisticPeachMathilda2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ModestLavenderKelsi7 = 24
+  BrightTomatoTamara = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

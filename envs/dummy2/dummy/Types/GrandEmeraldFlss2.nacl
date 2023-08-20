@@ -1,0 +1,84 @@
+type dummy.GrandEmeraldFlss2 {
+  annotations {
+    serviceid BloodyTomatoTally4 {
+    }
+    number AverageTomatoTabbatha5 {
+    }
+    number EmotionalGrayHester2 {
+    }
+    json LabourBrownDaffy2 {
+    }
+    serviceid_number PlasticAquaAurelie2 {
+    }
+  }
+  serviceid_number SquealingApricotArabel3 {
+    _hidden_value = true
+  }
+  boolean LittleAmaranthAdella {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula OccasionalIvoryJuliette2 {
+    _hidden_value = true
+  }
+  hidden_boolean PreciseIndigoJobie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json OkSapphireRhianon3 {
+    _hidden_value = true
+  }
+  string SimilarBronzeConstancia {
+    _hidden_value = true
+  }
+  json BadVioletToma5 {
+    _hidden_value = true
+  }
+  serviceid CorrespondingPlumMiquela4 {
+    _hidden_value = true
+  }
+  number PricklyWhiteVivi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ApparentCyanFay3 {
+    _hidden_value = true
+  }
+  number SkinnyAmberAlthea {
+    _hidden_value = true
+  }
+  boolean SuccessfulBlueCatriona {
+    _hidden_value = true
+  }
+  serviceid_number FancyTurquoiseTedi5 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula AsleepJadeKarlyn {
+    _hidden_value = true
+  }
+  hidden_boolean SensibleIvoryJordanna3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json HelpfulBlackCaroline3 {
+    _hidden_value = true
+  }
+  boolean CatholicHarlequinJamie3 {
+    _hidden_value = true
+  }
+  serviceid PerfectCrimsonEttie {
+    _hidden_value = true
+  }
+  serviceid EquivalentJadeKakalina2 {
+    _hidden_value = true
+  }
+  string PermanentFuchsiaGaye {
+    _hidden_value = true
+  }
+  BloodyTomatoTally4 = "How come the stadium got hot after the game? Because all of the fans left."
+  AverageTomatoTabbatha5 = 213
+  EmotionalGrayHester2 = 17
+  LabourBrownDaffy2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PlasticAquaAurelie2 = 948
+  _hidden_value = true
+}

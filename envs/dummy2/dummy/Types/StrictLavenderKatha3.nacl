@@ -1,0 +1,33 @@
+type dummy.StrictLavenderKatha3 {
+  annotations {
+    serviceid EntitledIvoryJuliane2 {
+    }
+    json DampMoccasinLotta {
+    }
+    dummy.DEFAULT BadTurquoiseToby {
+    }
+    dummy.OrdinaryCopperEdi MeaningfulTealSheree {
+    }
+    serviceid OccupationalOliveMaddie {
+    }
+  }
+  "List<serviceid>" ThoroughScarletRona {
+    _hidden_value = true
+  }
+  hidden_boolean DifferentTealSilvia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FarBlushChristiane {
+    _hidden_value = true
+  }
+  EntitledIvoryJuliane2 = "Dad Im hungry  Hi hungry Im dad"
+  DampMoccasinLotta = "How come the stadium got hot after the game? Because all of the fans left."
+  BadTurquoiseToby = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  MeaningfulTealSheree = "Whoever invented the knock-knock joke should get a no bell prize."
+  OccupationalOliveMaddie = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

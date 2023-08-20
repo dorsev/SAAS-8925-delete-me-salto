@@ -1,0 +1,27 @@
+type dummy.GiantMoccasinLotte3 {
+  annotations {
+    json ColouredMaroonLivia3 {
+    }
+    string CloudyTomatoTamqrah {
+    }
+    number CognitiveSalmonQuerida6 {
+    }
+    string RepulsiveBeigeBrenn {
+    }
+    hidden_boolean RequiredMaroonLetisha2 {
+    }
+    dummy.DEFAULT UniversalJadeKacey2 {
+    }
+  }
+  serviceid CulturalCoralElinor {
+    _hidden_value = true
+  }
+  ColouredMaroonLivia3 = "To be Frank, I'd have to change my name."
+  CloudyTomatoTamqrah = "What do you call two barracuda fish?  A Pairacuda!"
+  CognitiveSalmonQuerida6 = 80
+  RepulsiveBeigeBrenn = "Whoever invented the knock-knock joke should get a no bell prize."
+  UniversalJadeKacey2 = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  _hidden_value = true
+}

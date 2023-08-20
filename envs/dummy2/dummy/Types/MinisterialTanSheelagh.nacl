@@ -1,0 +1,48 @@
+type dummy.MinisterialTanSheelagh {
+  annotations {
+    serviceid AdditionalCopperDottie3 {
+    }
+    string DarkTurquoiseTaryn {
+    }
+    serviceid EffectiveChocolateDee {
+    }
+    json FondSalmonPiper {
+    }
+    dummy.SpectacularMaroonLibbie RubberSilverSaree {
+    }
+    boolean RespectiveSalmonPerrine2 {
+    }
+    dummy.ExactLimeKordula IrrelevantPurpleNanete3 {
+    }
+  }
+  string StatisticalMagentaLanni {
+    _hidden_value = true
+  }
+  boolean ImpressedPeachMarisa3 {
+    _hidden_value = true
+  }
+  serviceid PotentialCoralElberta2 {
+    _hidden_value = true
+  }
+  hidden_boolean AdverseSapphireRanna2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CatholicHarlequinJamima2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number RequiredMaroonLethia {
+    _hidden_value = true
+  }
+  AdditionalCopperDottie3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DarkTurquoiseTaryn = "What creature is smarter than a talking parrot? A spelling bee."
+  EffectiveChocolateDee = "I'll tell you what often gets over looked... garden fences."
+  FondSalmonPiper = "Did you know that protons have mass? I didn't even know they were catholic."
+  RubberSilverSaree = 301
+  RespectiveSalmonPerrine2 = true
+  IrrelevantPurpleNanete3 = 599
+  _hidden_value = true
+}

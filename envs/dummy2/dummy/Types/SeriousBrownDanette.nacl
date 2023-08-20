@@ -1,0 +1,93 @@
+type dummy.SeriousBrownDanette {
+  annotations {
+    string WorkingCrimsonEmmaline {
+    }
+    serviceid_number IdeologicalOrangeMargarette {
+    }
+    serviceid ManagingLimeKitti {
+    }
+    serviceid_number EmbarrassedRedNissy {
+    }
+    serviceid DefinitePeachMartha {
+    }
+    json FluffyAmberAli {
+    }
+  }
+  hidden_boolean GratefulIvoryJori {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SadYellowWillamina {
+    _hidden_value = true
+  }
+  string RepulsiveBeigeBrenda {
+    _hidden_value = true
+  }
+  boolean AdditionalCopperDotti {
+    _hidden_value = true
+  }
+  serviceid SillyBlueCathlene {
+    _hidden_value = true
+  }
+  hidden_boolean NotablePeachMartina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid>" AverageCoralElysha2 {
+    _hidden_value = true
+  }
+  number BewilderedAquamarineBerny {
+    _hidden_value = true
+  }
+  string SuitableCrimsonEmilee {
+    _hidden_value = true
+  }
+  json ExcitedBlackCariotta {
+    _hidden_value = true
+  }
+  hidden_boolean UglyTurquoiseTiphanie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number TerribleBeigeBrina {
+    _hidden_value = true
+  }
+  number ChineseGoldGuglielma {
+    _hidden_value = true
+  }
+  serviceid ReadyChocolateDebor {
+    _hidden_value = true
+  }
+  json UnpleasantRedNonnah {
+    _hidden_value = true
+  }
+  hidden_boolean DevotedRosePauletta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid VaguePinkMei {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CondemnedAquamarineBertha {
+    _hidden_value = true
+  }
+  hidden_boolean UnusualTurquoiseTobi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string LargeAmaranthAdeline {
+    _hidden_value = true
+  }
+  WorkingCrimsonEmmaline = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  IdeologicalOrangeMargarette = 356
+  ManagingLimeKitti = "What creature is smarter than a talking parrot? A spelling bee."
+  EmbarrassedRedNissy = 365
+  DefinitePeachMartha = "What creature is smarter than a talking parrot? A spelling bee."
+  FluffyAmberAli = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

@@ -1,0 +1,129 @@
+type dummy.DelightfulSilverRosy {
+  annotations {
+    serviceid ConfidentialScarletRodina {
+    }
+    boolean SpecifiedSalmonPortia2 {
+    }
+    string StillIndigoJoann2 {
+    }
+    serviceid_number ForthcomingPeachMarquita3 {
+    }
+    number GentleBlackCarmelita2 {
+    }
+    boolean WittyBlueCelene2 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie BitterJadeKasey {
+    FriendlyBlackCarma = 651
+    FrightenedMagentaLavena = 466
+    RepulsiveBeigeBrena = "I'll tell you what often gets over looked... garden fences."
+    UptightBeigeBrittni = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    ExactLimeKordula2 = 253
+    LocalBlueCharmian = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    SensibleIvoryJordana = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MonetaryIvoryJoey = "What creature is smarter than a talking parrot? A spelling bee."
+    WickedBeigeBryna = "To be Frank, I'd have to change my name."
+    AshamedScarletRosamund = 718
+    ChillyAmaranthAilsun = 769
+    CooingAmethystAngelique = 681
+    FatalPurpleMyrtle = 83
+    ThoughtlessBeigeBrinna = "Why did the tomato blush? Because it saw the salad dressing."
+    EvilAzureBili = 317
+    RelievedBlueCathie = true
+    CleverTealSibeal = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    GrowingCrimsonEnrichetta = 61
+    _hidden_value = true
+  }
+  dummy.SpectacularMaroonLibbie StickyAquamarineBeatrisa4 {
+    FriendlyBlackCarma = 859
+    FrightenedMagentaLavena = 758
+    RepulsiveBeigeBrena = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UptightBeigeBrittni = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    ExactLimeKordula2 = 843
+    LocalBlueCharmian = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    SensibleIvoryJordana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    MonetaryIvoryJoey = "What did one nut say as he chased another nut?  I'm a cashew!"
+    WickedBeigeBryna = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AshamedScarletRosamund = 682
+    ChillyAmaranthAilsun = 484
+    CooingAmethystAngelique = 608
+    FatalPurpleMyrtle = 570
+    ThoughtlessBeigeBrinna = "Whoever invented the knock-knock joke should get a no bell prize."
+    EvilAzureBili = 325
+    RelievedBlueCathie = true
+    CleverTealSibeal = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    GrowingCrimsonEnrichetta = 734
+    _hidden_value = true
+  }
+  json ImmediateCrimsonEmeline3 {
+    _hidden_value = true
+  }
+  string ZealousBlueCelestine {
+    _hidden_value = true
+  }
+  json WonderfulBlueCeleste2 {
+    _hidden_value = true
+  }
+  serviceid MassGreenIlla2 {
+    _hidden_value = true
+  }
+  string PalestinianTanShanda {
+    _hidden_value = true
+  }
+  number SpontaneousTanShaun4 {
+    _hidden_value = true
+  }
+  string KindBlackCaryn2 {
+    _hidden_value = true
+  }
+  boolean NearFuchsiaGerianne {
+    _hidden_value = true
+  }
+  json ObligedOrangeMarcelline4 {
+    _hidden_value = true
+  }
+  serviceid DistantIndigoJilli {
+    _hidden_value = true
+  }
+  hidden_boolean PurringApricotAnnie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid DarkTurquoiseTarrah2 {
+    _hidden_value = true
+  }
+  serviceid RelaxedPlumMinni4 {
+    _hidden_value = true
+  }
+  string ComingSilverSammy {
+    _hidden_value = true
+  }
+  number GratefulIvoryJorey3 {
+    _hidden_value = true
+  }
+  json AwfulAquamarineBernelle2 {
+    _hidden_value = true
+  }
+  string CooingAmethystAngelique2 {
+    _hidden_value = true
+  }
+  string FamousCoralElga2 {
+    _hidden_value = true
+  }
+  ConfidentialScarletRodina = "A steak pun is a rare medium well done."
+  SpecifiedSalmonPortia2 = true
+  StillIndigoJoann2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ForthcomingPeachMarquita3 = 351
+  GentleBlackCarmelita2 = 148
+  WittyBlueCelene2 = false
+  _hidden_value = true
+}

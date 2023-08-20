@@ -1,0 +1,29 @@
+type dummy.BrownFuchsiaGaynor2 {
+  annotations {
+    boolean SweetAquaAshil {
+    }
+    serviceid PrincipalGoldGreta3 {
+    }
+    serviceid AmusedBeigeBunny3 {
+    }
+    json ContinuingGreenIrma2 {
+    }
+    string ChineseGoldGuenna2 {
+    }
+    number LovelyBlackCassandra4 {
+    }
+    dummy.ExactLimeKordula LateAmethystAmberly {
+    }
+  }
+  serviceid DarkTurquoiseTaryn2 {
+    _hidden_value = true
+  }
+  SweetAquaAshil = true
+  PrincipalGoldGreta3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AmusedBeigeBunny3 = "To be Frank, I'd have to change my name."
+  ContinuingGreenIrma2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ChineseGoldGuenna2 = "Dad Im hungry  Hi hungry Im dad"
+  LovelyBlackCassandra4 = 64
+  LateAmethystAmberly = 828
+  _hidden_value = true
+}

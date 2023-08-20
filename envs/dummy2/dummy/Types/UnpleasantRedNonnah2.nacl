@@ -1,0 +1,21 @@
+type dummy.UnpleasantRedNonnah2 {
+  annotations {
+    string NoisyApricotAnnetta2 {
+    }
+    number ArchitecturalRosePatience {
+    }
+    hidden_boolean SimpleBronzeCorliss {
+    }
+    dummy.DEFAULT EmpiricalPinkMeara {
+    }
+  }
+  number TropicalOliveLyda2 {
+    _hidden_value = true
+  }
+  NoisyApricotAnnetta2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ArchitecturalRosePatience = 990
+  EmpiricalPinkMeara = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  _hidden_value = true
+}

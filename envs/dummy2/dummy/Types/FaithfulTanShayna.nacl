@@ -1,0 +1,99 @@
+type dummy.FaithfulTanShayna {
+  annotations {
+    json ShortBronzeColene {
+    }
+    hidden_boolean VivaciousBlueCecilla2 {
+    }
+    string VisitingScarletRoanne2 {
+    }
+    hidden_boolean PunyAmaranthAeriell {
+    }
+    serviceid_number UglyTurquoiseTina {
+    }
+    serviceid_number FragileTealSonia2 {
+    }
+    number AmusedBeigeBunny2 {
+    }
+  }
+  dummy.OrdinaryCopperEdi LowBlushChristina2 {
+    SillyYellowWini = 476
+    CruelAquamarineBessy = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    TameYellowYalonda = 370
+    RareWhiteWanda = 573
+    SpareMaroonLillis = "Did you know that protons have mass? I didn't even know they were catholic."
+    StupidGreenIzabel = 791
+    MaximumGreenIlyssa = "Slept like a log last night  woke up in the fireplace."
+    TerritorialSalmonPriscella = "Why do birds fly south for the winter? Because it's too far to walk."
+    VariedRedNoreen = 679
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 607
+    IntenseLavenderKatuscha = 911
+    SubtleMoccasinLucie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  number MagnificentMagentaLeeanne2 {
+    _hidden_value = true
+  }
+  number PoorTealStella {
+    _hidden_value = true
+  }
+  boolean ProposedGoldGwendolin3 {
+    _hidden_value = true
+  }
+  serviceid ComprehensiveGreenHyacinthia {
+    _hidden_value = true
+  }
+  hidden_boolean OfficialCopperDorita2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" DramaticGoldHadria2 {
+    _hidden_value = true
+  }
+  serviceid RegisteredPurpleNan {
+    _hidden_value = true
+  }
+  string ToxicSalmonPhedra {
+    _hidden_value = true
+  }
+  string BrokenAmaranthAileen2 {
+    _hidden_value = true
+  }
+  boolean OperationalOrangeMariam {
+    _hidden_value = true
+  }
+  number EvidentIvoryJunette {
+    _hidden_value = true
+  }
+  boolean VisibleIndigoJill {
+    _hidden_value = true
+  }
+  hidden_boolean MathematicalRoseOrtensia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT PowerfulCopperDrona {
+    _hidden_value = true
+  }
+  number AbundantAmethystAnderea2 {
+    _hidden_value = true
+  }
+  hidden_boolean SplendidOrangeManon {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT BlackVioletTorey {
+    _hidden_value = true
+  }
+  ShortBronzeColene = "Why didnt the skeleton cross the road? Because he had no guts."
+  VisitingScarletRoanne2 = "What do you call two barracuda fish?  A Pairacuda!"
+  UglyTurquoiseTina = 90
+  FragileTealSonia2 = 456
+  AmusedBeigeBunny2 = 999
+  _hidden_value = true
+}

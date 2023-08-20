@@ -1,0 +1,33 @@
+type dummy.MinimumIndigoJerrie {
+  annotations {
+    hidden_boolean PoliteSalmonRafaelia {
+    }
+    boolean ValidLavenderKesley {
+    }
+    number HelpfulBlackCaroline {
+    }
+    hidden_boolean SadYellowWilletta {
+    }
+  }
+  number DistinctiveLimeKriste {
+    _hidden_value = true
+  }
+  boolean WildTomatoSuzie {
+    _hidden_value = true
+  }
+  json OccasionalIvoryJuline {
+    _hidden_value = true
+  }
+  json LesserMoccasinLucy {
+    _hidden_value = true
+  }
+  boolean SickFuchsiaGeraldine {
+    _hidden_value = true
+  }
+  serviceid_number PartialOliveLyndel {
+    _hidden_value = true
+  }
+  ValidLavenderKesley = true
+  HelpfulBlackCaroline = 150
+  _hidden_value = true
+}

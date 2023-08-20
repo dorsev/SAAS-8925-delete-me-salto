@@ -1,0 +1,53 @@
+type dummy.PositiveCoffeeDominique {
+  annotations {
+    json PrimitiveOrangeMargalit {
+    }
+    hidden_boolean ScornfulBeigeBrianne2 {
+    }
+    hidden_boolean WearyBeigeBrooke3 {
+    }
+    number GratefulIvoryJorey5 {
+    }
+  }
+  dummy.AnxiousHarlequinJanna GloriousScarletRosanne2 {
+    ColonialPeachMaure = "Why do birds fly south for the winter? Because it's too far to walk."
+    GloriousBlackCarmine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  json ElegantMoccasinLucilia {
+    _hidden_value = true
+  }
+  string BoldPlumMinnaminnie3 {
+    _hidden_value = true
+  }
+  number FineBlackCarlye {
+    _hidden_value = true
+  }
+  serviceid_number MonthlyMaroonLinnea3 {
+    _hidden_value = true
+  }
+  number EqualCrimsonEmiline {
+    _hidden_value = true
+  }
+  string HealthyBlackCarolan {
+    _hidden_value = true
+  }
+  string MagneticPeachMavis2 {
+    _hidden_value = true
+  }
+  json OriginalChocolateDarryl2 {
+    _hidden_value = true
+  }
+  "Map<string>" QuickCoralEleonore3 {
+    _hidden_value = true
+  }
+  serviceid ClassicJadeKaitlin {
+    _hidden_value = true
+  }
+  json ConvenientMagentaLegra2 {
+    _hidden_value = true
+  }
+  PrimitiveOrangeMargalit = "Why was it called the dark ages? Because of all the knights. "
+  GratefulIvoryJorey5 = 500
+  _hidden_value = true
+}

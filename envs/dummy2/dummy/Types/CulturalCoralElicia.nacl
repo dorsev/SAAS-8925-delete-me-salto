@@ -1,0 +1,19 @@
+type dummy.CulturalCoralElicia {
+  annotations {
+    serviceid_number MarvellousMoccasinLorna2 {
+    }
+    boolean PoliteSalmonRafaelia2 {
+    }
+    hidden_boolean GayOrangeMariette3 {
+    }
+    serviceid_number OrganisationalTanShantee2 {
+    }
+  }
+  boolean DyingScarletRobyn2 {
+    _hidden_value = true
+  }
+  MarvellousMoccasinLorna2 = 956
+  PoliteSalmonRafaelia2 = false
+  OrganisationalTanShantee2 = 550
+  _hidden_value = true
+}

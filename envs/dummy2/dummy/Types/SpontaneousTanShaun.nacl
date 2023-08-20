@@ -1,0 +1,54 @@
+type dummy.SpontaneousTanShaun {
+  annotations {
+    boolean WelshGrayHattie {
+    }
+    serviceid_number SilentGrayHappy2 {
+    }
+    serviceid AvailableBlushChrystal {
+    }
+    dummy.DEFAULT VariedRedNorean {
+    }
+    boolean EnthusiasticPinkMerrielle2 {
+    }
+  }
+  boolean RegionalCopperDorice {
+    _hidden_value = true
+  }
+  serviceid_number SlowAmethystAnabelle2 {
+    _hidden_value = true
+  }
+  number TameYellowYasmeen {
+    _hidden_value = true
+  }
+  hidden_boolean HurtAzureBlythe {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json YoungAmethystAndee {
+    _hidden_value = true
+  }
+  serviceid ClumsyVioletTracey {
+    _hidden_value = true
+  }
+  serviceid_number FluffyAmberAlice3 {
+    _hidden_value = true
+  }
+  serviceid CorrespondingPlumMinny {
+    _hidden_value = true
+  }
+  json StraightHarlequinJaimie {
+    _hidden_value = true
+  }
+  json AddedPinkMelina {
+    _hidden_value = true
+  }
+  WelshGrayHattie = false
+  SilentGrayHappy2 = 228
+  AvailableBlushChrystal = "Why is Peter Pan always flying? Because he Neverlands."
+  VariedRedNorean = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  EnthusiasticPinkMerrielle2 = false
+  _hidden_value = true
+}

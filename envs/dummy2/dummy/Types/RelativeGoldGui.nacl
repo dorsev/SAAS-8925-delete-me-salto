@@ -1,0 +1,33 @@
+type dummy.RelativeGoldGui {
+  annotations {
+    serviceid_number RoastedWhiteWenona {
+    }
+    serviceid BrokenAmaranthAila2 {
+    }
+    boolean PriorRosePauli3 {
+    }
+    serviceid_number JudicialJadeKarissa2 {
+    }
+    number FatAmaranthAbigael2 {
+    }
+    dummy.DEFAULT HungryMaroonLisa2 {
+    }
+  }
+  hidden_boolean AsianMaroonLindie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SingleBronzeCoral {
+    _hidden_value = true
+  }
+  RoastedWhiteWenona = 987
+  BrokenAmaranthAila2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  PriorRosePauli3 = false
+  JudicialJadeKarissa2 = 448
+  FatAmaranthAbigael2 = 156
+  HungryMaroonLisa2 = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  _hidden_value = true
+}

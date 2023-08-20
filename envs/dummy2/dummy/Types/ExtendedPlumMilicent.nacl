@@ -1,0 +1,38 @@
+type dummy.ExtendedPlumMilicent {
+  annotations {
+    boolean WoodenGreenHortense2 {
+    }
+    string EthnicLavenderKaye3 {
+    }
+    hidden_boolean ImmensePlumMirna {
+    }
+    hidden_boolean RunningPlumMirabel3 {
+    }
+    hidden_boolean RelevantCoffeeDora {
+    }
+  }
+  boolean IcyAquaAugusta2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UsualCoralElmira3 {
+    _hidden_value = true
+  }
+  number HissingApricotAnn2 {
+    _hidden_value = true
+  }
+  boolean UnfortunatePeachMarsiella {
+    _hidden_value = true
+  }
+  serviceid AboveIvoryJoyann2 {
+    _hidden_value = true
+  }
+  serviceid GradualSilverSallee4 {
+    _hidden_value = true
+  }
+  json DoubtfulRosePandora {
+    _hidden_value = true
+  }
+  WoodenGreenHortense2 = false
+  EthnicLavenderKaye3 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

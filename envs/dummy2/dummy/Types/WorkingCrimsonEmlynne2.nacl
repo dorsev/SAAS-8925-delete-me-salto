@@ -1,0 +1,31 @@
+type dummy.WorkingCrimsonEmlynne2 {
+  annotations {
+    json SilentGrayHarley2 {
+    }
+    hidden_boolean RichCoffeeDorelia3 {
+    }
+    json DoubleCrimsonEthelyn {
+    }
+    json ForthcomingPeachMarquita4 {
+    }
+    boolean RadicalGrayHelenelizabeth3 {
+    }
+  }
+  number DistantIndigoJilli2 {
+    _hidden_value = true
+  }
+  boolean TenderRedOdele2 {
+    _hidden_value = true
+  }
+  boolean StrategicHarlequinJeannette {
+    _hidden_value = true
+  }
+  number SubjectiveSapphireRiannon {
+    _hidden_value = true
+  }
+  SilentGrayHarley2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DoubleCrimsonEthelyn = "What creature is smarter than a talking parrot? A spelling bee."
+  ForthcomingPeachMarquita4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RadicalGrayHelenelizabeth3 = true
+  _hidden_value = true
+}

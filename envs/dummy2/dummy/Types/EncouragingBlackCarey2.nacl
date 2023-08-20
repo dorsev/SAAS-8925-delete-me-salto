@@ -1,0 +1,89 @@
+type dummy.EncouragingBlackCarey2 {
+  annotations {
+    serviceid StrongAquaAryn2 {
+    }
+    boolean SharpFuchsiaGeorgine2 {
+    }
+    serviceid CausalSapphireRene5 {
+    }
+    serviceid ColdAmaranthAilyn {
+    }
+  }
+  hidden_boolean BadBlushCicily2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT EasyTealSioux {
+    _hidden_value = true
+  }
+  hidden_boolean InteriorPurpleNathalie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT SelectedPlumMillicent {
+    _hidden_value = true
+  }
+  json GreatAmaranthAddia5 {
+    _hidden_value = true
+  }
+  json ReadyChocolateDebor3 {
+    _hidden_value = true
+  }
+  json RichTomatoStoddard4 {
+    _hidden_value = true
+  }
+  json CivilianSapphireRanda6 {
+    _hidden_value = true
+  }
+  hidden_boolean TraditionalChocolateDeidre {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid IndirectPeachMarty {
+    _hidden_value = true
+  }
+  serviceid CombinedOliveMaighdiln6 {
+    _hidden_value = true
+  }
+  string CrucialFuchsiaGennie3 {
+    _hidden_value = true
+  }
+  serviceid_number GrievingAzureBlakeley {
+    _hidden_value = true
+  }
+  string GloriousScarletRosanne4 {
+    _hidden_value = true
+  }
+  boolean AverageTomatoTabbatha4 {
+    _hidden_value = true
+  }
+  json ViolentIvoryJoletta {
+    _hidden_value = true
+  }
+  serviceid_number CriminalFuchsiaGeorgia3 {
+    _hidden_value = true
+  }
+  serviceid_number ExperiencedMagentaLauralee {
+    _hidden_value = true
+  }
+  string ShortBronzeColette {
+    _hidden_value = true
+  }
+  string CivicTanShelley4 {
+    _hidden_value = true
+  }
+  serviceid QuietCoralElaina5 {
+    _hidden_value = true
+  }
+  serviceid_number HappyBlackCarola4 {
+    _hidden_value = true
+  }
+  StrongAquaAryn2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SharpFuchsiaGeorgine2 = true
+  CausalSapphireRene5 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ColdAmaranthAilyn = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

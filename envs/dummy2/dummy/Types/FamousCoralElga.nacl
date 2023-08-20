@@ -1,0 +1,23 @@
+type dummy.FamousCoralElga {
+  annotations {
+    string EventualTanSharona {
+    }
+    number TameYellowYalonda2 {
+    }
+    boolean QuaintTurquoiseThomasine2 {
+    }
+    serviceid CruelAquamarineBeth {
+    }
+    number TechnicalCopperEdee {
+    }
+  }
+  "List<serviceid>" SensibleIvoryJordanna {
+    _hidden_value = true
+  }
+  EventualTanSharona = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TameYellowYalonda2 = 383
+  QuaintTurquoiseThomasine2 = false
+  CruelAquamarineBeth = "Im only familiar with 25 letters in the English language. I dont know why."
+  TechnicalCopperEdee = 93
+  _hidden_value = true
+}

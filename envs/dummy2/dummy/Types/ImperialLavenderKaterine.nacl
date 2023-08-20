@@ -1,0 +1,29 @@
+type dummy.ImperialLavenderKaterine {
+  annotations {
+    hidden_boolean ItalianGoldGray2 {
+    }
+    boolean EnchantingBlackCaresa {
+    }
+    serviceid_number TerritorialSalmonPriscilla {
+    }
+    boolean IllAzureBobbee {
+    }
+    dummy.DEFAULT JapaneseEmeraldFidelity {
+    }
+    hidden_boolean ConsistentHarlequinJanith3 {
+    }
+    json WonderfulYellowZoe3 {
+    }
+  }
+  string CoherentScarletRoseline {
+    _hidden_value = true
+  }
+  EnchantingBlackCaresa = false
+  TerritorialSalmonPriscilla = 207
+  IllAzureBobbee = false
+  JapaneseEmeraldFidelity = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  WonderfulYellowZoe3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

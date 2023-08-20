@@ -1,0 +1,23 @@
+type dummy.ColourfulScarletRosaleen2 {
+  annotations {
+    number GeneticMoccasinLorilee2 {
+    }
+    hidden_boolean UniversalJadeKacie {
+    }
+    hidden_boolean ElectricGreenIngunna3 {
+    }
+    string IllAzureBobbee3 {
+    }
+    dummy.DEFAULT OverwhelmingPurpleMyrta3 {
+    }
+  }
+  number UptightBeigeBrittni4 {
+    _hidden_value = true
+  }
+  GeneticMoccasinLorilee2 = 3
+  IllAzureBobbee3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  OverwhelmingPurpleMyrta3 = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  _hidden_value = true
+}

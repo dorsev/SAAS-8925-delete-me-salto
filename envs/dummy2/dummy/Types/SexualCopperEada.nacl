@@ -1,0 +1,48 @@
+type dummy.SexualCopperEada {
+  annotations {
+    hidden_boolean TiredBeigeBritney {
+    }
+    serviceid_number PublicBlushChrysa {
+    }
+    hidden_boolean ImperialLavenderKaterine3 {
+    }
+    boolean MarvellousMoccasinLorna3 {
+    }
+  }
+  string DistinctiveLimeKristen3 {
+    _hidden_value = true
+  }
+  number LostJadeKaralynn {
+    _hidden_value = true
+  }
+  hidden_boolean MarkedMagentaLaura {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number AcademicEmeraldFriederike {
+    _hidden_value = true
+  }
+  serviceid VivaciousBlueCecilia {
+    _hidden_value = true
+  }
+  hidden_boolean WrittenGreenIvory {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number GoodBlackCarmita2 {
+    _hidden_value = true
+  }
+  hidden_boolean UrgentLimeKrysta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json PoorBronzeCorene2 {
+    _hidden_value = true
+  }
+  PublicBlushChrysa = 208
+  MarvellousMoccasinLorna3 = true
+  _hidden_value = true
+}

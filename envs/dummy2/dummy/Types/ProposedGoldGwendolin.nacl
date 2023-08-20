@@ -1,0 +1,46 @@
+type dummy.ProposedGoldGwendolin {
+  annotations {
+    boolean DifficultTealSimonette {
+    }
+    hidden_boolean ProductivePlumMommy {
+    }
+    json FormidableSilverSabra {
+    }
+    hidden_boolean MobilePurpleMorna {
+    }
+    serviceid_number AgreeableBeigeBunny2 {
+    }
+  }
+  boolean TropicalOliveLydia {
+    _hidden_value = true
+  }
+  string ThirstyAquaAsia2 {
+    _hidden_value = true
+  }
+  hidden_boolean PersistentRosePam {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string FunnyEmeraldGabbi {
+    _hidden_value = true
+  }
+  json PreviousBrownDanica {
+    _hidden_value = true
+  }
+  hidden_boolean BriefEmeraldFlorry {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string BusyTealShirleen {
+    _hidden_value = true
+  }
+  number CorrespondingPlumMiquela {
+    _hidden_value = true
+  }
+  DifficultTealSimonette = false
+  FormidableSilverSabra = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AgreeableBeigeBunny2 = 644
+  _hidden_value = true
+}

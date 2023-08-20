@@ -1,0 +1,25 @@
+type dummy.StandardCopperDrusy3 {
+  annotations {
+    number CorrespondingPlumMinny2 {
+    }
+    hidden_boolean CrucialFuchsiaGenni2 {
+    }
+    boolean NervousAzureBrande3 {
+    }
+    json AdverseSapphireRanna3 {
+    }
+    serviceid_number DefensiveRoseOneida {
+    }
+    number DependentGrayHeather4 {
+    }
+  }
+  number LittleBlushChlo2 {
+    _hidden_value = true
+  }
+  CorrespondingPlumMinny2 = 595
+  NervousAzureBrande3 = true
+  AdverseSapphireRanna3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  DefensiveRoseOneida = 749
+  DependentGrayHeather4 = 662
+  _hidden_value = true
+}

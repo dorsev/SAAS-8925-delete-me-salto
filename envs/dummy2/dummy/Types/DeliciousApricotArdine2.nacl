@@ -1,0 +1,71 @@
+type dummy.DeliciousApricotArdine2 {
+  annotations {
+    string GeographicalPeachMarlena2 {
+    }
+    string DeliciousScarletRodie {
+    }
+    number SubjectiveSapphireRhonda2 {
+    }
+    json CasualOliveLurlene2 {
+    }
+    json DiplomaticMagentaLenore {
+    }
+    boolean StingyYellowWinne {
+    }
+    serviceid_number PromisingRedNonah {
+    }
+    string RegularCopperDorris2 {
+    }
+  }
+  dummy.DEFAULT SlowCyanEugenie3 {
+    _hidden_value = true
+  }
+  hidden_boolean CarefulCyanFerdinande {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean AtomicScarletRorie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean FierceAzureBilly2 {
+    _hidden_value = true
+  }
+  serviceid WarmCopperDulsea {
+    _hidden_value = true
+  }
+  string InstitutionalMaroonLeshia2 {
+    _hidden_value = true
+  }
+  number GrandEmeraldFran2 {
+    _hidden_value = true
+  }
+  number SpicyAquaArlie2 {
+    _hidden_value = true
+  }
+  hidden_boolean FunnyVioletTwyla2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT SpiritualLavenderKatrine {
+    _hidden_value = true
+  }
+  serviceid PersistentRosePamelina {
+    _hidden_value = true
+  }
+  serviceid MeltedAquaAurea3 {
+    _hidden_value = true
+  }
+  GeographicalPeachMarlena2 = "To be Frank, I'd have to change my name."
+  DeliciousScarletRodie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SubjectiveSapphireRhonda2 = 765
+  CasualOliveLurlene2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DiplomaticMagentaLenore = "Did you know that protons have mass? I didn't even know they were catholic."
+  StingyYellowWinne = false
+  PromisingRedNonah = 913
+  RegularCopperDorris2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

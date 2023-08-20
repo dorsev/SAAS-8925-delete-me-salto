@@ -1,0 +1,75 @@
+type dummy.DyingScarletRobyn5 {
+  annotations {
+    serviceid_number FrightenedMagentaLavena2 {
+    }
+    dummy.ExactLimeKordula StableHarlequinJasmine {
+    }
+    json DutchLavenderKelsy3 {
+    }
+    json DirtyIvoryJosepha2 {
+    }
+    serviceid EntireEmeraldFranciska3 {
+    }
+    serviceid SystematicOrangeMarcelia3 {
+    }
+  }
+  hidden_boolean CombativeAquamarineBerta3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ManyAmethystAnetta3 {
+    _hidden_value = true
+  }
+  number SlowCyanEudora {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RainyAquaAustin2 {
+    _hidden_value = true
+  }
+  boolean MechanicalMagentaLeonora3 {
+    _hidden_value = true
+  }
+  string RoundAmberAlmira {
+    _hidden_value = true
+  }
+  serviceid_number AdorableTomatoSydel5 {
+    _hidden_value = true
+  }
+  serviceid ContentPeachMatilda2 {
+    _hidden_value = true
+  }
+  serviceid DisabledHarlequinJanine2 {
+    _hidden_value = true
+  }
+  json RussianCyanFelicity {
+    _hidden_value = true
+  }
+  serviceid IraqiOliveMadelle4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DrabTurquoiseTaryn {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" BreakableTealShir5 {
+    _hidden_value = true
+  }
+  boolean ExcitedOrangeMarion4 {
+    _hidden_value = true
+  }
+  number SourAquaArlette2 {
+    _hidden_value = true
+  }
+  hidden_boolean MeanIvoryJulee5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  FrightenedMagentaLavena2 = 113
+  StableHarlequinJasmine = 312
+  DutchLavenderKelsy3 = "Why did the tomato blush? Because it saw the salad dressing."
+  DirtyIvoryJosepha2 = "A steak pun is a rare medium well done."
+  EntireEmeraldFranciska3 = "To be Frank, I'd have to change my name."
+  SystematicOrangeMarcelia3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

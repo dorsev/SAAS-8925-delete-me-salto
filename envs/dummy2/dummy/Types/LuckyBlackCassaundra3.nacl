@@ -1,0 +1,63 @@
+type dummy.LuckyBlackCassaundra3 {
+  annotations {
+    string UniformScarletRosalinde {
+    }
+    boolean EarlyAmethystAmanda5 {
+    }
+    json FaintAmethystAnica3 {
+    }
+    json CheerfulBeigeCalypso3 {
+    }
+    number RetiredSilverSaraann {
+    }
+  }
+  boolean NoisySilverSaidee {
+    _hidden_value = true
+  }
+  hidden_boolean LuckyBlackCassaundra4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean HelplessAzureBlanche {
+    _hidden_value = true
+  }
+  boolean RealBlushClarinda {
+    _hidden_value = true
+  }
+  number PreliminaryOliveLynea2 {
+    _hidden_value = true
+  }
+  string EmotionalGrayHester {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula CrazyTealSibyl2 {
+    _hidden_value = true
+  }
+  json BraveMoccasinLucita {
+    _hidden_value = true
+  }
+  serviceid DistinctTurquoiseTatiania2 {
+    _hidden_value = true
+  }
+  hidden_boolean EnviousAzureBiddy4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string HighBlueCharisse2 {
+    _hidden_value = true
+  }
+  json DoubleCrimsonEthyl2 {
+    _hidden_value = true
+  }
+  "List<number>" EstimatedOrangeMargi {
+    _hidden_value = true
+  }
+  UniformScarletRosalinde = "Im only familiar with 25 letters in the English language. I dont know why."
+  EarlyAmethystAmanda5 = false
+  FaintAmethystAnica3 = "I'll tell you what often gets over looked... garden fences."
+  CheerfulBeigeCalypso3 = "Why was it called the dark ages? Because of all the knights. "
+  RetiredSilverSaraann = 64
+  _hidden_value = true
+}

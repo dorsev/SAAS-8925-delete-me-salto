@@ -1,0 +1,83 @@
+type dummy.RadicalGrayHelenelizabeth {
+  annotations {
+    json ProfessionalChocolateDawna {
+    }
+    string ExpectedLimeLane {
+    }
+    dummy.OrdinaryCopperEdi SoreBeigeBrigid {
+    }
+    string ImaginativeTanSeline {
+    }
+    string PlasticAquaAuria {
+    }
+  }
+  dummy.OrdinaryCopperEdi LightAmethystAnet {
+    SillyYellowWini = 400
+    CruelAquamarineBessy = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    TameYellowYalonda = 971
+    RareWhiteWanda = 368
+    SpareMaroonLillis = "Why did the tomato blush? Because it saw the salad dressing."
+    StupidGreenIzabel = 662
+    MaximumGreenIlyssa = "What do you call two barracuda fish?  A Pairacuda!"
+    TerritorialSalmonPriscella = "Dad Im hungry  Hi hungry Im dad"
+    VariedRedNoreen = 47
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 984
+    IntenseLavenderKatuscha = 44
+    SubtleMoccasinLucie = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  number RussianCyanFelicle {
+    _hidden_value = true
+  }
+  boolean SuddenGoldGustie {
+    _hidden_value = true
+  }
+  string OverwhelmingPurpleMyrlene {
+    _hidden_value = true
+  }
+  hidden_boolean ArmedGrayHelaina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid RelaxedPlumMinnnie {
+    _hidden_value = true
+  }
+  hidden_boolean StupidGreenIvy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WillingGoldGusti {
+    _hidden_value = true
+  }
+  string OperationalOrangeMarian {
+    _hidden_value = true
+  }
+  hidden_boolean RearPurpleMureil {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string MarvellousMoccasinLorita {
+    _hidden_value = true
+  }
+  string ExplicitMaroonLisetta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HotAquaAudrey {
+    _hidden_value = true
+  }
+  json DisturbedAzureBeverlie {
+    _hidden_value = true
+  }
+  ProfessionalChocolateDawna = "Why is Peter Pan always flying? Because he Neverlands."
+  ExpectedLimeLane = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SoreBeigeBrigid = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ImaginativeTanSeline = "I'll tell you what often gets over looked... garden fences."
+  PlasticAquaAuria = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

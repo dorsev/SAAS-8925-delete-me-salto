@@ -1,0 +1,24 @@
+type dummy.StickyAquamarineBeatrix {
+  annotations {
+    dummy.DEFAULT MeanIvoryJulee2 {
+    }
+    hidden_boolean WiseLavenderKathe2 {
+    }
+    serviceid UnemployedIvoryJoli {
+    }
+    boolean PoliteSalmonRafa2 {
+    }
+    boolean SophisticatedJadeKarlotta2 {
+    }
+  }
+  json DearGoldGlennis {
+    _hidden_value = true
+  }
+  MeanIvoryJulee2 = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  UnemployedIvoryJoli = "Why didnt the skeleton cross the road? Because he had no guts."
+  PoliteSalmonRafa2 = true
+  SophisticatedJadeKarlotta2 = false
+  _hidden_value = true
+}

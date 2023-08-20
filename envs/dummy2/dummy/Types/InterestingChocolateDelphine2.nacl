@@ -1,0 +1,98 @@
+type dummy.InterestingChocolateDelphine2 {
+  annotations {
+    dummy.AnxiousHarlequinJanna HandsomeVioletVal {
+    }
+    dummy.OrdinaryCopperEdi UnitedCopperEddie {
+    }
+    dummy.DEFAULT ImpressiveIndigoJessa3 {
+    }
+    string SunnyTanShari {
+    }
+    string ProposedGoldGweneth2 {
+    }
+    hidden_boolean OverwhelmingPurpleMyrna3 {
+    }
+  }
+  serviceid_number DomesticCopperEartha3 {
+    _hidden_value = true
+  }
+  serviceid ProfitablePurpleNara {
+    _hidden_value = true
+  }
+  string RuralCoralElsbeth3 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FilthyTurquoiseTeodora2 {
+    _hidden_value = true
+  }
+  serviceid_number UniqueFuchsiaGerta {
+    _hidden_value = true
+  }
+  json GenerousLavenderKaylil {
+    _hidden_value = true
+  }
+  serviceid_number IllegalJadeKarole {
+    _hidden_value = true
+  }
+  string CarefulTealShoshana {
+    _hidden_value = true
+  }
+  serviceid_number VulnerableJadeKarola2 {
+    _hidden_value = true
+  }
+  string AggregateScarletRobbi {
+    _hidden_value = true
+  }
+  json GrandEmeraldFrances2 {
+    _hidden_value = true
+  }
+  json SlipperyAquamarineBarbe3 {
+    _hidden_value = true
+  }
+  string GentleIndigoJobyna5 {
+    _hidden_value = true
+  }
+  "List<number>" SpottyYellowWynn3 {
+    _hidden_value = true
+  }
+  serviceid RichTomatoStoddard3 {
+    _hidden_value = true
+  }
+  boolean ReadyChocolateDebera3 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" FollowingBrownCyndie3 {
+    _hidden_value = true
+  }
+  serviceid ElectoralLimeKristina3 {
+    _hidden_value = true
+  }
+  number PsychologicalIvoryJojo2 {
+    _hidden_value = true
+  }
+  serviceid MarvellousMoccasinLorraine {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFranciska2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json NumerousHarlequinJanaye4 {
+    _hidden_value = true
+  }
+  boolean GoverningTanSephira {
+    _hidden_value = true
+  }
+  boolean AggressiveMaroonLilith3 {
+    _hidden_value = true
+  }
+  HandsomeVioletVal = "What do you call two barracuda fish?  A Pairacuda!"
+  UnitedCopperEddie = "What creature is smarter than a talking parrot? A spelling bee."
+  ImpressiveIndigoJessa3 = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  SunnyTanShari = "To be Frank, I'd have to change my name."
+  ProposedGoldGweneth2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

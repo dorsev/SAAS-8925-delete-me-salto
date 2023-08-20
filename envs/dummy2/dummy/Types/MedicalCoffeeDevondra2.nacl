@@ -1,0 +1,28 @@
+type dummy.MedicalCoffeeDevondra2 {
+  annotations {
+    serviceid_number StrictLavenderKath {
+    }
+    json FreeBronzeCodie {
+    }
+    string SlightGoldGwenora {
+    }
+    hidden_boolean ScatteredAquaAvie {
+    }
+    string CrazyVioletTrescha {
+    }
+  }
+  serviceid_number BlondeTomatoTallia {
+    _hidden_value = true
+  }
+  number PoorTealStella2 {
+    _hidden_value = true
+  }
+  string DistinguishedPurpleNatassia {
+    _hidden_value = true
+  }
+  StrictLavenderKath = 878
+  FreeBronzeCodie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SlightGoldGwenora = "Why is Peter Pan always flying? Because he Neverlands."
+  CrazyVioletTrescha = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

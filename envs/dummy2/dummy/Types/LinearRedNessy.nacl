@@ -1,0 +1,29 @@
+type dummy.LinearRedNessy {
+  annotations {
+    boolean DizzyVioletTrina2 {
+    }
+    number PreparedCyanFelicity {
+    }
+    serviceid_number CapableEmeraldFlorinda {
+    }
+    serviceid_number DependentGrayHeather3 {
+    }
+  }
+  string AwakeRedNola2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EthicalScarletRobbyn {
+    _hidden_value = true
+  }
+  string TerribleEmeraldFreida3 {
+    _hidden_value = true
+  }
+  number OfficialCopperDorise {
+    _hidden_value = true
+  }
+  DizzyVioletTrina2 = true
+  PreparedCyanFelicity = 276
+  CapableEmeraldFlorinda = 650
+  DependentGrayHeather3 = 794
+  _hidden_value = true
+}

@@ -1,0 +1,138 @@
+type dummy.OutsideGrayHelenka3 {
+  annotations {
+    number CorporateEmeraldGarnet6 {
+    }
+    hidden_boolean NativeJadeKatalin3 {
+    }
+    serviceid OldAmethystAmi3 {
+    }
+    json LoudLavenderKiele {
+    }
+    json FamousCoralElfrieda6 {
+    }
+    string NeighbouringPurpleNana3 {
+    }
+  }
+  dummy.AnxiousHarlequinJanna BigBlushChiarra2 {
+    ColonialPeachMaure = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    GloriousBlackCarmine = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi ShortAmaranthAgace4 {
+    SillyYellowWini = 629
+    CruelAquamarineBessy = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    TameYellowYalonda = 192
+    RareWhiteWanda = 487
+    SpareMaroonLillis = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    StupidGreenIzabel = 193
+    MaximumGreenIlyssa = "Why did the kid cross the playground? To get to the other slide."
+    TerritorialSalmonPriscella = "What creature is smarter than a talking parrot? A spelling bee."
+    VariedRedNoreen = 272
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 698
+    IntenseLavenderKatuscha = 916
+    SubtleMoccasinLucie = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  string ShakyAquaAvrit {
+    _hidden_value = true
+  }
+  json WideAmethystAlyson {
+    _hidden_value = true
+  }
+  json SubstantialCoralElsinore {
+    _hidden_value = true
+  }
+  number RoundAmberAlmeria {
+    _hidden_value = true
+  }
+  number SurprisedEmeraldFreddie {
+    _hidden_value = true
+  }
+  number GracefulTurquoiseTerrie2 {
+    _hidden_value = true
+  }
+  string OverallCrimsonEmmalynne5 {
+    _hidden_value = true
+  }
+  hidden_boolean ConsistentHarlequinJanine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number LonelyOliveLynda2 {
+    _hidden_value = true
+  }
+  serviceid NecessaryBronzeCookie {
+    _hidden_value = true
+  }
+  json SpiritualLavenderKatrine3 {
+    _hidden_value = true
+  }
+  serviceid_number DisgustedAzureBettye5 {
+    _hidden_value = true
+  }
+  serviceid_number CharmingBeigeCallida4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AtomicScarletRory2 {
+    _hidden_value = true
+  }
+  serviceid_number InterimOrangeMalva2 {
+    _hidden_value = true
+  }
+  serviceid GentleIndigoJocelin2 {
+    _hidden_value = true
+  }
+  string EducationalCrimsonEsma2 {
+    _hidden_value = true
+  }
+  boolean PositiveCoffeeDominica4 {
+    _hidden_value = true
+  }
+  number ToughGoldGlenna4 {
+    _hidden_value = true
+  }
+  boolean BumpyAmaranthAiley3 {
+    _hidden_value = true
+  }
+  string OlympicRedNessi {
+    _hidden_value = true
+  }
+  serviceid_number MiniatureAmaranthAdriana3 {
+    _hidden_value = true
+  }
+  boolean StrongBronzeCollie {
+    _hidden_value = true
+  }
+  hidden_boolean RelaxedPlumMinnie4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DeafIvoryJoy3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number BusyTealShirlene3 {
+    _hidden_value = true
+  }
+  boolean InterestingChocolateDelphinia {
+    _hidden_value = true
+  }
+  serviceid SuperbMagentaLaurene2 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula DevelopingHarlequinJeanie {
+    _hidden_value = true
+  }
+  CorporateEmeraldGarnet6 = 989
+  OldAmethystAmi3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LoudLavenderKiele = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FamousCoralElfrieda6 = "A steak pun is a rare medium well done."
+  NeighbouringPurpleNana3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

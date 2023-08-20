@@ -1,0 +1,66 @@
+type dummy.BasicChocolateDarla {
+  annotations {
+    hidden_boolean HardBronzeCordie {
+    }
+    dummy.OrdinaryCopperEdi PassivePurpleMyranda {
+    }
+    serviceid_number CleverJadeKari {
+    }
+    number QuietCoralEirena {
+    }
+    string OverallCrimsonEmmalynne4 {
+    }
+    number GreatBlueChantalle2 {
+    }
+    boolean MiserableSalmonRachael2 {
+    }
+    serviceid_number WateryYellowZena {
+    }
+  }
+  number MightyTanShandra {
+    _hidden_value = true
+  }
+  serviceid_number MutualLimeKimberly4 {
+    _hidden_value = true
+  }
+  serviceid EfficientGoldGrethel {
+    _hidden_value = true
+  }
+  serviceid ConvenientMagentaLegra {
+    _hidden_value = true
+  }
+  boolean DepressedAzureBetti {
+    _hidden_value = true
+  }
+  number VeryCoralEleonore {
+    _hidden_value = true
+  }
+  boolean EnviousAzureBiddy3 {
+    _hidden_value = true
+  }
+  string AfricanFuchsiaGiacinta {
+    _hidden_value = true
+  }
+  hidden_boolean ActiveCopperDreddy3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number UnfairMaroonLilas {
+    _hidden_value = true
+  }
+  boolean RapidGrayHilda2 {
+    _hidden_value = true
+  }
+  serviceid_number DecentMoccasinLonni {
+    _hidden_value = true
+  }
+  PassivePurpleMyranda = "Whoever invented the knock-knock joke should get a no bell prize."
+  CleverJadeKari = 886
+  QuietCoralEirena = 806
+  OverallCrimsonEmmalynne4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  GreatBlueChantalle2 = 706
+  MiserableSalmonRachael2 = false
+  WateryYellowZena = 584
+  _hidden_value = true
+}

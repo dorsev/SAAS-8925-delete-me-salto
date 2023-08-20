@@ -1,0 +1,32 @@
+type dummy.FormidableSilverSabrina {
+  annotations {
+    dummy.DEFAULT FavourablePinkMercie3 {
+    }
+    hidden_boolean RequiredMaroonLethia3 {
+    }
+    number IncredibleRosePattie4 {
+    }
+    hidden_boolean BumpyAmaranthAilene2 {
+    }
+    json GradualSilverSalli2 {
+    }
+  }
+  string CausalSapphireRenee {
+    _hidden_value = true
+  }
+  boolean DramaticGoldHaily4 {
+    _hidden_value = true
+  }
+  serviceid NoisyApricotAnnemarie4 {
+    _hidden_value = true
+  }
+  "List<number>" CurrentBrownCynthie {
+    _hidden_value = true
+  }
+  FavourablePinkMercie3 = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  IncredibleRosePattie4 = 938
+  GradualSilverSalli2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

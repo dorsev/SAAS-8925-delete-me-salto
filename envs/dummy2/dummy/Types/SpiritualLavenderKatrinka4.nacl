@@ -1,0 +1,28 @@
+type dummy.SpiritualLavenderKatrinka4 {
+  annotations {
+    json SoundAmethystAngelica {
+    }
+    serviceid NearFuchsiaGerianne2 {
+    }
+    json EvilPeachMaurene2 {
+    }
+    json ControlledTanSheilakathryn2 {
+    }
+    boolean SurvivingSapphireRicki {
+    }
+  }
+  string UnevenAquamarineBekki2 {
+    _hidden_value = true
+  }
+  hidden_boolean ExcitedOrangeMariquilla5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SoundAmethystAngelica = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NearFuchsiaGerianne2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EvilPeachMaurene2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ControlledTanSheilakathryn2 = "Why was it called the dark ages? Because of all the knights. "
+  SurvivingSapphireRicki = true
+  _hidden_value = true
+}

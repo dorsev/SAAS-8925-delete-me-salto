@@ -1,0 +1,25 @@
+type dummy.IndustrialBrownDannye {
+  annotations {
+    json OccupationalOliveMadelaine2 {
+    }
+    string ToughGoldGlenna {
+    }
+    dummy.DEFAULT CompactPurpleNanny {
+    }
+    number WetGrayHedi {
+    }
+    string TanYellowYelena {
+    }
+  }
+  string AlrightGoldGrace {
+    _hidden_value = true
+  }
+  OccupationalOliveMadelaine2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ToughGoldGlenna = "Did you know that protons have mass? I didn't even know they were catholic."
+  CompactPurpleNanny = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  WetGrayHedi = 648
+  TanYellowYelena = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

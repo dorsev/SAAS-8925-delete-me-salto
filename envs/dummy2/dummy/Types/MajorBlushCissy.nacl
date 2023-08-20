@@ -1,0 +1,84 @@
+type dummy.MajorBlushCissy {
+  annotations {
+    dummy.OrdinaryCopperEdi QuietApricotAnnmaria {
+    }
+    number ImpressiveIndigoJessa {
+    }
+    json HostileOrangeMariejeanne {
+    }
+    string DrivingRoseOralle {
+    }
+    hidden_boolean LtdCoralElnora2 {
+    }
+  }
+  number InfluentialMoccasinLorene {
+    _hidden_value = true
+  }
+  serviceid_number DesperateIvoryJunie {
+    _hidden_value = true
+  }
+  string ThinCyanEvania {
+    _hidden_value = true
+  }
+  hidden_boolean ProspectiveRedNettle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number MagentaWhiteVelvet {
+    _hidden_value = true
+  }
+  json StupidTomatoSula {
+    _hidden_value = true
+  }
+  hidden_boolean AgreedTanSelie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean StructuralIvoryJosephina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ComplicatedIndigoJoanie {
+    _hidden_value = true
+  }
+  hidden_boolean ActiveCopperDreddy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string PlainTurquoiseTheresita {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BurningRedNikolia {
+    _hidden_value = true
+  }
+  serviceid EnthusiasticPinkMerrielle {
+    _hidden_value = true
+  }
+  "List<number>" ScreechingApricotAnthia2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObligedOrangeMarcellina {
+    _hidden_value = true
+  }
+  serviceid_number RedWhiteWendeline2 {
+    _hidden_value = true
+  }
+  number CharmingPlumMorgan {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula QuickWhiteVonni2 {
+    _hidden_value = true
+  }
+  serviceid LatinLimeKonstance {
+    _hidden_value = true
+  }
+  QuietApricotAnnmaria = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ImpressiveIndigoJessa = 171
+  HostileOrangeMariejeanne = "Why did the kid cross the playground? To get to the other slide."
+  DrivingRoseOralle = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

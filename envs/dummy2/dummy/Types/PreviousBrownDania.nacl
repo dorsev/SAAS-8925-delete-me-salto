@@ -1,0 +1,82 @@
+type dummy.PreviousBrownDania {
+  annotations {
+    serviceid YummyYellowZorina {
+    }
+    number ObnoxiousAzureBrandice {
+    }
+    string ElatedBeigeCaprice {
+    }
+    serviceid IllEmeraldGae {
+    }
+    hidden_boolean KindOrangeMaridel {
+    }
+    serviceid_number TheoreticalIndigoJenilee {
+    }
+    number DampAmberAlejandrina {
+    }
+  }
+  number ResidentialIndigoJesse {
+    _hidden_value = true
+  }
+  string VoluntaryGoldGwenneth {
+    _hidden_value = true
+  }
+  string IrrelevantPurpleNanete {
+    _hidden_value = true
+  }
+  json FairBlackCarley {
+    _hidden_value = true
+  }
+  serviceid MinorEmeraldGabriel {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImportantTealSophi {
+    _hidden_value = true
+  }
+  json ConvincingSalmonPeggie {
+    _hidden_value = true
+  }
+  string ExuberantBlackCarleen {
+    _hidden_value = true
+  }
+  number WorthwhilePinkMelisse {
+    _hidden_value = true
+  }
+  hidden_boolean ClosedMagentaLeisha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ValidLavenderKerrin {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean JollyBlackCarrie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json WeakAquamarineBelicia2 {
+    _hidden_value = true
+  }
+  serviceid_number ImportantTealSophi2 {
+    _hidden_value = true
+  }
+  serviceid_number OldBlueChantal {
+    _hidden_value = true
+  }
+  string BusyCyanFayina {
+    _hidden_value = true
+  }
+  serviceid TartYellowWynnie2 {
+    _hidden_value = true
+  }
+  YummyYellowZorina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ObnoxiousAzureBrandice = 257
+  ElatedBeigeCaprice = "To be Frank, I'd have to change my name."
+  IllEmeraldGae = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TheoreticalIndigoJenilee = 578
+  DampAmberAlejandrina = 514
+  _hidden_value = true
+}

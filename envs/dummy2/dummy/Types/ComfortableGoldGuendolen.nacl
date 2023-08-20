@@ -1,0 +1,92 @@
+type dummy.ComfortableGoldGuendolen {
+  annotations {
+    serviceid_number VaguePinkMeghann4 {
+    }
+    hidden_boolean UniformScarletRosaline {
+    }
+    serviceid_number CrudePlumMil5 {
+    }
+    hidden_boolean AcceptedTanSerene3 {
+    }
+    number CanadianPlumMinerva4 {
+    }
+    hidden_boolean SoftAquamarineBarbie {
+    }
+    hidden_boolean VulnerableJadeKarna2 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie LateBlushChristalle {
+    FriendlyBlackCarma = 97
+    FrightenedMagentaLavena = 179
+    RepulsiveBeigeBrena = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UptightBeigeBrittni = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    ExactLimeKordula2 = 526
+    LocalBlueCharmian = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    SensibleIvoryJordana = "Did you know that protons have mass? I didn't even know they were catholic."
+    MonetaryIvoryJoey = "Why did the kid cross the playground? To get to the other slide."
+    WickedBeigeBryna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AshamedScarletRosamund = 889
+    ChillyAmaranthAilsun = 236
+    CooingAmethystAngelique = 444
+    FatalPurpleMyrtle = 254
+    ThoughtlessBeigeBrinna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    EvilAzureBili = 300
+    RelievedBlueCathie = false
+    CleverTealSibeal = "Dad Im hungry  Hi hungry Im dad"
+    GrowingCrimsonEnrichetta = 589
+    _hidden_value = true
+  }
+  dummy.DEFAULT EarlyBlushCherry {
+    _hidden_value = true
+  }
+  boolean TechnologicalOrangeMariann {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" CriticalCrimsonEstell2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" IntelligentMaroonLinnet4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ChangingJadeKassey3 {
+    _hidden_value = true
+  }
+  serviceid ProfoundPinkMerl2 {
+    _hidden_value = true
+  }
+  hidden_boolean LovelyCoralElli2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number IllegalJadeKaroline {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GreatBlueCharil2 {
+    _hidden_value = true
+  }
+  number AngryAquamarineBenetta3 {
+    _hidden_value = true
+  }
+  number DecisiveSalmonPepi {
+    _hidden_value = true
+  }
+  json ConstitutionalHarlequinJayme2 {
+    _hidden_value = true
+  }
+  hidden_boolean MoaningApricotAnnamarie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  VaguePinkMeghann4 = 749
+  CrudePlumMil5 = 316
+  CanadianPlumMinerva4 = 798
+  _hidden_value = true
+}

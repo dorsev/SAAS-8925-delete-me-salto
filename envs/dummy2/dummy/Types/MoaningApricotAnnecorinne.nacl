@@ -1,0 +1,69 @@
+type dummy.MoaningApricotAnnecorinne {
+  annotations {
+    serviceid_number UnusualGoldGladys {
+    }
+    hidden_boolean LikelyBlushClarice2 {
+    }
+    string HugeCoffeeDoralynn {
+    }
+  }
+  dummy.OrdinaryCopperEdi FragileTealSofie {
+    SillyYellowWini = 860
+    CruelAquamarineBessy = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    TameYellowYalonda = 740
+    RareWhiteWanda = 796
+    SpareMaroonLillis = "Why do birds fly south for the winter? Because it's too far to walk."
+    StupidGreenIzabel = 49
+    MaximumGreenIlyssa = "Why do birds fly south for the winter? Because it's too far to walk."
+    TerritorialSalmonPriscella = "What did one nut say as he chased another nut?  I'm a cashew!"
+    VariedRedNoreen = 828
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 414
+    IntenseLavenderKatuscha = 679
+    SubtleMoccasinLucie = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  json ConstantEmeraldFranny {
+    _hidden_value = true
+  }
+  number DisappointedMagentaLauryn {
+    _hidden_value = true
+  }
+  serviceid_number SuperbMagentaLaurena {
+    _hidden_value = true
+  }
+  serviceid_number GastricMagentaLavinia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BiologicalMaroonLetizia {
+    _hidden_value = true
+  }
+  serviceid_number ChangingJadeKassey2 {
+    _hidden_value = true
+  }
+  hidden_boolean SurroundingOrangeMargette2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json MonthlyMaroonLinnea {
+    _hidden_value = true
+  }
+  json IsraeliPinkMerilee {
+    _hidden_value = true
+  }
+  json EnergeticBlackCarie {
+    _hidden_value = true
+  }
+  serviceid BigVioletTonia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IsraeliPinkMerilee2 {
+    _hidden_value = true
+  }
+  UnusualGoldGladys = 947
+  HugeCoffeeDoralynn = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

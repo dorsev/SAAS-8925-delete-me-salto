@@ -1,0 +1,116 @@
+type dummy.StrongBronzeColline {
+  annotations {
+    json DynamicPeachMarna {
+    }
+    json VictoriousBlueCecile3 {
+    }
+    string DistinctiveLimeKristi {
+    }
+    serviceid_number CautiousScarletRivy {
+    }
+    dummy.DEFAULT ShallowPinkMeghan {
+    }
+    serviceid_number FilthyTurquoiseTera3 {
+    }
+    serviceid AppropriateChocolateDarci2 {
+    }
+  }
+  dummy.AnxiousHarlequinJanna TemporaryGrayHalimeda2 {
+    ColonialPeachMaure = "I'll tell you what often gets over looked... garden fences."
+    GloriousBlackCarmine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  serviceid AncientAmethystAmalee2 {
+    _hidden_value = true
+  }
+  string YoungAmethystAnastassia2 {
+    _hidden_value = true
+  }
+  string MotionlessTurquoiseTheodora {
+    _hidden_value = true
+  }
+  serviceid_number TallCyanFaydra2 {
+    _hidden_value = true
+  }
+  string SpicyAquaArlina2 {
+    _hidden_value = true
+  }
+  string WholeBronzeClo {
+    _hidden_value = true
+  }
+  number NuclearCoffeeDonica2 {
+    _hidden_value = true
+  }
+  serviceid_number ComparableMoccasinLizzie {
+    _hidden_value = true
+  }
+  string DecentMoccasinLorain {
+    _hidden_value = true
+  }
+  json CruelPlumMichaela2 {
+    _hidden_value = true
+  }
+  string RetailMaroonLeora {
+    _hidden_value = true
+  }
+  number PartialOliveLyndell2 {
+    _hidden_value = true
+  }
+  serviceid RomanFuchsiaGermain2 {
+    _hidden_value = true
+  }
+  serviceid_number HardAquaAudra2 {
+    _hidden_value = true
+  }
+  json SmoothAquamarineBarbie {
+    _hidden_value = true
+  }
+  serviceid DrunkPeachMarlee {
+    _hidden_value = true
+  }
+  boolean ToughGoldGlenna2 {
+    _hidden_value = true
+  }
+  json PaleGrayHarriett3 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula ImaginativeTanSelle2 {
+    _hidden_value = true
+  }
+  string RelaxedPlumMinni3 {
+    _hidden_value = true
+  }
+  boolean GrossLavenderKetti3 {
+    _hidden_value = true
+  }
+  json BriefEmeraldFlorri2 {
+    _hidden_value = true
+  }
+  hidden_boolean MiddleCopperDyana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DifferentBlueCharleen2 {
+    _hidden_value = true
+  }
+  number BitterJadeKass {
+    _hidden_value = true
+  }
+  json RudeTanShaylyn3 {
+    _hidden_value = true
+  }
+  boolean DistinctTurquoiseTatiana4 {
+    _hidden_value = true
+  }
+  DynamicPeachMarna = "Dad Im hungry  Hi hungry Im dad"
+  VictoriousBlueCecile3 = "What do you call two barracuda fish?  A Pairacuda!"
+  DistinctiveLimeKristi = "Slept like a log last night  woke up in the fireplace."
+  CautiousScarletRivy = 821
+  ShallowPinkMeghan = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  FilthyTurquoiseTera3 = 254
+  AppropriateChocolateDarci2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

@@ -1,0 +1,88 @@
+type dummy.HonestIndigoJerrine5 {
+  annotations {
+    json DryCyanEvaleen3 {
+    }
+    boolean LovelyCoralEllie3 {
+    }
+    number InvisibleRoseOrelee3 {
+    }
+    number MoralCyanFeliza2 {
+    }
+    serviceid SmallAmaranthAgathe5 {
+    }
+    number DrunkPeachMarlee3 {
+    }
+  }
+  string BoldPlumMinette3 {
+    _hidden_value = true
+  }
+  "List<boolean>" LongAmaranthAdiana6 {
+    _hidden_value = true
+  }
+  serviceid ShrillApricotAntonia {
+    _hidden_value = true
+  }
+  json FilthyTurquoiseTeresa {
+    _hidden_value = true
+  }
+  "Map<json>" ImperialJadeKaterina2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AngryFuchsiaGill3 {
+    _hidden_value = true
+  }
+  serviceid_number EuropeanBronzeConcordia3 {
+    _hidden_value = true
+  }
+  boolean PrettyIndigoJennifer3 {
+    _hidden_value = true
+  }
+  serviceid DomesticCopperEba4 {
+    _hidden_value = true
+  }
+  string SympatheticPinkMeade4 {
+    _hidden_value = true
+  }
+  json StripedYellowWrennie3 {
+    _hidden_value = true
+  }
+  serviceid_number YoungAmethystAndeee2 {
+    _hidden_value = true
+  }
+  serviceid_number SadGrayHettie2 {
+    _hidden_value = true
+  }
+  json MechanicalMagentaLeonie5 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula TallYellowXena {
+    _hidden_value = true
+  }
+  hidden_boolean CoherentScarletRoselin {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FierceOliveMaisie2 {
+    _hidden_value = true
+  }
+  json AlliedPlumMisti3 {
+    _hidden_value = true
+  }
+  "List<string>" DistinguishedPurpleNatassia3 {
+    _hidden_value = true
+  }
+  boolean IrrelevantPurpleNanette3 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula UrgentLimeKristyn {
+    _hidden_value = true
+  }
+  DryCyanEvaleen3 = "What creature is smarter than a talking parrot? A spelling bee."
+  LovelyCoralEllie3 = false
+  InvisibleRoseOrelee3 = 260
+  MoralCyanFeliza2 = 816
+  SmallAmaranthAgathe5 = "Why is Peter Pan always flying? Because he Neverlands."
+  DrunkPeachMarlee3 = 603
+  _hidden_value = true
+}

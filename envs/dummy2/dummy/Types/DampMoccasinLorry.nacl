@@ -1,0 +1,52 @@
+type dummy.DampMoccasinLorry {
+  annotations {
+    serviceid_number LivelyPeachMarylinda {
+    }
+    dummy.SpectacularMaroonLibbie BoredPlumMonique2 {
+    }
+    string UnconsciousSapphireRaven {
+    }
+    string ExtraordinaryIndigoJessika2 {
+    }
+    json TerribleEmeraldFreida {
+    }
+  }
+  serviceid_number KindBlackCary {
+    _hidden_value = true
+  }
+  number DeterminedBeigeCandida {
+    _hidden_value = true
+  }
+  serviceid EstimatedOrangeMargit {
+    _hidden_value = true
+  }
+  serviceid_number LooseAquaAundrea {
+    _hidden_value = true
+  }
+  hidden_boolean CoolAmaranthAinslee2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number BrokenAmaranthAila {
+    _hidden_value = true
+  }
+  number UglyPlumMidge2 {
+    _hidden_value = true
+  }
+  boolean GentleIndigoJobyna {
+    _hidden_value = true
+  }
+  "List<serviceid>" FashionableSapphireRenae2 {
+    _hidden_value = true
+  }
+  json TinyAmaranthAgnesse {
+    _hidden_value = true
+  }
+  LivelyPeachMarylinda = 49
+  BoredPlumMonique2 = 80
+  UnconsciousSapphireRaven = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ExtraordinaryIndigoJessika2 = "I'll tell you what often gets over looked... garden fences."
+  TerribleEmeraldFreida = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

@@ -1,0 +1,54 @@
+type dummy.ShyTomatoStormy {
+  annotations {
+    json SoftCoralElayne2 {
+    }
+    serviceid_number ConfusedAquamarineBertina {
+    }
+    number AggressiveMaroonLiliane {
+    }
+    serviceid AgriculturalGoldGoldia {
+    }
+    hidden_boolean ConceptualTanShelagh2 {
+    }
+    serviceid_number FlexibleLavenderKathleen2 {
+    }
+  }
+  serviceid AgriculturalGoldGoldi2 {
+    _hidden_value = true
+  }
+  serviceid MathematicalRoseOtha {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" ThoroughScarletRonalda2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json NiceWhiteVickie {
+    _hidden_value = true
+  }
+  serviceid CoastalPlumMichel {
+    _hidden_value = true
+  }
+  string ComfortableBeigeCamella {
+    _hidden_value = true
+  }
+  boolean HungryAzureBlithe {
+    _hidden_value = true
+  }
+  serviceid CheapCopperEdith {
+    _hidden_value = true
+  }
+  serviceid_number ViolentIvoryJoleen {
+    _hidden_value = true
+  }
+  serviceid SillyYellowWinna2 {
+    _hidden_value = true
+  }
+  SoftCoralElayne2 = "Why was it called the dark ages? Because of all the knights. "
+  ConfusedAquamarineBertina = 498
+  AggressiveMaroonLiliane = 433
+  AgriculturalGoldGoldia = "Why was it called the dark ages? Because of all the knights. "
+  FlexibleLavenderKathleen2 = 387
+  _hidden_value = true
+}

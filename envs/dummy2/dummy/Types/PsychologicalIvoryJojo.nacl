@@ -1,0 +1,60 @@
+type dummy.PsychologicalIvoryJojo {
+  annotations {
+    string BasicChocolateDarleen {
+    }
+    number DistinguishedPurpleNatasha {
+    }
+    boolean ProudHarlequinJana {
+    }
+    string BloodyCyanFedora {
+    }
+    hidden_boolean BurningRedNikoletta {
+    }
+    number OccupationalOliveMadelaine {
+    }
+  }
+  serviceid VictoriousBlueCecelia {
+    _hidden_value = true
+  }
+  string ChangingJadeKassandra {
+    _hidden_value = true
+  }
+  serviceid_number ShyTomatoStormie {
+    _hidden_value = true
+  }
+  boolean AutonomousScarletRoobbie {
+    _hidden_value = true
+  }
+  serviceid LabourBrownDaffie {
+    _hidden_value = true
+  }
+  hidden_boolean BroadAmberAlina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ElectronicGreenInga {
+    _hidden_value = true
+  }
+  serviceid ThirstyAquaAstrid {
+    _hidden_value = true
+  }
+  boolean TastelessAquaAshley {
+    _hidden_value = true
+  }
+  json SquealingApricotArabel {
+    _hidden_value = true
+  }
+  boolean WonderfulYellowZonda2 {
+    _hidden_value = true
+  }
+  serviceid_number ImpossibleCopperDulcia {
+    _hidden_value = true
+  }
+  BasicChocolateDarleen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DistinguishedPurpleNatasha = 15
+  ProudHarlequinJana = false
+  BloodyCyanFedora = "Why did the tomato blush? Because it saw the salad dressing."
+  OccupationalOliveMadelaine = 694
+  _hidden_value = true
+}

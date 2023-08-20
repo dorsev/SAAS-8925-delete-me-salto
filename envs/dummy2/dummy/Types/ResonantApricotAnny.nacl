@@ -1,0 +1,37 @@
+type dummy.ResonantApricotAnny {
+  annotations {
+    boolean ConvincingSalmonPeggy3 {
+    }
+    number ComingSilverSande {
+    }
+    serviceid CheapCoralEdithe {
+    }
+    dummy.AnxiousHarlequinJanna InjuredScarletRosalinde {
+    }
+    hidden_boolean ConsciousHarlequinJeane {
+    }
+  }
+  string EstablishedMagentaLeigh2 {
+    _hidden_value = true
+  }
+  serviceid_number PoliteSalmonRafa4 {
+    _hidden_value = true
+  }
+  serviceid_number HostileOrangeMarieann {
+    _hidden_value = true
+  }
+  string ArbitrarySilverRoxane2 {
+    _hidden_value = true
+  }
+  number ShortBronzeColleen {
+    _hidden_value = true
+  }
+  serviceid_number VivaciousBlueCecily {
+    _hidden_value = true
+  }
+  ConvincingSalmonPeggy3 = true
+  ComingSilverSande = 8
+  CheapCoralEdithe = "Why do birds fly south for the winter? Because it's too far to walk."
+  InjuredScarletRosalinde = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

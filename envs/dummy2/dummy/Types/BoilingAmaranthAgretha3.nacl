@@ -1,0 +1,98 @@
+type dummy.BoilingAmaranthAgretha3 {
+  annotations {
+    string SupposedCyanFaun4 {
+    }
+    boolean NursingSalmonPetronille2 {
+    }
+    json LatinLimeKonstanze3 {
+    }
+    dummy.DEFAULT NoblePurpleNeala2 {
+    }
+    serviceid WonderfulEmeraldFlossy2 {
+    }
+    boolean ProtestantScarletRobina3 {
+    }
+  }
+  serviceid_number AbsentPinkMelony3 {
+    _hidden_value = true
+  }
+  boolean ZanyYellowZsazsa3 {
+    _hidden_value = true
+  }
+  number FrontCopperEalasaid2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" SolidGreenIda4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string FitHarlequinJacky2 {
+    _hidden_value = true
+  }
+  string SlowAmethystAnaliese {
+    _hidden_value = true
+  }
+  boolean ScatteredAquaAveryl3 {
+    _hidden_value = true
+  }
+  string HungryMaroonLisabeth {
+    _hidden_value = true
+  }
+  serviceid_number PeacefulOrangeMargot3 {
+    _hidden_value = true
+  }
+  number BloodyCyanFederica {
+    _hidden_value = true
+  }
+  serviceid ThirstyAquaAstrid2 {
+    _hidden_value = true
+  }
+  number KnownMaroonLetty3 {
+    _hidden_value = true
+  }
+  string PleasantIvoryJoscelin {
+    _hidden_value = true
+  }
+  json PhysicalCoffeeDenni2 {
+    _hidden_value = true
+  }
+  boolean HorribleVioletValentia {
+    _hidden_value = true
+  }
+  number HeavyChocolateDavine {
+    _hidden_value = true
+  }
+  json VoicelessApricotArdath2 {
+    _hidden_value = true
+  }
+  "List<json>" ConcreteOliveLynett {
+    _hidden_value = true
+  }
+  number MonetaryIvoryJoey4 {
+    _hidden_value = true
+  }
+  hidden_boolean AwfulHarlequinJaquith2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CriticalCrimsonEstele {
+    _hidden_value = true
+  }
+  serviceid_number RulingLimeKira2 {
+    _hidden_value = true
+  }
+  number PowerfulTomatoStephana {
+    _hidden_value = true
+  }
+  SupposedCyanFaun4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NursingSalmonPetronille2 = true
+  LatinLimeKonstanze3 = "What creature is smarter than a talking parrot? A spelling bee."
+  NoblePurpleNeala2 = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  WonderfulEmeraldFlossy2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ProtestantScarletRobina3 = false
+  _hidden_value = true
+}

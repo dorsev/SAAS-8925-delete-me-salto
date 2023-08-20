@@ -1,0 +1,130 @@
+type dummy.InherentRedNoami {
+  annotations {
+    number ElegantTurquoiseTeddie3 {
+    }
+    serviceid_number DelicateOliveMada {
+    }
+    string AmbitiousPeachMaurene {
+    }
+    dummy.DEFAULT IndependentChocolateDelinda2 {
+    }
+    number TeenageScarletRobinetta2 {
+    }
+  }
+  dummy.OrdinaryCopperEdi VastYellowZelda {
+    SillyYellowWini = 569
+    CruelAquamarineBessy = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    TameYellowYalonda = 67
+    RareWhiteWanda = 89
+    SpareMaroonLillis = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    StupidGreenIzabel = 611
+    MaximumGreenIlyssa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    TerritorialSalmonPriscella = "What did one nut say as he chased another nut?  I'm a cashew!"
+    VariedRedNoreen = 46
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 816
+    IntenseLavenderKatuscha = 565
+    SubtleMoccasinLucie = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna HeavyChocolateDavita {
+    ColonialPeachMaure = "Im only familiar with 25 letters in the English language. I dont know why."
+    GloriousBlackCarmine = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  boolean LovelyCoralEllissa2 {
+    _hidden_value = true
+  }
+  serviceid_number RottenApricotAriella2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DelightfulSilverRowe2 {
+    _hidden_value = true
+  }
+  serviceid_number UnsightlyTurquoiseTiphanie {
+    _hidden_value = true
+  }
+  boolean FlatGrayHannie2 {
+    _hidden_value = true
+  }
+  hidden_boolean FreshApricotArdyce {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean QuaintTurquoiseThomasine3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ShortYellowWilona2 {
+    _hidden_value = true
+  }
+  json RelaxedPlumMinni2 {
+    _hidden_value = true
+  }
+  number ProgressiveOliveMadeline2 {
+    _hidden_value = true
+  }
+  string SmilingBlueCathryn {
+    _hidden_value = true
+  }
+  hidden_boolean GentleIndigoJocelin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean OutstandingTealStefanie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean InappropriateRoseOthilia2 {
+    _hidden_value = true
+  }
+  serviceid VitalEmeraldFifi {
+    _hidden_value = true
+  }
+  hidden_boolean SplendidBlueCatlaina2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean EmptyCyanFanchon2 {
+    _hidden_value = true
+  }
+  serviceid UnchangedSilverRozelle2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OnlyBlushClarette {
+    _hidden_value = true
+  }
+  json DependentGrayHeda2 {
+    _hidden_value = true
+  }
+  serviceid ImplicitSapphireRheba2 {
+    _hidden_value = true
+  }
+  serviceid_number BeautifulTomatoTabby {
+    _hidden_value = true
+  }
+  serviceid HugeCoffeeDoralyn {
+    _hidden_value = true
+  }
+  json MusicalIndigoJoanne3 {
+    _hidden_value = true
+  }
+  serviceid_number LovelyCoralEllie {
+    _hidden_value = true
+  }
+  ElegantTurquoiseTeddie3 = 569
+  DelicateOliveMada = 24
+  AmbitiousPeachMaurene = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  IndependentChocolateDelinda2 = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  TeenageScarletRobinetta2 = 634
+  _hidden_value = true
+}

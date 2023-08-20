@@ -1,0 +1,19 @@
+type dummy.ArtificialMagentaLenka {
+  annotations {
+    boolean GladGoldGlyn2 {
+    }
+    serviceid WoodenGreenHoratia4 {
+    }
+    string DependentGrayHeather2 {
+    }
+  }
+  hidden_boolean IntermediateRoseOfella2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  GladGoldGlyn2 = true
+  WoodenGreenHoratia4 = "Why didnt the skeleton cross the road? Because he had no guts."
+  DependentGrayHeather2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

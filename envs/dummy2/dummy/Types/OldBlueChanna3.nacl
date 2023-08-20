@@ -1,0 +1,23 @@
+type dummy.OldBlueChanna3 {
+  annotations {
+    json ConfidentHarlequinJade3 {
+    }
+    string PermanentFuchsiaGay {
+    }
+    serviceid_number CheerfulSapphireRhodie5 {
+    }
+    string UglyTurquoiseTiphanie4 {
+    }
+    string RecentBronzeCornelle4 {
+    }
+  }
+  dummy.DEFAULT ColdChocolateDebbie2 {
+    _hidden_value = true
+  }
+  ConfidentHarlequinJade3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  PermanentFuchsiaGay = "Dad Im hungry  Hi hungry Im dad"
+  CheerfulSapphireRhodie5 = 358
+  UglyTurquoiseTiphanie4 = "What do you call two barracuda fish?  A Pairacuda!"
+  RecentBronzeCornelle4 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

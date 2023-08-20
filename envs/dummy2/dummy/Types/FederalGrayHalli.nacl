@@ -1,0 +1,79 @@
+type dummy.FederalGrayHalli {
+  annotations {
+    boolean DigitalMaroonLib3 {
+    }
+    string AdjacentSilverRoxi {
+    }
+    number EmbarrassedRedNisse {
+    }
+    hidden_boolean UglyPlumMidge3 {
+    }
+    json StickyAquamarineBeatrix2 {
+    }
+    dummy.SpectacularMaroonLibbie OrganicLimeLacy {
+    }
+  }
+  dummy.SpectacularMaroonLibbie RequiredMaroonLethia2 {
+    FriendlyBlackCarma = 687
+    FrightenedMagentaLavena = 726
+    RepulsiveBeigeBrena = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UptightBeigeBrittni = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    ExactLimeKordula2 = 807
+    LocalBlueCharmian = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    SensibleIvoryJordana = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MonetaryIvoryJoey = "Did you know that protons have mass? I didn't even know they were catholic."
+    WickedBeigeBryna = "What do you call two barracuda fish?  A Pairacuda!"
+    AshamedScarletRosamund = 132
+    ChillyAmaranthAilsun = 573
+    CooingAmethystAngelique = 168
+    FatalPurpleMyrtle = 875
+    ThoughtlessBeigeBrinna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    EvilAzureBili = 888
+    RelievedBlueCathie = true
+    CleverTealSibeal = "What do you call two barracuda fish?  A Pairacuda!"
+    GrowingCrimsonEnrichetta = 54
+    _hidden_value = true
+  }
+  serviceid TallYellowXylia4 {
+    _hidden_value = true
+  }
+  serviceid YellowYellowZora3 {
+    _hidden_value = true
+  }
+  serviceid_number SteadyJadeKaila {
+    _hidden_value = true
+  }
+  string WickedScarletRoseanne {
+    _hidden_value = true
+  }
+  serviceid LowAmberAllyce3 {
+    _hidden_value = true
+  }
+  boolean BlackVioletTonye {
+    _hidden_value = true
+  }
+  string ExplicitMaroonLise2 {
+    _hidden_value = true
+  }
+  hidden_boolean PeculiarPlumMichelina3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number IndependentChocolateDella3 {
+    _hidden_value = true
+  }
+  serviceid_number AcuteLavenderKeri4 {
+    _hidden_value = true
+  }
+  DigitalMaroonLib3 = true
+  AdjacentSilverRoxi = "Why didnt the skeleton cross the road? Because he had no guts."
+  EmbarrassedRedNisse = 127
+  StickyAquamarineBeatrix2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  OrganicLimeLacy = 714
+  _hidden_value = true
+}

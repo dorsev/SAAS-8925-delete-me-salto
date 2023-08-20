@@ -1,0 +1,24 @@
+type dummy.MarkedMagentaLatrena {
+  annotations {
+    number AgreeableBeigeBunnie2 {
+    }
+    dummy.AnxiousHarlequinJanna DreadfulPinkMerrile2 {
+    }
+    hidden_boolean ChronicOliveMallissa3 {
+    }
+    boolean MissingPinkMelloney {
+    }
+  }
+  number NegativeEmeraldGarnette {
+    _hidden_value = true
+  }
+  hidden_boolean ChiefCopperDorrie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  AgreeableBeigeBunnie2 = 746
+  DreadfulPinkMerrile2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  MissingPinkMelloney = false
+  _hidden_value = true
+}

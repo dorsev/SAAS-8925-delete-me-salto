@@ -1,0 +1,27 @@
+type dummy.UnacceptableSalmonPenelope2 {
+  annotations {
+    hidden_boolean DefinitePeachMartelle2 {
+    }
+    serviceid_number OverseasIvoryJuditha2 {
+    }
+    serviceid DepressedPinkMelany {
+    }
+    boolean AshamedAquamarineBernadina {
+    }
+    serviceid_number SocialBlueCharo2 {
+    }
+    serviceid_number TragicRosePavia {
+    }
+  }
+  hidden_boolean ExplicitMaroonLisette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  OverseasIvoryJuditha2 = 245
+  DepressedPinkMelany = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AshamedAquamarineBernadina = false
+  SocialBlueCharo2 = 995
+  TragicRosePavia = 188
+  _hidden_value = true
+}

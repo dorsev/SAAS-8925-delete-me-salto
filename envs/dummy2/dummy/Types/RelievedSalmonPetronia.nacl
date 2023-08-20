@@ -1,0 +1,23 @@
+type dummy.RelievedSalmonPetronia {
+  annotations {
+    number LabourBrownDaffy {
+    }
+    serviceid MarvellousMoccasinLorna {
+    }
+    number DependentGrayHazel {
+    }
+    serviceid_number CoolAmaranthAinslee {
+    }
+    json AggressiveMaroonLilith {
+    }
+  }
+  serviceid_number EntireEmeraldFranciska {
+    _hidden_value = true
+  }
+  LabourBrownDaffy = 920
+  MarvellousMoccasinLorna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DependentGrayHazel = 461
+  CoolAmaranthAinslee = 552
+  AggressiveMaroonLilith = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

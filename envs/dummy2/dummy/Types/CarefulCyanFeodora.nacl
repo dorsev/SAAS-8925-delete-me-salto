@@ -1,0 +1,92 @@
+type dummy.CarefulCyanFeodora {
+  annotations {
+    json WeeklyLavenderKesley {
+    }
+    json PaleGrayHarriett2 {
+    }
+    serviceid_number HeadPinkMeggi {
+    }
+    string PopularChocolateDavida2 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie OrdinaryWhiteViolette {
+    FriendlyBlackCarma = 601
+    FrightenedMagentaLavena = 244
+    RepulsiveBeigeBrena = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UptightBeigeBrittni = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    ExactLimeKordula2 = 126
+    LocalBlueCharmian = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    SensibleIvoryJordana = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    MonetaryIvoryJoey = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    WickedBeigeBryna = "What creature is smarter than a talking parrot? A spelling bee."
+    AshamedScarletRosamund = 148
+    ChillyAmaranthAilsun = 582
+    CooingAmethystAngelique = 101
+    FatalPurpleMyrtle = 664
+    ThoughtlessBeigeBrinna = "Why didnt the skeleton cross the road? Because he had no guts."
+    EvilAzureBili = 896
+    RelievedBlueCathie = true
+    CleverTealSibeal = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    GrowingCrimsonEnrichetta = 883
+    _hidden_value = true
+  }
+  number UnknownFuchsiaGilberta3 {
+    _hidden_value = true
+  }
+  serviceid_number NastyWhiteVeronica {
+    _hidden_value = true
+  }
+  number VerticalOliveLyssa {
+    _hidden_value = true
+  }
+  number TypicalEmeraldFrancine {
+    _hidden_value = true
+  }
+  serviceid_number CivicTanShelli {
+    _hidden_value = true
+  }
+  boolean SillyBlueCathrin {
+    _hidden_value = true
+  }
+  boolean DigitalMaroonLiane {
+    _hidden_value = true
+  }
+  number SparklingTurquoiseTiffy {
+    _hidden_value = true
+  }
+  json ShiveringAquaBabette {
+    _hidden_value = true
+  }
+  serviceid_number EarlyAmethystAmanda2 {
+    _hidden_value = true
+  }
+  serviceid_number ExcitingGreenIvett {
+    _hidden_value = true
+  }
+  serviceid_number TremendousMagentaLeoine {
+    _hidden_value = true
+  }
+  number WoodenAquamarineBellina {
+    _hidden_value = true
+  }
+  string ImaginativeTanSeline2 {
+    _hidden_value = true
+  }
+  number WittyBlueCelene {
+    _hidden_value = true
+  }
+  hidden_boolean BlushingTomatoTalya {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  WeeklyLavenderKesley = "Why didnt the skeleton cross the road? Because he had no guts."
+  PaleGrayHarriett2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HeadPinkMeggi = 72
+  PopularChocolateDavida2 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

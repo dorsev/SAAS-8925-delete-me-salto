@@ -1,0 +1,37 @@
+type dummy.OldAmethystAmelita {
+  annotations {
+    boolean MuteApricotAnnemarie {
+    }
+    serviceid ProudBlueCatherin {
+    }
+    number SurroundingOrangeMargeaux {
+    }
+    serviceid OccupationalOliveMadel {
+    }
+    serviceid_number DifferentBlueCharleen {
+    }
+    dummy.DEFAULT AverageCoralElysha {
+    }
+    serviceid WearyBeigeBrooke {
+    }
+    serviceid_number PoisedTurquoiseThomasin {
+    }
+  }
+  string WonderfulYellowZoe {
+    _hidden_value = true
+  }
+  boolean CoherentScarletRosella {
+    _hidden_value = true
+  }
+  MuteApricotAnnemarie = false
+  ProudBlueCatherin = "Did you know that protons have mass? I didn't even know they were catholic."
+  SurroundingOrangeMargeaux = 704
+  OccupationalOliveMadel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DifferentBlueCharleen = 625
+  AverageCoralElysha = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  WearyBeigeBrooke = "I'll tell you what often gets over looked... garden fences."
+  PoisedTurquoiseThomasin = 373
+  _hidden_value = true
+}

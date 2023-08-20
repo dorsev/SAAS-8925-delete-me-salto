@@ -1,0 +1,120 @@
+type dummy.MeltedAquaAurelea {
+  annotations {
+    string BizarreTanSeka2 {
+    }
+    json IllegalJadeKarolina {
+    }
+    json BoldPlumMinetta {
+    }
+    dummy.DEFAULT SolarRosePammie {
+    }
+    json GayOrangeMarijo {
+    }
+    dummy.ExactLimeKordula HappyBlackCaroljean {
+    }
+  }
+  dummy.AnxiousHarlequinJanna EmptyAmethystAndra3 {
+    ColonialPeachMaure = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GloriousBlackCarmine = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna DeafIvoryJoya {
+    ColonialPeachMaure = "Whoever invented the knock-knock joke should get a no bell prize."
+    GloriousBlackCarmine = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi SupremeGreenIsabella2 {
+    SillyYellowWini = 134
+    CruelAquamarineBessy = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    TameYellowYalonda = 218
+    RareWhiteWanda = 694
+    SpareMaroonLillis = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    StupidGreenIzabel = 323
+    MaximumGreenIlyssa = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    TerritorialSalmonPriscella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    VariedRedNoreen = 975
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 267
+    IntenseLavenderKatuscha = 403
+    SubtleMoccasinLucie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  serviceid_number EverydayLimeKyrstin {
+    _hidden_value = true
+  }
+  json NegativeFuchsiaGavra {
+    _hidden_value = true
+  }
+  number DarkChocolateDeanne2 {
+    _hidden_value = true
+  }
+  serviceid_number RegulatorySalmonQuintana2 {
+    _hidden_value = true
+  }
+  number PerfectBlackCate {
+    _hidden_value = true
+  }
+  string BrainyTealSherye {
+    _hidden_value = true
+  }
+  json AsianMaroonLinda {
+    _hidden_value = true
+  }
+  serviceid_number TallCyanFaye {
+    _hidden_value = true
+  }
+  hidden_boolean SoftApricotAnya {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SteepMoccasinLuise {
+    _hidden_value = true
+  }
+  hidden_boolean WealthyPeachMaryellen {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MadHarlequinJanenna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number WoodenAquamarineBellanca2 {
+    _hidden_value = true
+  }
+  string LinearRedNetta {
+    _hidden_value = true
+  }
+  hidden_boolean DisturbedAzureBeverlee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PossibleBlushCheryl {
+    _hidden_value = true
+  }
+  json MuddyTurquoiseTheresina3 {
+    _hidden_value = true
+  }
+  boolean SensitiveGrayHendrika {
+    _hidden_value = true
+  }
+  hidden_boolean OverallCrimsonEmmalynne2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  BizarreTanSeka2 = "Dad Im hungry  Hi hungry Im dad"
+  IllegalJadeKarolina = "Dad Im hungry  Hi hungry Im dad"
+  BoldPlumMinetta = "Whoever invented the knock-knock joke should get a no bell prize."
+  SolarRosePammie = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  GayOrangeMarijo = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HappyBlackCaroljean = 212
+  _hidden_value = true
+}

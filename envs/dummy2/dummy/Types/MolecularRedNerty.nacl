@@ -1,0 +1,20 @@
+type dummy.MolecularRedNerty {
+  annotations {
+    serviceid_number BrilliantGreenIlse {
+    }
+    number ChronicOliveMallissa {
+    }
+    boolean JoyousBlackCarry2 {
+    }
+  }
+  boolean IncredibleRosePatty {
+    _hidden_value = true
+  }
+  boolean SlimRoseOlwen {
+    _hidden_value = true
+  }
+  BrilliantGreenIlse = 662
+  ChronicOliveMallissa = 121
+  JoyousBlackCarry2 = false
+  _hidden_value = true
+}

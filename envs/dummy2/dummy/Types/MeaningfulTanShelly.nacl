@@ -1,0 +1,72 @@
+type dummy.MeaningfulTanShelly {
+  annotations {
+    serviceid SevereEmeraldGabriellia {
+    }
+    hidden_boolean BeautifulCoffeeDita {
+    }
+    number ThenSalmonPhilomena {
+    }
+    hidden_boolean VerticalOliveLynnette {
+    }
+    string DeepAmberAlla {
+    }
+    serviceid_number SkinnyAmberAlta {
+    }
+    boolean EnormousFuchsiaGinny {
+    }
+  }
+  dummy.AnxiousHarlequinJanna AliveTealSherline2 {
+    ColonialPeachMaure = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    GloriousBlackCarmine = "Why did the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  boolean JollyVioletValida {
+    _hidden_value = true
+  }
+  hidden_boolean OccupationalOliveMaddie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number GlobalGrayHerminia {
+    _hidden_value = true
+  }
+  json FollowingBrownCynthia {
+    _hidden_value = true
+  }
+  serviceid PregnantLimeKizzee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AmazingMoccasinLizette4 {
+    _hidden_value = true
+  }
+  boolean IsraeliPinkMeridith {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ReligiousCoralElena2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number DeafIvoryJoya2 {
+    _hidden_value = true
+  }
+  json MadHarlequinJanessa {
+    _hidden_value = true
+  }
+  serviceid WonderfulYellowZitella {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula StickyAquaArlyne3 {
+    _hidden_value = true
+  }
+  string LtdCoralElna2 {
+    _hidden_value = true
+  }
+  SevereEmeraldGabriellia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ThenSalmonPhilomena = 406
+  DeepAmberAlla = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SkinnyAmberAlta = 737
+  EnormousFuchsiaGinny = false
+  _hidden_value = true
+}

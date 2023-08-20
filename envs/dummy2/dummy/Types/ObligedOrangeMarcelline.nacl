@@ -1,0 +1,103 @@
+type dummy.ObligedOrangeMarcelline {
+  annotations {
+    boolean SocialistHarlequinJacquetta {
+    }
+    hidden_boolean CommonBronzeConsuelo {
+    }
+    string VisualGreenIngeborg {
+    }
+    string DepressedAzureBettina {
+    }
+    dummy.DEFAULT SouthernCyanEvie {
+    }
+  }
+  dummy.AnxiousHarlequinJanna HardAquaAudrey {
+    ColonialPeachMaure = "My first time using an elevator was an uplifting experience. The second time let me down."
+    GloriousBlackCarmine = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  boolean DecisiveSalmonPennie {
+    _hidden_value = true
+  }
+  string GradualSilverSalaidh {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BoredAquamarineBerny {
+    _hidden_value = true
+  }
+  serviceid NoisySilverSadye {
+    _hidden_value = true
+  }
+  json ControversialLimeKyle {
+    _hidden_value = true
+  }
+  json UglyYellowZahara {
+    _hidden_value = true
+  }
+  json RudeTanShaylyn2 {
+    _hidden_value = true
+  }
+  boolean EnergeticBlackCaria {
+    _hidden_value = true
+  }
+  number LinearRedNesta {
+    _hidden_value = true
+  }
+  serviceid SilentGrayHappy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EducationalCrimsonEsma {
+    _hidden_value = true
+  }
+  number GrievingAzureBlakelee {
+    _hidden_value = true
+  }
+  json WiseLavenderKatharyn2 {
+    _hidden_value = true
+  }
+  hidden_boolean YummyYellowZorina2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string TheoreticalIndigoJeniffer {
+    _hidden_value = true
+  }
+  string IntermediateRoseOfella {
+    _hidden_value = true
+  }
+  boolean WholeBronzeCloris {
+    _hidden_value = true
+  }
+  serviceid AbsentPinkMelva {
+    _hidden_value = true
+  }
+  "List<number>" RedBrownDallas {
+    _hidden_value = true
+  }
+  json ChineseGoldGuenevere {
+    _hidden_value = true
+  }
+  number RequiredMaroonLeta {
+    _hidden_value = true
+  }
+  serviceid_number HelplessAzureBlancha {
+    _hidden_value = true
+  }
+  serviceid CalmPurpleNancee {
+    _hidden_value = true
+  }
+  serviceid IntenseLavenderKattie2 {
+    _hidden_value = true
+  }
+  number ObedientBlackCassie {
+    _hidden_value = true
+  }
+  SocialistHarlequinJacquetta = false
+  VisualGreenIngeborg = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DepressedAzureBettina = "Im only familiar with 25 letters in the English language. I dont know why."
+  SouthernCyanEvie = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  _hidden_value = true
+}

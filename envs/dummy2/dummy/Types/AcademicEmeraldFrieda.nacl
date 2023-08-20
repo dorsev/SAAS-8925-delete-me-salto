@@ -1,0 +1,72 @@
+type dummy.AcademicEmeraldFrieda {
+  annotations {
+    json ExpensiveCrimsonErnaline2 {
+    }
+    dummy.SpectacularMaroonLibbie EthicalScarletRobenia3 {
+    }
+    string DistinctTurquoiseTatiana3 {
+    }
+    serviceid LocalBlueCharmaine {
+    }
+    json ParticularBlushClaudelle2 {
+    }
+    json DirtyIvoryJosefa {
+    }
+    hidden_boolean RadicalGrayHelenelizabeth2 {
+    }
+  }
+  boolean UnknownFuchsiaGilberte2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" WellFuchsiaGisela3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number LivingGrayHenrieta {
+    _hidden_value = true
+  }
+  serviceid_number OuterJadeKaron2 {
+    _hidden_value = true
+  }
+  boolean InterimOrangeMalva {
+    _hidden_value = true
+  }
+  "List<boolean>" CognitiveSalmonQuerida3 {
+    _hidden_value = true
+  }
+  boolean WarmCopperDulcy2 {
+    _hidden_value = true
+  }
+  boolean SubtleMoccasinLucienne {
+    _hidden_value = true
+  }
+  json MarriedCyanFanni {
+    _hidden_value = true
+  }
+  number SpatialSalmonPerla {
+    _hidden_value = true
+  }
+  string ComfortableBeigeCamella3 {
+    _hidden_value = true
+  }
+  number FatIvoryJoelly {
+    _hidden_value = true
+  }
+  serviceid AgriculturalGoldGoldia2 {
+    _hidden_value = true
+  }
+  serviceid_number UnitedCopperEddy2 {
+    _hidden_value = true
+  }
+  number ConservativeCoralEllene {
+    _hidden_value = true
+  }
+  ExpensiveCrimsonErnaline2 = "I'll tell you what often gets over looked... garden fences."
+  EthicalScarletRobenia3 = 322
+  DistinctTurquoiseTatiana3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LocalBlueCharmaine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ParticularBlushClaudelle2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DirtyIvoryJosefa = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

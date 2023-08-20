@@ -1,0 +1,76 @@
+type dummy.LikePeachMarlyn {
+  annotations {
+    string TiredGoldGrete3 {
+    }
+    serviceid_number SeriousBrownDanette2 {
+    }
+    string HiddenRedOdelle2 {
+    }
+    string SquareJadeKaia3 {
+    }
+    dummy.DEFAULT AddedPinkMelinda2 {
+    }
+    number QuietWhiteVivien3 {
+    }
+  }
+  hidden_boolean ColossalAmaranthAbbye3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json MammothAmaranthAdora3 {
+    _hidden_value = true
+  }
+  number DetailedCrimsonEmlyn {
+    _hidden_value = true
+  }
+  hidden_boolean SeriousBrownDani {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json HistoricLavenderKellie2 {
+    _hidden_value = true
+  }
+  number GreatAmaranthAddia3 {
+    _hidden_value = true
+  }
+  serviceid_number LinearRedNesta3 {
+    _hidden_value = true
+  }
+  json InnerFuchsiaGenvieve {
+    _hidden_value = true
+  }
+  serviceid_number GeneralBlushChristean3 {
+    _hidden_value = true
+  }
+  boolean ShortAmaranthAg2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WealthyPeachMarybeth2 {
+    _hidden_value = true
+  }
+  hidden_boolean CanadianPlumMinetta2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FoolishAzureBinny {
+    _hidden_value = true
+  }
+  boolean UndergroundScarletRomonda {
+    _hidden_value = true
+  }
+  serviceid MolecularRedNertie2 {
+    _hidden_value = true
+  }
+  TiredGoldGrete3 = "Why is Peter Pan always flying? Because he Neverlands."
+  SeriousBrownDanette2 = 105
+  HiddenRedOdelle2 = "Why was it called the dark ages? Because of all the knights. "
+  SquareJadeKaia3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AddedPinkMelinda2 = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  QuietWhiteVivien3 = 185
+  _hidden_value = true
+}

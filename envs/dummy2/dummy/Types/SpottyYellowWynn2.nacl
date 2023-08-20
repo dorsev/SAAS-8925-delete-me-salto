@@ -1,0 +1,19 @@
+type dummy.SpottyYellowWynn2 {
+  annotations {
+    number PlasticAquaAurelie {
+    }
+    json ForwardSapphireRianon {
+    }
+    hidden_boolean AngryAquamarineBenedicta {
+    }
+    boolean NewBlueChandal3 {
+    }
+  }
+  serviceid AnonymousSapphireRaynell {
+    _hidden_value = true
+  }
+  PlasticAquaAurelie = 418
+  ForwardSapphireRianon = "Why did the kid cross the playground? To get to the other slide."
+  NewBlueChandal3 = true
+  _hidden_value = true
+}

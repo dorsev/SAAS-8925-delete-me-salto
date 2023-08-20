@@ -1,0 +1,71 @@
+type dummy.AccusedSilverSallyanne {
+  annotations {
+    number PsychologicalIvoryJolee3 {
+    }
+    string ExpectedLimeLane2 {
+    }
+    string FashionableSapphireRenata7 {
+    }
+    dummy.DEFAULT RapidAmethystAmmamaria3 {
+    }
+    json PurpleScarletRivalee4 {
+    }
+  }
+  dummy.OrdinaryCopperEdi CrowdedTomatoTani2 {
+    SillyYellowWini = 515
+    CruelAquamarineBessy = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    TameYellowYalonda = 887
+    RareWhiteWanda = 480
+    SpareMaroonLillis = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    StupidGreenIzabel = 267
+    MaximumGreenIlyssa = "My first time using an elevator was an uplifting experience. The second time let me down."
+    TerritorialSalmonPriscella = "What did one nut say as he chased another nut?  I'm a cashew!"
+    VariedRedNoreen = 734
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 69
+    IntenseLavenderKatuscha = 903
+    SubtleMoccasinLucie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  hidden_boolean HostileOrangeMariel3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CanadianPlumMindy2 {
+    _hidden_value = true
+  }
+  number AllegedOliveLynn5 {
+    _hidden_value = true
+  }
+  json TechnologicalOrangeMaribel3 {
+    _hidden_value = true
+  }
+  serviceid AmateurSalmonPia3 {
+    _hidden_value = true
+  }
+  serviceid_number VoluntaryGoldGwenette2 {
+    _hidden_value = true
+  }
+  serviceid LevelJadeKamila {
+    _hidden_value = true
+  }
+  string NormalBrownDamaris3 {
+    _hidden_value = true
+  }
+  hidden_boolean ChangingJadeKassi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  PsychologicalIvoryJolee3 = 625
+  ExpectedLimeLane2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FashionableSapphireRenata7 = "Why didnt the skeleton cross the road? Because he had no guts."
+  RapidAmethystAmmamaria3 = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  PurpleScarletRivalee4 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

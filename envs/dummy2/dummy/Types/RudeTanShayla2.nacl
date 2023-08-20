@@ -1,0 +1,20 @@
+type dummy.RudeTanShayla2 {
+  annotations {
+    number CuddlyAmberAlbertina {
+    }
+    boolean MysteriousAzureBonni {
+    }
+    number ClearBlushCinnamon2 {
+    }
+    json UnlikelyCrimsonEthelin2 {
+    }
+  }
+  boolean OccupationalOliveMaddy {
+    _hidden_value = true
+  }
+  CuddlyAmberAlbertina = 560
+  MysteriousAzureBonni = false
+  ClearBlushCinnamon2 = 228
+  UnlikelyCrimsonEthelin2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

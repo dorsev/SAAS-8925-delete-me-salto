@@ -1,0 +1,110 @@
+type dummy.StraightforwardMaroonLexy2 {
+  annotations {
+    number ElegantTurquoiseTeddie2 {
+    }
+    hidden_boolean IntensiveMoccasinLulu {
+    }
+    boolean UnconsciousSapphireRaven3 {
+    }
+    number LiableLimeKimbra {
+    }
+    json EntitledIvoryJulia {
+    }
+    serviceid_number EmbarrassedRedNissie2 {
+    }
+    number SunnyTanSharia2 {
+    }
+    serviceid_number DueCopperDosi2 {
+    }
+  }
+  dummy.SpectacularMaroonLibbie AdditionalCopperDotti3 {
+    FriendlyBlackCarma = 908
+    FrightenedMagentaLavena = 540
+    RepulsiveBeigeBrena = "How come the stadium got hot after the game? Because all of the fans left."
+    UptightBeigeBrittni = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    ExactLimeKordula2 = 174
+    LocalBlueCharmian = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    SensibleIvoryJordana = "To be Frank, I'd have to change my name."
+    MonetaryIvoryJoey = "Whoever invented the knock-knock joke should get a no bell prize."
+    WickedBeigeBryna = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AshamedScarletRosamund = 460
+    ChillyAmaranthAilsun = 448
+    CooingAmethystAngelique = 723
+    FatalPurpleMyrtle = 745
+    ThoughtlessBeigeBrinna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    EvilAzureBili = 493
+    RelievedBlueCathie = false
+    CleverTealSibeal = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GrowingCrimsonEnrichetta = 883
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula FemaleCrimsonEmmey {
+    _hidden_value = true
+  }
+  number ConfusedMaroonLila {
+    _hidden_value = true
+  }
+  serviceid_number ExtendedPlumMilena2 {
+    _hidden_value = true
+  }
+  hidden_boolean PrintedRedNevsa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SupportingSilverSamaria2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" StormyTurquoiseTimi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json WearyBeigeBrook {
+    _hidden_value = true
+  }
+  number JuniorIvoryJoni {
+    _hidden_value = true
+  }
+  hidden_boolean DirtyAmberAleta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json LatinLimeKlarrisa2 {
+    _hidden_value = true
+  }
+  boolean ShortAmaranthAgace3 {
+    _hidden_value = true
+  }
+  boolean FancyTurquoiseTeirtza {
+    _hidden_value = true
+  }
+  string FuriousRedNicolina {
+    _hidden_value = true
+  }
+  serviceid ProfessionalChocolateDayle {
+    _hidden_value = true
+  }
+  boolean InjuredScarletRosalie {
+    _hidden_value = true
+  }
+  serviceid_number TestyYellowYolanda2 {
+    _hidden_value = true
+  }
+  serviceid_number StraightforwardMaroonLia {
+    _hidden_value = true
+  }
+  ElegantTurquoiseTeddie2 = 302
+  UnconsciousSapphireRaven3 = true
+  LiableLimeKimbra = 787
+  EntitledIvoryJulia = "Dad Im hungry  Hi hungry Im dad"
+  EmbarrassedRedNissie2 = 225
+  SunnyTanSharia2 = 793
+  DueCopperDosi2 = 223
+  _hidden_value = true
+}

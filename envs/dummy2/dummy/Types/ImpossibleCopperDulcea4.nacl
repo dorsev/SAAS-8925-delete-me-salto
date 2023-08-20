@@ -1,0 +1,56 @@
+type dummy.ImpossibleCopperDulcea4 {
+  annotations {
+    string SweetGreenHolly {
+    }
+    serviceid_number BlackVioletTonye2 {
+    }
+    serviceid FancyTurquoiseTedi6 {
+    }
+    serviceid GentleBlackCarmelita4 {
+    }
+    number LegitimatePinkMaye {
+    }
+  }
+  number FutureCoffeeDoloritas {
+    _hidden_value = true
+  }
+  hidden_boolean SuperTomatoSusana2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json PrettyIndigoJennine2 {
+    _hidden_value = true
+  }
+  serviceid_number IndependentChocolateDella5 {
+    _hidden_value = true
+  }
+  string ReliableLavenderKim2 {
+    _hidden_value = true
+  }
+  serviceid MeaningfulTanShena2 {
+    _hidden_value = true
+  }
+  serviceid RussianCyanFelipa4 {
+    _hidden_value = true
+  }
+  hidden_boolean ProposedGoldGwendolin5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DisturbedAzureBeverie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SupportingSilverSamantha2 {
+    _hidden_value = true
+  }
+  SweetGreenHolly = "What do you call two barracuda fish?  A Pairacuda!"
+  BlackVioletTonye2 = 741
+  FancyTurquoiseTedi6 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GentleBlackCarmelita4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LegitimatePinkMaye = 312
+  _hidden_value = true
+}

@@ -1,0 +1,27 @@
+type dummy.FinalBrownDalia2 {
+  annotations {
+    string OccasionalIvoryJulina2 {
+    }
+    number ThoroughScarletRonda2 {
+    }
+    serviceid BeautifulTomatoTabitha {
+    }
+    string CheerfulSapphireRhodia2 {
+    }
+    number OutstandingTealSteffane2 {
+    }
+    hidden_boolean OppositeHarlequinJanel {
+    }
+    hidden_boolean RacialPlumMichell {
+    }
+  }
+  boolean ImpossibleTealSosanna {
+    _hidden_value = true
+  }
+  OccasionalIvoryJulina2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ThoroughScarletRonda2 = 751
+  BeautifulTomatoTabitha = "How come the stadium got hot after the game? Because all of the fans left."
+  CheerfulSapphireRhodia2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OutstandingTealSteffane2 = 173
+  _hidden_value = true
+}

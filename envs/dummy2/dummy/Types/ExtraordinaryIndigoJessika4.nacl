@@ -1,0 +1,30 @@
+type dummy.ExtraordinaryIndigoJessika4 {
+  annotations {
+    dummy.SpectacularMaroonLibbie ProminentLavenderKeely {
+    }
+    dummy.DEFAULT UpsetOliveMabel6 {
+    }
+    string LiberalCyanFarra3 {
+    }
+    number ContinuousIvoryJoye2 {
+    }
+    number CuddlyAmberAlbertina2 {
+    }
+    serviceid_number UniversalJadeJyoti3 {
+    }
+    hidden_boolean FavouriteHarlequinJacqueline2 {
+    }
+  }
+  serviceid_number UptightBeigeBrook3 {
+    _hidden_value = true
+  }
+  ProminentLavenderKeely = 842
+  UpsetOliveMabel6 = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  LiberalCyanFarra3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ContinuousIvoryJoye2 = 531
+  CuddlyAmberAlbertina2 = 3
+  UniversalJadeJyoti3 = 678
+  _hidden_value = true
+}

@@ -1,0 +1,46 @@
+type dummy.AnxiousAquamarineBenoite3 {
+  annotations {
+    json BritishBlushCherilyn {
+    }
+    string RenewedSilverSandie {
+    }
+    string LexicalSilverSada2 {
+    }
+    number ClassicJadeKaja {
+    }
+    serviceid FairBlackCarley2 {
+    }
+    number HumanBronzeConstanta3 {
+    }
+  }
+  string UnfortunatePeachMarta2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MassiveAmaranthAdriaens {
+    _hidden_value = true
+  }
+  json AnxiousAquamarineBenoite4 {
+    _hidden_value = true
+  }
+  hidden_boolean ConstantEmeraldFranny2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CompulsoryOrangeMalorie2 {
+    _hidden_value = true
+  }
+  number BusyCyanFayre4 {
+    _hidden_value = true
+  }
+  number ExcessSilverSara4 {
+    _hidden_value = true
+  }
+  BritishBlushCherilyn = "I'll tell you what often gets over looked... garden fences."
+  RenewedSilverSandie = "Why is Peter Pan always flying? Because he Neverlands."
+  LexicalSilverSada2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ClassicJadeKaja = 666
+  FairBlackCarley2 = "To be Frank, I'd have to change my name."
+  HumanBronzeConstanta3 = 571
+  _hidden_value = true
+}

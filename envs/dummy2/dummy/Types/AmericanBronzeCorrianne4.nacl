@@ -1,0 +1,46 @@
+type dummy.AmericanBronzeCorrianne4 {
+  annotations {
+    json MysteriousPurpleNelie {
+    }
+    serviceid_number VisibleIndigoJillane {
+    }
+    json FrequentLavenderKati2 {
+    }
+    serviceid SympatheticPinkMeade3 {
+    }
+  }
+  number GratefulIvoryJorey4 {
+    _hidden_value = true
+  }
+  boolean RomanticMagentaLea {
+    _hidden_value = true
+  }
+  boolean TurkishPurpleMoyna3 {
+    _hidden_value = true
+  }
+  serviceid CleanTomatoTamiko {
+    _hidden_value = true
+  }
+  serviceid SecondaryFuchsiaGertrud4 {
+    _hidden_value = true
+  }
+  number ShortAmethystAnabel4 {
+    _hidden_value = true
+  }
+  hidden_boolean RipeApricotAridatha2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string AlrightGoldGoldie2 {
+    _hidden_value = true
+  }
+  "List<number>" OutstandingIndigoJenn2 {
+    _hidden_value = true
+  }
+  MysteriousPurpleNelie = "Whoever invented the knock-knock joke should get a no bell prize."
+  VisibleIndigoJillane = 283
+  FrequentLavenderKati2 = "Why was it called the dark ages? Because of all the knights. "
+  SympatheticPinkMeade3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

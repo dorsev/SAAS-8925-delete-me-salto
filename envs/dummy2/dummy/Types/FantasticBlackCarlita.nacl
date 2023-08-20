@@ -1,0 +1,80 @@
+type dummy.FantasticBlackCarlita {
+  annotations {
+    string PrivateBronzeCordula3 {
+    }
+    number TenderRedOdele {
+    }
+    serviceid_number DeafIvoryJoy {
+    }
+    serviceid SpottyYellowWylma {
+    }
+  }
+  dummy.SpectacularMaroonLibbie ProgressiveOliveMadella2 {
+    FriendlyBlackCarma = 296
+    FrightenedMagentaLavena = 260
+    RepulsiveBeigeBrena = "Why didnt the skeleton cross the road? Because he had no guts."
+    UptightBeigeBrittni = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    ExactLimeKordula2 = 313
+    LocalBlueCharmian = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    SensibleIvoryJordana = "My first time using an elevator was an uplifting experience. The second time let me down."
+    MonetaryIvoryJoey = "What did one nut say as he chased another nut?  I'm a cashew!"
+    WickedBeigeBryna = "What creature is smarter than a talking parrot? A spelling bee."
+    AshamedScarletRosamund = 471
+    ChillyAmaranthAilsun = 122
+    CooingAmethystAngelique = 63
+    FatalPurpleMyrtle = 510
+    ThoughtlessBeigeBrinna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    EvilAzureBili = 586
+    RelievedBlueCathie = true
+    CleverTealSibeal = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    GrowingCrimsonEnrichetta = 108
+    _hidden_value = true
+  }
+  "List<boolean>" InfluentialMoccasinLorene2 {
+    _hidden_value = true
+  }
+  serviceid_number HarshOliveMahalia2 {
+    _hidden_value = true
+  }
+  hidden_boolean DevelopedPinkMerissa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT SubjectiveSapphireRhonda {
+    _hidden_value = true
+  }
+  boolean MistyTurquoiseTheadora2 {
+    _hidden_value = true
+  }
+  json SatisfiedHarlequinJeana {
+    _hidden_value = true
+  }
+  json SteadyJadeKailey {
+    _hidden_value = true
+  }
+  string SpottyYellowWylma2 {
+    _hidden_value = true
+  }
+  serviceid HiddenRedOdessa {
+    _hidden_value = true
+  }
+  string FatAmaranthAbigale3 {
+    _hidden_value = true
+  }
+  number OkayOliveMaggee {
+    _hidden_value = true
+  }
+  serviceid EnglishBrownCourtney {
+    _hidden_value = true
+  }
+  PrivateBronzeCordula3 = "To be Frank, I'd have to change my name."
+  TenderRedOdele = 4
+  DeafIvoryJoy = 339
+  SpottyYellowWylma = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

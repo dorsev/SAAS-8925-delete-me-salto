@@ -1,0 +1,25 @@
+type dummy.MedievalJadeKarel2 {
+  annotations {
+    serviceid_number TartYellowWynnie4 {
+    }
+    string RetiredSilverSarajane2 {
+    }
+    number SaltyApricotArleen4 {
+    }
+    serviceid GrossLavenderKetty {
+    }
+    number FrozenScarletRosabel {
+    }
+  }
+  "List<hidden_boolean>" HelpfulHarlequinJaneva {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  TartYellowWynnie4 = 489
+  RetiredSilverSarajane2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SaltyApricotArleen4 = 859
+  GrossLavenderKetty = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FrozenScarletRosabel = 319
+  _hidden_value = true
+}

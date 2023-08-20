@@ -1,0 +1,48 @@
+type dummy.IdenticalLimeKorry2 {
+  annotations {
+    boolean LivelyPeachMarylin {
+    }
+    number CrudePlumMil4 {
+    }
+    serviceid SharedPinkMelessa {
+    }
+    hidden_boolean RequiredMaroonLeticia3 {
+    }
+    hidden_boolean ImaginativeTanSeline5 {
+    }
+    serviceid NastyWhiteVeronica2 {
+    }
+  }
+  dummy.OrdinaryCopperEdi MaximumGreenImelda {
+    SillyYellowWini = 501
+    CruelAquamarineBessy = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    TameYellowYalonda = 793
+    RareWhiteWanda = 996
+    SpareMaroonLillis = "Dad Im hungry  Hi hungry Im dad"
+    StupidGreenIzabel = 151
+    MaximumGreenIlyssa = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    TerritorialSalmonPriscella = "What did one nut say as he chased another nut?  I'm a cashew!"
+    VariedRedNoreen = 936
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 806
+    IntenseLavenderKatuscha = 428
+    SubtleMoccasinLucie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  json CasualOliveLusa2 {
+    _hidden_value = true
+  }
+  number FoolishSapphireReina3 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ScaredSalmonRafaelita2 {
+    _hidden_value = true
+  }
+  LivelyPeachMarylin = true
+  CrudePlumMil4 = 13
+  SharedPinkMelessa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  NastyWhiteVeronica2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

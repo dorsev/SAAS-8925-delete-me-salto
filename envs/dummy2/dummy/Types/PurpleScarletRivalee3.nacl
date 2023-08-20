@@ -1,0 +1,31 @@
+type dummy.PurpleScarletRivalee3 {
+  annotations {
+    hidden_boolean WetGrayHedi4 {
+    }
+    number CrowdedTomatoTania4 {
+    }
+    dummy.SpectacularMaroonLibbie CorporateEmeraldGalina {
+    }
+    boolean TinyCyanEula2 {
+    }
+    serviceid UnableCoralElonore {
+    }
+    dummy.ExactLimeKordula CausalSapphireRene3 {
+    }
+  }
+  serviceid ExactLimeKordula3 {
+    _hidden_value = true
+  }
+  serviceid FlyingMoccasinLorelei2 {
+    _hidden_value = true
+  }
+  serviceid_number MeanIvoryJulee3 {
+    _hidden_value = true
+  }
+  CrowdedTomatoTania4 = 649
+  CorporateEmeraldGalina = 570
+  TinyCyanEula2 = true
+  UnableCoralElonore = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CausalSapphireRene3 = 22
+  _hidden_value = true
+}

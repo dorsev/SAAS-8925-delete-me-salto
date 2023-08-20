@@ -1,0 +1,61 @@
+type dummy.AccurateIndigoJillene {
+  annotations {
+    hidden_boolean WickedScarletRoseanna {
+    }
+    json DecentMoccasinLonnie2 {
+    }
+    hidden_boolean FineBrownCosette {
+    }
+    string HomelessAzureBlinnie3 {
+    }
+  }
+  serviceid_number DigitalMaroonLib2 {
+    _hidden_value = true
+  }
+  serviceid InteriorPurpleNathalie {
+    _hidden_value = true
+  }
+  "List<string>" SuperTomatoSusana {
+    _hidden_value = true
+  }
+  number GrotesqueTurquoiseTersina {
+    _hidden_value = true
+  }
+  json MoralCyanFelita {
+    _hidden_value = true
+  }
+  json PleasantBlackCatharine2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImmenseAmaranthAdele3 {
+    _hidden_value = true
+  }
+  boolean NastyMaroonLisha2 {
+    _hidden_value = true
+  }
+  number AllegedOliveLynn4 {
+    _hidden_value = true
+  }
+  hidden_boolean RottenApricotArielle2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ExcitedOrangeMarion3 {
+    _hidden_value = true
+  }
+  serviceid_number ForthcomingPeachMarris {
+    _hidden_value = true
+  }
+  number FamousCoralElianora5 {
+    _hidden_value = true
+  }
+  hidden_boolean GleamingTurquoiseTerra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  DecentMoccasinLonnie2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HomelessAzureBlinnie3 = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

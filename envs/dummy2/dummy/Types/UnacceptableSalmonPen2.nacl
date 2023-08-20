@@ -1,0 +1,41 @@
+type dummy.UnacceptableSalmonPen2 {
+  annotations {
+    hidden_boolean TypicalEmeraldFranciska {
+    }
+    json AfraidAquamarineBelva {
+    }
+    serviceid NaughtyAzureBonni2 {
+    }
+    hidden_boolean PopularChocolateDavina {
+    }
+    json AcceptableGrayHelsa2 {
+    }
+    serviceid ShortAmethystAnabel3 {
+    }
+  }
+  number LinguisticJadeKarin {
+    _hidden_value = true
+  }
+  boolean DisturbingTealSherill3 {
+    _hidden_value = true
+  }
+  hidden_boolean UninterestedTomatoSusy3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ClumsyVioletTracee2 {
+    _hidden_value = true
+  }
+  json WiseLavenderKatharyn4 {
+    _hidden_value = true
+  }
+  json SourApricotArlena2 {
+    _hidden_value = true
+  }
+  AfraidAquamarineBelva = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NaughtyAzureBonni2 = "What do you call two barracuda fish?  A Pairacuda!"
+  AcceptableGrayHelsa2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ShortAmethystAnabel3 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

@@ -1,0 +1,68 @@
+type dummy.MarkedMagentaLatrena2 {
+  annotations {
+    boolean ShyTomatoSue4 {
+    }
+    serviceid TemporaryGrayHali {
+    }
+    number BoredAquamarineBerrie {
+    }
+    json LoudApricotAnnadiana4 {
+    }
+    dummy.ElaborateRedNicole SuccessiveMoccasinLoise3 {
+    }
+    string VaguePinkMeghann5 {
+    }
+    dummy.AnxiousHarlequinJanna CurvedAmberAlla2 {
+    }
+    string InvisibleRoseOrelee4 {
+    }
+    number GladGoldGlynis2 {
+    }
+    number GlobalGrayHermina3 {
+    }
+    dummy.OrdinaryCopperEdi GothicSapphireRana3 {
+    }
+    number FairBlackCarlen2 {
+    }
+    json AlertTomatoSylvia {
+    }
+    number CreepyAquamarineBess2 {
+    }
+    hidden_boolean BadAquamarineBernette2 {
+    }
+    boolean EssentialCoffeeDion3 {
+    }
+    hidden_boolean RattyWhiteWanids {
+    }
+    json PlainTurquoiseTheressa2 {
+    }
+    boolean FinalBrownDalia4 {
+    }
+    json CasualOliveLurline2 {
+    }
+    serviceid RudeTanShaylah2 {
+    }
+    serviceid SheerMagentaLauretta2 {
+    }
+  }
+  ShyTomatoSue4 = false
+  TemporaryGrayHali = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BoredAquamarineBerrie = 35
+  LoudApricotAnnadiana4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  VaguePinkMeghann5 = "Dad Im hungry  Hi hungry Im dad"
+  CurvedAmberAlla2 = file("SpecificBrownDarb.txt")
+  InvisibleRoseOrelee4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  GladGoldGlynis2 = 985
+  GlobalGrayHermina3 = 71
+  GothicSapphireRana3 = file("HelplessAzureBlanche2.txt")
+  FairBlackCarlen2 = 770
+  AlertTomatoSylvia = "How come the stadium got hot after the game? Because all of the fans left."
+  CreepyAquamarineBess2 = 518
+  EssentialCoffeeDion3 = true
+  PlainTurquoiseTheressa2 = "Why didnt the skeleton cross the road? Because he had no guts."
+  FinalBrownDalia4 = true
+  CasualOliveLurline2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RudeTanShaylah2 = "Why did the kid cross the playground? To get to the other slide."
+  SheerMagentaLauretta2 = "Why did the tomato blush? Because it saw the salad dressing."
+  _alias = "MarkedMagentaLatrena2_alias"
+}

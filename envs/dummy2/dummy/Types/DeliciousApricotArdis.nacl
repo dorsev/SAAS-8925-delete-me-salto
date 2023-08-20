@@ -1,0 +1,48 @@
+type dummy.DeliciousApricotArdis {
+  annotations {
+    serviceid BeneficialPlumMonah {
+    }
+    serviceid_number NiceWhiteVicki {
+    }
+    serviceid WickedScarletRoselia {
+    }
+    hidden_boolean GentleIndigoJobyna2 {
+    }
+    number HelplessAzureBlanch {
+    }
+  }
+  json AlliedPlumMisha {
+    _hidden_value = true
+  }
+  serviceid_number FunnyEmeraldGabbi2 {
+    _hidden_value = true
+  }
+  string AdministrativeGreenHonoria2 {
+    _hidden_value = true
+  }
+  serviceid SpottyYellowWrennie {
+    _hidden_value = true
+  }
+  boolean StupidTomatoSusan {
+    _hidden_value = true
+  }
+  serviceid SteadyAquamarineBea {
+    _hidden_value = true
+  }
+  hidden_boolean EqualCrimsonEmilia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean UrbanCyanFallon {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IndividualBrownCrystie {
+    _hidden_value = true
+  }
+  BeneficialPlumMonah = "How come the stadium got hot after the game? Because all of the fans left."
+  NiceWhiteVicki = 689
+  WickedScarletRoselia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HelplessAzureBlanch = 827
+  _hidden_value = true
+}

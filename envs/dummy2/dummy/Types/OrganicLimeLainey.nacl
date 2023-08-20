@@ -1,0 +1,56 @@
+type dummy.OrganicLimeLainey {
+  annotations {
+    number NecessaryBronzeCorabel2 {
+    }
+    serviceid_number ColouredMaroonLivia4 {
+    }
+    serviceid ColossalAmaranthAbbye6 {
+    }
+    dummy.DEFAULT ClearTomatoTammi2 {
+    }
+    hidden_boolean OverallCrimsonEmmalynne6 {
+    }
+    serviceid NewBlueChanda2 {
+    }
+  }
+  dummy.OrdinaryCopperEdi MechanicalMagentaLeone {
+    SillyYellowWini = 87
+    CruelAquamarineBessy = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    TameYellowYalonda = 377
+    RareWhiteWanda = 860
+    SpareMaroonLillis = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    StupidGreenIzabel = 294
+    MaximumGreenIlyssa = "To be Frank, I'd have to change my name."
+    TerritorialSalmonPriscella = "Dad Im hungry  Hi hungry Im dad"
+    VariedRedNoreen = 544
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 456
+    IntenseLavenderKatuscha = 647
+    SubtleMoccasinLucie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  boolean PotentialCoralElberta4 {
+    _hidden_value = true
+  }
+  hidden_boolean HarshAmethystAnjanette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number SpecifiedSalmonPooh {
+    _hidden_value = true
+  }
+  number AtomicScarletRorie5 {
+    _hidden_value = true
+  }
+  NecessaryBronzeCorabel2 = 738
+  ColouredMaroonLivia4 = 59
+  ColossalAmaranthAbbye6 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ClearTomatoTammi2 = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  NewBlueChanda2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

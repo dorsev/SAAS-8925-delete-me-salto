@@ -1,0 +1,85 @@
+type dummy.NoblePurpleNatty {
+  annotations {
+    boolean ValuableGoldGwyn {
+    }
+    serviceid_number NationalBlushCherida {
+    }
+    boolean MarriedCyanFania2 {
+    }
+    json DistinctTurquoiseTatiana2 {
+    }
+    boolean EthnicLavenderKaye2 {
+    }
+  }
+  dummy.OrdinaryCopperEdi BriefEmeraldFlorrie {
+    SillyYellowWini = 134
+    CruelAquamarineBessy = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    TameYellowYalonda = 721
+    RareWhiteWanda = 792
+    SpareMaroonLillis = "How come the stadium got hot after the game? Because all of the fans left."
+    StupidGreenIzabel = 750
+    MaximumGreenIlyssa = "Why did the kid cross the playground? To get to the other slide."
+    TerritorialSalmonPriscella = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    VariedRedNoreen = 751
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 682
+    IntenseLavenderKatuscha = 619
+    SubtleMoccasinLucie = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  serviceid_number DominantIndigoJen {
+    _hidden_value = true
+  }
+  hidden_boolean NeighbouringPurpleNance {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ComparativePlumMitzi2 {
+    _hidden_value = true
+  }
+  number ChiefCopperDorri3 {
+    _hidden_value = true
+  }
+  hidden_boolean CanadianPlumMinerva3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean HeadPinkMegan3 {
+    _hidden_value = true
+  }
+  serviceid_number CooperativeBeigeCamile {
+    _hidden_value = true
+  }
+  boolean AverageCoralElyse2 {
+    _hidden_value = true
+  }
+  hidden_boolean MightyWhiteVeriee2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PerfectBlackCate3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json MarineMagentaLeone {
+    _hidden_value = true
+  }
+  serviceid_number PhysicalCoffeeDenni {
+    _hidden_value = true
+  }
+  json IndividualBrownCyb {
+    _hidden_value = true
+  }
+  ValuableGoldGwyn = true
+  NationalBlushCherida = 97
+  MarriedCyanFania2 = false
+  DistinctTurquoiseTatiana2 = "To be Frank, I'd have to change my name."
+  EthnicLavenderKaye2 = true
+  _hidden_value = true
+}

@@ -1,0 +1,76 @@
+type dummy.ForthcomingPeachMarquita {
+  annotations {
+    serviceid_number AmusedBeigeCacilia {
+    }
+    boolean EasyTealSisely {
+    }
+    number DomesticCopperEba {
+    }
+    hidden_boolean TartYellowWynnie {
+    }
+    string MentalCrimsonEsmaria {
+    }
+    string ConcreteOliveLynelle {
+    }
+  }
+  dummy.DEFAULT DecentMoccasinLonnie {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" BlackBlushClarisse {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ConvenientMagentaLeese {
+    _hidden_value = true
+  }
+  json CleanCyanFernande {
+    _hidden_value = true
+  }
+  serviceid_number IncreasedCrimsonEstelle {
+    _hidden_value = true
+  }
+  "Map<dummy.DEFAULT>" RenewedSilverSandy {
+    _hidden_value = true
+  }
+  hidden_boolean FortunateRoseOllie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string HelplessTealSophey {
+    _hidden_value = true
+  }
+  serviceid_number GenuineGreenIsis {
+    _hidden_value = true
+  }
+  boolean CombinedOliveMaighdiln {
+    _hidden_value = true
+  }
+  serviceid BraveMoccasinLucinda {
+    _hidden_value = true
+  }
+  serviceid FaintMaroonLiuka {
+    _hidden_value = true
+  }
+  number OtherBlueCeline {
+    _hidden_value = true
+  }
+  number NeighbouringPurpleNananne {
+    _hidden_value = true
+  }
+  hidden_boolean NumerousHarlequinJanean {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RelievedSalmonPetronilla {
+    _hidden_value = true
+  }
+  AmusedBeigeCacilia = 342
+  EasyTealSisely = true
+  DomesticCopperEba = 895
+  MentalCrimsonEsmaria = "What creature is smarter than a talking parrot? A spelling bee."
+  ConcreteOliveLynelle = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

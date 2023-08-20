@@ -1,0 +1,145 @@
+type dummy.PossibleBlushCheryl2 {
+  annotations {
+    boolean InevitableIvoryJolyn2 {
+    }
+    serviceid GeneticMoccasinLorianne {
+    }
+    string DigitalMaroonLib4 {
+    }
+    boolean LovelyCoralElli3 {
+    }
+    number IndustrialBrownDanny {
+    }
+  }
+  dummy.AnxiousHarlequinJanna OverseasIvoryJudye {
+    ColonialPeachMaure = "Why did the kid cross the playground? To get to the other slide."
+    GloriousBlackCarmine = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi WittyBlueCelene3 {
+    SillyYellowWini = 769
+    CruelAquamarineBessy = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    TameYellowYalonda = 752
+    RareWhiteWanda = 499
+    SpareMaroonLillis = "My first time using an elevator was an uplifting experience. The second time let me down."
+    StupidGreenIzabel = 606
+    MaximumGreenIlyssa = "Why was it called the dark ages? Because of all the knights. "
+    TerritorialSalmonPriscella = "Dad Im hungry  Hi hungry Im dad"
+    VariedRedNoreen = 685
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 25
+    IntenseLavenderKatuscha = 406
+    SubtleMoccasinLucie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  serviceid_number PoorBronzeCorenda {
+    _hidden_value = true
+  }
+  serviceid_number SuperPeachMarti {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LightCopperDulciana2 {
+    _hidden_value = true
+  }
+  serviceid NearFuchsiaGerianna3 {
+    _hidden_value = true
+  }
+  json IndirectPeachMary4 {
+    _hidden_value = true
+  }
+  number ToughGoldGlenna5 {
+    _hidden_value = true
+  }
+  number IllAzureBobbette6 {
+    _hidden_value = true
+  }
+  serviceid_number VictoriousBlueCecile5 {
+    _hidden_value = true
+  }
+  json JealousAzureBobbye2 {
+    _hidden_value = true
+  }
+  serviceid FriendlyGoldGuinna {
+    _hidden_value = true
+  }
+  boolean RunningPlumMirabelle {
+    _hidden_value = true
+  }
+  hidden_boolean FlyingMoccasinLoree {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SoundRoseOlia4 {
+    _hidden_value = true
+  }
+  number ExternalEmeraldFlorida4 {
+    _hidden_value = true
+  }
+  number TinyCyanEunice3 {
+    _hidden_value = true
+  }
+  boolean SignificantBrownDanit {
+    _hidden_value = true
+  }
+  serviceid PriorRosePaulie3 {
+    _hidden_value = true
+  }
+  serviceid HarshAmethystAnjanette {
+    _hidden_value = true
+  }
+  boolean DesirableMagentaLanny {
+    _hidden_value = true
+  }
+  json ComparableMoccasinLizzie2 {
+    _hidden_value = true
+  }
+  hidden_boolean ElegantTurquoiseTeddy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AshamedScarletRosamund3 {
+    _hidden_value = true
+  }
+  serviceid ExcessiveOliveMadelene2 {
+    _hidden_value = true
+  }
+  serviceid_number PerfectCrimsonEtti3 {
+    _hidden_value = true
+  }
+  string ConsistentHarlequinJanka3 {
+    _hidden_value = true
+  }
+  boolean CrazyVioletTrescha3 {
+    _hidden_value = true
+  }
+  json FineBlackCarlye2 {
+    _hidden_value = true
+  }
+  number EmbarrassedRedNissy2 {
+    _hidden_value = true
+  }
+  string LooseIvoryJuliet2 {
+    _hidden_value = true
+  }
+  json CuteTomatoTara3 {
+    _hidden_value = true
+  }
+  hidden_boolean StupidTomatoSula2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number TenderRedOdelinda3 {
+    _hidden_value = true
+  }
+  InevitableIvoryJolyn2 = true
+  GeneticMoccasinLorianne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DigitalMaroonLib4 = "To be Frank, I'd have to change my name."
+  LovelyCoralElli3 = true
+  IndustrialBrownDanny = 968
+  _hidden_value = true
+}

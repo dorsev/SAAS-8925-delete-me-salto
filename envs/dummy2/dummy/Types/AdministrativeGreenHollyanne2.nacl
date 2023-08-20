@@ -1,0 +1,42 @@
+type dummy.AdministrativeGreenHollyanne2 {
+  annotations {
+    json NovelScarletRoshelle3 {
+    }
+    string EnvironmentalCoffeeDomeniga2 {
+    }
+    json TremendousMagentaLeola {
+    }
+    boolean DisgustedAzureBeulah2 {
+    }
+    string MushyWhiteVerile {
+    }
+    serviceid_number SickFuchsiaGeraldine3 {
+    }
+  }
+  json SourApricotArlene {
+    _hidden_value = true
+  }
+  hidden_boolean LiquidRoseOttilie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SheerMagentaLaurianne {
+    _hidden_value = true
+  }
+  string FarBlushChristie4 {
+    _hidden_value = true
+  }
+  hidden_boolean HappyBlackCaroljean2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  NovelScarletRoshelle3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EnvironmentalCoffeeDomeniga2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  TremendousMagentaLeola = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DisgustedAzureBeulah2 = true
+  MushyWhiteVerile = "Did you know that protons have mass? I didn't even know they were catholic."
+  SickFuchsiaGeraldine3 = 652
+  _hidden_value = true
+}

@@ -1,0 +1,127 @@
+type dummy.CurvedAmberAliza {
+  annotations {
+    serviceid_number DramaticGoldHaily2 {
+    }
+    dummy.OrdinaryCopperEdi ClosedMagentaLeilah2 {
+    }
+    serviceid DampMoccasinLory2 {
+    }
+    string UnevenAquamarineBeilul {
+    }
+    serviceid WideBronzeCorilla {
+    }
+  }
+  dummy.AnxiousHarlequinJanna DeliciousApricotArdith {
+    ColonialPeachMaure = "Why did the kid cross the playground? To get to the other slide."
+    GloriousBlackCarmine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  dummy.AnxiousHarlequinJanna EarlyBlushCherrita {
+    ColonialPeachMaure = "Slept like a log last night  woke up in the fireplace."
+    GloriousBlackCarmine = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi AssociatedMaroonLindy2 {
+    SillyYellowWini = 230
+    CruelAquamarineBessy = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    TameYellowYalonda = 144
+    RareWhiteWanda = 940
+    SpareMaroonLillis = "Why is Peter Pan always flying? Because he Neverlands."
+    StupidGreenIzabel = 832
+    MaximumGreenIlyssa = "Why is Peter Pan always flying? Because he Neverlands."
+    TerritorialSalmonPriscella = "Did you know that protons have mass? I didn't even know they were catholic."
+    VariedRedNoreen = 547
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 935
+    IntenseLavenderKatuscha = 950
+    SubtleMoccasinLucie = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  dummy.DEFAULT ManagerialPurpleNerita4 {
+    _hidden_value = true
+  }
+  hidden_boolean FitHarlequinJaclin2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ChineseGoldGuglielma3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string CuddlyAmberAlayne4 {
+    _hidden_value = true
+  }
+  hidden_boolean SolidAquamarineBarry2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT RoundIvoryJohnette2 {
+    _hidden_value = true
+  }
+  serviceid_number BigAmaranthAbagail {
+    _hidden_value = true
+  }
+  string VastEmeraldFred {
+    _hidden_value = true
+  }
+  serviceid_number NeighbouringPurpleNana {
+    _hidden_value = true
+  }
+  serviceid_number SlowCyanEugine {
+    _hidden_value = true
+  }
+  boolean FunnyEmeraldGabbi3 {
+    _hidden_value = true
+  }
+  serviceid_number ClearTomatoTammara {
+    _hidden_value = true
+  }
+  string HandicappedTanShanon2 {
+    _hidden_value = true
+  }
+  serviceid IllAzureBobbette2 {
+    _hidden_value = true
+  }
+  hidden_boolean EagerPlumMillisent3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string GloriousBlackCarmine4 {
+    _hidden_value = true
+  }
+  boolean FatIvoryJoella2 {
+    _hidden_value = true
+  }
+  boolean FairCoffeeDion {
+    _hidden_value = true
+  }
+  boolean BigAmaranthAbbey {
+    _hidden_value = true
+  }
+  serviceid WelshGrayHattie2 {
+    _hidden_value = true
+  }
+  boolean HomelessAzureBlinny {
+    _hidden_value = true
+  }
+  json VaguePinkMeghann3 {
+    _hidden_value = true
+  }
+  hidden_boolean ComprehensiveGreenHyacinthie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  DramaticGoldHaily2 = 55
+  ClosedMagentaLeilah2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  DampMoccasinLory2 = "Why is Peter Pan always flying? Because he Neverlands."
+  UnevenAquamarineBeilul = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WideBronzeCorilla = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

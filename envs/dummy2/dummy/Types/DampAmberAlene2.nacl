@@ -1,0 +1,36 @@
+type dummy.DampAmberAlene2 {
+  annotations {
+    serviceid_number LevelJadeKameko4 {
+    }
+    json WorthwhilePinkMelli {
+    }
+    serviceid_number ConcernedTealSibilla2 {
+    }
+    serviceid_number BigVioletTonia2 {
+    }
+  }
+  hidden_boolean FrightenedMagentaLaverna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WhiteBronzeCodee {
+    _hidden_value = true
+  }
+  serviceid OrdinaryCopperEdin2 {
+    _hidden_value = true
+  }
+  string EnthusiasticBlackCarin {
+    _hidden_value = true
+  }
+  hidden_boolean PinkIndigoJennette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  LevelJadeKameko4 = 795
+  WorthwhilePinkMelli = "Why did the kid cross the playground? To get to the other slide."
+  ConcernedTealSibilla2 = 918
+  BigVioletTonia2 = 684
+  _hidden_value = true
+}

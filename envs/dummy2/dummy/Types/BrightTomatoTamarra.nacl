@@ -1,0 +1,41 @@
+type dummy.BrightTomatoTamarra {
+  annotations {
+    serviceid MarvellousMoccasinLorne {
+    }
+    json CrowdedTomatoTania {
+    }
+    number PreciousOrangeMariele {
+    }
+    serviceid_number UnderlyingLimeKori {
+    }
+    serviceid_number FragileTealSondra {
+    }
+    number WelshGrayHatty {
+    }
+  }
+  hidden_boolean AncientAmethystAmalea {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean QuickAmethystAmil {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json InquisitiveTealStacie {
+    _hidden_value = true
+  }
+  hidden_boolean LongAmaranthAdiana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  MarvellousMoccasinLorne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CrowdedTomatoTania = "Why do birds fly south for the winter? Because it's too far to walk."
+  PreciousOrangeMariele = 625
+  UnderlyingLimeKori = 751
+  FragileTealSondra = 607
+  WelshGrayHatty = 67
+  _hidden_value = true
+}

@@ -1,0 +1,24 @@
+type dummy.RandomMoccasinLorena2 {
+  annotations {
+    string PromisingRedNonie {
+    }
+    dummy.SpectacularMaroonLibbie AccusedSilverSally {
+    }
+    serviceid UnemployedIvoryJoly2 {
+    }
+    string RapidGrayHildagarde {
+    }
+    hidden_boolean ModestLavenderKelsi2 {
+    }
+    hidden_boolean TechnicalCopperEde3 {
+    }
+  }
+  string EasyBronzeCollen {
+    _hidden_value = true
+  }
+  PromisingRedNonie = "A steak pun is a rare medium well done."
+  AccusedSilverSally = 525
+  UnemployedIvoryJoly2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RapidGrayHildagarde = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

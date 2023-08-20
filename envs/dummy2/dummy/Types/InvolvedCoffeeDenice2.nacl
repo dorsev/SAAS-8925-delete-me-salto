@@ -1,0 +1,90 @@
+type dummy.InvolvedCoffeeDenice2 {
+  annotations {
+    hidden_boolean FierceAzureBilly3 {
+    }
+    string IllEmeraldGael3 {
+    }
+    hidden_boolean UrgentLimeKrysta3 {
+    }
+    dummy.SpectacularMaroonLibbie SelectedPlumMilka {
+    }
+    serviceid_number EmbarrassingSilverSasha {
+    }
+    hidden_boolean WidespreadHarlequinJacqui {
+    }
+    serviceid_number ImmediateCrimsonEmelina2 {
+    }
+  }
+  dummy.ExactLimeKordula CloudyTomatoTammy {
+    _hidden_value = true
+  }
+  serviceid_number SteadyAquamarineBathsheba2 {
+    _hidden_value = true
+  }
+  number IntermediateRoseOfelia3 {
+    _hidden_value = true
+  }
+  serviceid VeryCoralElfie {
+    _hidden_value = true
+  }
+  number BitterApricotArdenia {
+    _hidden_value = true
+  }
+  boolean AverageTomatoTabbatha2 {
+    _hidden_value = true
+  }
+  json FeministPlumMina3 {
+    _hidden_value = true
+  }
+  string CheerfulBeigeCalypso2 {
+    _hidden_value = true
+  }
+  hidden_boolean ArtisticPeachMasha2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid LegitimatePinkMay3 {
+    _hidden_value = true
+  }
+  boolean LowBlushChristy {
+    _hidden_value = true
+  }
+  string IndirectPeachMartynne {
+    _hidden_value = true
+  }
+  string InnocentMagentaLarina {
+    _hidden_value = true
+  }
+  string EfficientGoldGretta {
+    _hidden_value = true
+  }
+  string ConcernedBronzeCorny2 {
+    _hidden_value = true
+  }
+  boolean JustMaroonLissie2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FeministPlumMin {
+    _hidden_value = true
+  }
+  number ExtraordinaryIndigoJessica2 {
+    _hidden_value = true
+  }
+  number LuckyFuchsiaGinger {
+    _hidden_value = true
+  }
+  hidden_boolean InstitutionalMaroonLesli2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MildOliveMaddi {
+    _hidden_value = true
+  }
+  IllEmeraldGael3 = "Dad Im hungry  Hi hungry Im dad"
+  SelectedPlumMilka = 597
+  EmbarrassingSilverSasha = 634
+  ImmediateCrimsonEmelina2 = 702
+  _hidden_value = true
+}

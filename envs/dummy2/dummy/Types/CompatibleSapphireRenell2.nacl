@@ -1,0 +1,40 @@
+type dummy.CompatibleSapphireRenell2 {
+  annotations {
+    serviceid ClosedMagentaLeisha2 {
+    }
+    serviceid QuietApricotAnnis2 {
+    }
+    boolean DevotedRosePauletta2 {
+    }
+    number CuteTomatoTansy2 {
+    }
+    string IrishCrimsonErmina2 {
+    }
+    serviceid_number LegalBrownDaile2 {
+    }
+  }
+  serviceid LowBlushChristina3 {
+    _hidden_value = true
+  }
+  hidden_boolean EquivalentJadeKala {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid JudicialJadeKarisa3 {
+    _hidden_value = true
+  }
+  serviceid_number RuralCoralElsbeth4 {
+    _hidden_value = true
+  }
+  number EquivalentJadeKaleena2 {
+    _hidden_value = true
+  }
+  ClosedMagentaLeisha2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  QuietApricotAnnis2 = "How come the stadium got hot after the game? Because all of the fans left."
+  DevotedRosePauletta2 = false
+  CuteTomatoTansy2 = 687
+  IrishCrimsonErmina2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LegalBrownDaile2 = 970
+  _hidden_value = true
+}

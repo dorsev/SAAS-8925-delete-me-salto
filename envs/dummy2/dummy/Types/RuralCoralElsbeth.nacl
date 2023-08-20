@@ -1,0 +1,26 @@
+type dummy.RuralCoralElsbeth {
+  annotations {
+    boolean FaithfulBlackCarlina2 {
+    }
+    json DampMoccasinLorry2 {
+    }
+    number ExtremeHarlequinJackelyn {
+    }
+    string InteriorPurpleNatty {
+    }
+    dummy.AnxiousHarlequinJanna GeographicalPeachMarleen {
+    }
+    serviceid_number WittyBlueCele {
+    }
+  }
+  serviceid_number BraveMoccasinLucinda3 {
+    _hidden_value = true
+  }
+  FaithfulBlackCarlina2 = false
+  DampMoccasinLorry2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ExtremeHarlequinJackelyn = 448
+  InteriorPurpleNatty = "What did one nut say as he chased another nut?  I'm a cashew!"
+  GeographicalPeachMarleen = "Why is Peter Pan always flying? Because he Neverlands."
+  WittyBlueCele = 775
+  _hidden_value = true
+}

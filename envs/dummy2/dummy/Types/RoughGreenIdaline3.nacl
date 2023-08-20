@@ -1,0 +1,33 @@
+type dummy.RoughGreenIdaline3 {
+  annotations {
+    number AnxiousHarlequinJanka {
+    }
+    serviceid AsianMaroonLinda2 {
+    }
+    hidden_boolean AfraidCrimsonEmmy3 {
+    }
+    serviceid_number AmazingMoccasinLizette5 {
+    }
+    boolean FrightenedAzureBlaire3 {
+    }
+    serviceid_number BreakableTealShir3 {
+    }
+    hidden_boolean HarshOliveMaia {
+    }
+  }
+  dummy.DEFAULT TinyAmaranthAgnesse3 {
+    _hidden_value = true
+  }
+  string WeakAquamarineBel {
+    _hidden_value = true
+  }
+  json IntermediateRoseOfelia4 {
+    _hidden_value = true
+  }
+  AnxiousHarlequinJanka = 694
+  AsianMaroonLinda2 = "Why was it called the dark ages? Because of all the knights. "
+  AmazingMoccasinLizette5 = 336
+  FrightenedAzureBlaire3 = true
+  BreakableTealShir3 = 85
+  _hidden_value = true
+}

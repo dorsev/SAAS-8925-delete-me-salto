@@ -1,0 +1,128 @@
+type dummy.AestheticSapphireReba {
+  annotations {
+    serviceid_number NakedMagentaLeanora {
+    }
+    string UnsightlyTurquoiseTish {
+    }
+    json LegitimatePinkMay {
+    }
+    json MolecularRedNertie {
+    }
+    boolean DomesticCopperEartha2 {
+    }
+  }
+  string DramaticGoldHaily {
+    _hidden_value = true
+  }
+  number WellFuchsiaGisela {
+    _hidden_value = true
+  }
+  "List<boolean>" ClinicalIndigoJenny2 {
+    _hidden_value = true
+  }
+  hidden_boolean HugeAmaranthAdel {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<boolean>" CurlyAmberAlbina {
+    _hidden_value = true
+  }
+  serviceid LiteraryGreenIrina {
+    _hidden_value = true
+  }
+  hidden_boolean NecessaryBronzeCorabel {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ExternalEmeraldFlorina {
+    _hidden_value = true
+  }
+  serviceid ScreechingApricotAnthia {
+    _hidden_value = true
+  }
+  serviceid_number PastCoffeeDiann {
+    _hidden_value = true
+  }
+  hidden_boolean SureBlushCindi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean BizarreTanSeka {
+    _hidden_value = true
+  }
+  number AbsoluteGreenImogene {
+    _hidden_value = true
+  }
+  serviceid OtherBlueCelisse2 {
+    _hidden_value = true
+  }
+  serviceid WildTomatoSuzy {
+    _hidden_value = true
+  }
+  hidden_boolean AnxiousAquamarineBenoite {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DistinctTurquoiseTatum {
+    _hidden_value = true
+  }
+  json JudicialJadeKarita {
+    _hidden_value = true
+  }
+  serviceid AboveIvoryJoyce2 {
+    _hidden_value = true
+  }
+  hidden_boolean GleamingTurquoiseTeressa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FormalCoralElka {
+    _hidden_value = true
+  }
+  serviceid_number LivelyPeachMarylynne {
+    _hidden_value = true
+  }
+  string StickyAquamarineBeatriz {
+    _hidden_value = true
+  }
+  serviceid_number WarmCopperDulcinea2 {
+    _hidden_value = true
+  }
+  boolean SupremeGreenIsabella {
+    _hidden_value = true
+  }
+  serviceid_number TraditionalChocolateDehlia {
+    _hidden_value = true
+  }
+  number ImaginativeTanSella {
+    _hidden_value = true
+  }
+  string MotionlessTurquoiseThelma {
+    _hidden_value = true
+  }
+  json BoredPlumMonique {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ShinyTurquoiseTiffani {
+    _hidden_value = true
+  }
+  "List<string>" RudeTanShaylyn {
+    _hidden_value = true
+  }
+  hidden_boolean DeliciousScarletRochette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  NakedMagentaLeanora = 213
+  UnsightlyTurquoiseTish = "Im only familiar with 25 letters in the English language. I dont know why."
+  LegitimatePinkMay = "Why did the tomato blush? Because it saw the salad dressing."
+  MolecularRedNertie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DomesticCopperEartha2 = false
+  _hidden_value = true
+}

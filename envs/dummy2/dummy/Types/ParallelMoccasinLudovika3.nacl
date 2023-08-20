@@ -1,0 +1,27 @@
+type dummy.ParallelMoccasinLudovika3 {
+  annotations {
+    serviceid HotAquaAudrey3 {
+    }
+    dummy.DEFAULT ArtificialMagentaLenka2 {
+    }
+    hidden_boolean EasyTealSisely3 {
+    }
+    number PoisedTurquoiseThomasa7 {
+    }
+    serviceid SatisfactoryLimeKrissy4 {
+    }
+    string WetAmberAlida2 {
+    }
+  }
+  serviceid HelplessTealSonny {
+    _hidden_value = true
+  }
+  HotAquaAudrey3 = "Why did the tomato blush? Because it saw the salad dressing."
+  ArtificialMagentaLenka2 = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  PoisedTurquoiseThomasa7 = 853
+  SatisfactoryLimeKrissy4 = "Dad Im hungry  Hi hungry Im dad"
+  WetAmberAlida2 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

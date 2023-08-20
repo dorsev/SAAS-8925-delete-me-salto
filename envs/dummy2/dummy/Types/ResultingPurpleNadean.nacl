@@ -1,0 +1,84 @@
+type dummy.ResultingPurpleNadean {
+  annotations {
+    serviceid_number ObnoxiousAzureBrandie {
+    }
+    string WonderfulBlueCelesta2 {
+    }
+    hidden_boolean DifferentBlueCharline {
+    }
+    boolean PersonalBronzeCoraline {
+    }
+    serviceid TechnologicalOrangeMaribel {
+    }
+    serviceid_number DangerousAzureBethina {
+    }
+  }
+  dummy.AnxiousHarlequinJanna ChangingJadeKassandra2 {
+    ColonialPeachMaure = "What do you call two barracuda fish?  A Pairacuda!"
+    GloriousBlackCarmine = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  dummy.OrdinaryCopperEdi UnderlyingLimeKorie {
+    SillyYellowWini = 509
+    CruelAquamarineBessy = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    TameYellowYalonda = 381
+    RareWhiteWanda = 900
+    SpareMaroonLillis = "I'll tell you what often gets over looked... garden fences."
+    StupidGreenIzabel = 675
+    MaximumGreenIlyssa = "Im only familiar with 25 letters in the English language. I dont know why."
+    TerritorialSalmonPriscella = "Why was it called the dark ages? Because of all the knights. "
+    VariedRedNoreen = 960
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 336
+    IntenseLavenderKatuscha = 966
+    SubtleMoccasinLucie = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  serviceid InnerFuchsiaGeorgeanna {
+    _hidden_value = true
+  }
+  string FrenchBrownCyndi {
+    _hidden_value = true
+  }
+  boolean AdequateGrayHildy {
+    _hidden_value = true
+  }
+  number MagicOrangeManon {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExistingCoffeeDesirae2 {
+    _hidden_value = true
+  }
+  number EarlyAmethystAmalle {
+    _hidden_value = true
+  }
+  boolean RobustYellowWileen2 {
+    _hidden_value = true
+  }
+  number PoliticalBlushChloette {
+    _hidden_value = true
+  }
+  "List<number>" AverageCoralElysee {
+    _hidden_value = true
+  }
+  string ParentalRedNicki {
+    _hidden_value = true
+  }
+  string FunctionalMaroonLexis2 {
+    _hidden_value = true
+  }
+  string MentalCrimsonEsme {
+    _hidden_value = true
+  }
+  boolean RudeTanShayla {
+    _hidden_value = true
+  }
+  ObnoxiousAzureBrandie = 576
+  WonderfulBlueCelesta2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  PersonalBronzeCoraline = true
+  TechnologicalOrangeMaribel = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DangerousAzureBethina = 293
+  _hidden_value = true
+}

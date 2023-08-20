@@ -1,0 +1,25 @@
+type dummy.LovelyBlackCassandre {
+  annotations {
+    hidden_boolean LightTurquoiseTessie {
+    }
+    json WearyBeigeBrunhilda {
+    }
+    string KindOrangeMarice {
+    }
+    string BrainyTealSheryl {
+    }
+    json UnsightlyTurquoiseTish2 {
+    }
+    json FoolishSapphireReine {
+    }
+  }
+  serviceid AnnoyedAquamarineBenny {
+    _hidden_value = true
+  }
+  WearyBeigeBrunhilda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  KindOrangeMarice = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BrainyTealSheryl = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UnsightlyTurquoiseTish2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FoolishSapphireReine = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

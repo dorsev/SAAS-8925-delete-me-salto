@@ -1,0 +1,22 @@
+type dummy.WickedScarletRoselia2 {
+  annotations {
+    boolean KeenGrayHanna2 {
+    }
+    hidden_boolean PowerfulTomatoStephannie {
+    }
+    number NormalBrownDamara {
+    }
+    boolean UnexpectedMagentaLaureen3 {
+    }
+    number QuietCoralElaina {
+    }
+  }
+  serviceid_number LocalBlueCharmane {
+    _hidden_value = true
+  }
+  KeenGrayHanna2 = true
+  NormalBrownDamara = 675
+  UnexpectedMagentaLaureen3 = true
+  QuietCoralElaina = 359
+  _hidden_value = true
+}

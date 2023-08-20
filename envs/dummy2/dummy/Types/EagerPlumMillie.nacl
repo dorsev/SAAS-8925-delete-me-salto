@@ -1,0 +1,92 @@
+type dummy.EagerPlumMillie {
+  annotations {
+    string MusicalIndigoJobi {
+    }
+    json TinyCyanEunice {
+    }
+    serviceid TestyYellowYolanda {
+    }
+    boolean ReadyChocolateDebera2 {
+    }
+    serviceid InquisitiveTealStacie2 {
+    }
+    boolean VoicelessApricotArdath {
+    }
+  }
+  dummy.OrdinaryCopperEdi CivilianSapphireRanda2 {
+    SillyYellowWini = 867
+    CruelAquamarineBessy = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    TameYellowYalonda = 284
+    RareWhiteWanda = 559
+    SpareMaroonLillis = "Why was it called the dark ages? Because of all the knights. "
+    StupidGreenIzabel = 568
+    MaximumGreenIlyssa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    TerritorialSalmonPriscella = "I'll tell you what often gets over looked... garden fences."
+    VariedRedNoreen = 82
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 292
+    IntenseLavenderKatuscha = 350
+    SubtleMoccasinLucie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  number MutualLimeKimberly3 {
+    _hidden_value = true
+  }
+  hidden_boolean UnacceptableSalmonPen {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT WiseLavenderKatharyn3 {
+    _hidden_value = true
+  }
+  number OppositeHarlequinJaneczka {
+    _hidden_value = true
+  }
+  serviceid_number RepresentativePinkMerline3 {
+    _hidden_value = true
+  }
+  hidden_boolean GreatVioletTybi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number InterestedCoffeeDina {
+    _hidden_value = true
+  }
+  number LongBlueChelsey {
+    _hidden_value = true
+  }
+  serviceid_number StormyTurquoiseTim {
+    _hidden_value = true
+  }
+  json AestheticSapphireRebbecca2 {
+    _hidden_value = true
+  }
+  serviceid_number RareEmeraldFlori {
+    _hidden_value = true
+  }
+  string DeliciousScarletRochette2 {
+    _hidden_value = true
+  }
+  hidden_boolean SmallAmaranthAgatha {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number PreciousOrangeMarielle {
+    _hidden_value = true
+  }
+  boolean HandicappedTanShannon2 {
+    _hidden_value = true
+  }
+  MusicalIndigoJobi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TinyCyanEunice = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  TestyYellowYolanda = "Why is Peter Pan always flying? Because he Neverlands."
+  ReadyChocolateDebera2 = true
+  InquisitiveTealStacie2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  VoicelessApricotArdath = false
+  _hidden_value = true
+}

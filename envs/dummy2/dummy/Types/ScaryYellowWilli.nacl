@@ -1,0 +1,39 @@
+type dummy.ScaryYellowWilli {
+  annotations {
+    hidden_boolean ExuberantBlackCarla3 {
+    }
+    dummy.ExactLimeKordula StatisticalMagentaLanni2 {
+    }
+    hidden_boolean ExtensiveGoldGloriana {
+    }
+    number YellowYellowZorah {
+    }
+    string FondSalmonPippa {
+    }
+  }
+  serviceid_number ColonialPeachMaudie {
+    _hidden_value = true
+  }
+  serviceid SelectiveRedNorry {
+    _hidden_value = true
+  }
+  boolean ShyTomatoSue2 {
+    _hidden_value = true
+  }
+  serviceid_number SeriousBrownDanella2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ModestLavenderKelsey2 {
+    _hidden_value = true
+  }
+  string QualifiedPinkMelli {
+    _hidden_value = true
+  }
+  boolean FairCoffeeDinnie2 {
+    _hidden_value = true
+  }
+  StatisticalMagentaLanni2 = 266
+  YellowYellowZorah = 578
+  FondSalmonPippa = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

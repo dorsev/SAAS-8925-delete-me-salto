@@ -1,0 +1,32 @@
+type dummy.WastefulYellowZitella {
+  annotations {
+    serviceid_number FavourablePinkMercie2 {
+    }
+    string MammothAmaranthAdora {
+    }
+    number OverseasIvoryJudith {
+    }
+    dummy.DEFAULT ResidentSalmonRaeann {
+    }
+    serviceid_number TopChocolateDareen2 {
+    }
+    string DistinctHarlequinJanelle2 {
+    }
+    hidden_boolean QuickWhiteVonni3 {
+    }
+  }
+  hidden_boolean CuddlyAmberAlberta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  FavourablePinkMercie2 = 722
+  MammothAmaranthAdora = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OverseasIvoryJudith = 98
+  ResidentSalmonRaeann = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  TopChocolateDareen2 = 92
+  DistinctHarlequinJanelle2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

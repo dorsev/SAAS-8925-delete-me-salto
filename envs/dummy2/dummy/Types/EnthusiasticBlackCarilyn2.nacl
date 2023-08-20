@@ -1,0 +1,60 @@
+type dummy.EnthusiasticBlackCarilyn2 {
+  annotations {
+    serviceid_number SpareMaroonLilli2 {
+    }
+    hidden_boolean DeafIvoryJoya4 {
+    }
+    dummy.OrdinaryCopperEdi SlimRoseOlva {
+    }
+    number EvilAzureBill {
+    }
+  }
+  string DisturbingTealSheree {
+    _hidden_value = true
+  }
+  boolean CarefulCyanFeodora2 {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula FemaleCrimsonEmmey2 {
+    _hidden_value = true
+  }
+  serviceid_number DistinguishedPurpleNatalya {
+    _hidden_value = true
+  }
+  json UglyPlumMicky2 {
+    _hidden_value = true
+  }
+  json CentralBronzeConny3 {
+    _hidden_value = true
+  }
+  number UnusualGoldGladi2 {
+    _hidden_value = true
+  }
+  serviceid CarefulTealShirline2 {
+    _hidden_value = true
+  }
+  hidden_boolean CloseBrownCosette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PurpleScarletRivalee2 {
+    _hidden_value = true
+  }
+  json WeeklyLavenderKesley2 {
+    _hidden_value = true
+  }
+  boolean RelievedBlueCathie3 {
+    _hidden_value = true
+  }
+  json RelievedSalmonPetronella3 {
+    _hidden_value = true
+  }
+  string PurpleWhiteVivia {
+    _hidden_value = true
+  }
+  SpareMaroonLilli2 = 638
+  SlimRoseOlva = "Why did the kid cross the playground? To get to the other slide."
+  EvilAzureBill = 98
+  _hidden_value = true
+}

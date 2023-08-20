@@ -1,0 +1,30 @@
+type dummy.OccasionalIvoryJulietta {
+  annotations {
+    number ConsiderableChocolateDemetra3 {
+    }
+    dummy.DEFAULT ParliamentaryFuchsiaGiacinta {
+    }
+    serviceid_number EnthusiasticBlackCarina {
+    }
+    hidden_boolean SpanishGreenIrena {
+    }
+    number AncientAmethystAmalee {
+    }
+  }
+  json ImportantTealSophi3 {
+    _hidden_value = true
+  }
+  number MiddleCopperDusty {
+    _hidden_value = true
+  }
+  boolean RespectiveSalmonPerrine {
+    _hidden_value = true
+  }
+  ConsiderableChocolateDemetra3 = 707
+  ParliamentaryFuchsiaGiacinta = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  EnthusiasticBlackCarina = 206
+  AncientAmethystAmalee = 708
+  _hidden_value = true
+}

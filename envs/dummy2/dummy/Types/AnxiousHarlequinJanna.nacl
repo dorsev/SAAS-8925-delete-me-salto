@@ -1,0 +1,14 @@
+type dummy.AnxiousHarlequinJanna is string {
+  annotations {
+    serviceid ColonialPeachMaure {
+    }
+    serviceid GloriousBlackCarmine {
+    }
+    hidden_boolean FriendlyVioletTrudi {
+    }
+    hidden_boolean CoastalPlumMichal {
+    }
+  }
+  ColonialPeachMaure = "Why didnt the skeleton cross the road? Because he had no guts."
+  GloriousBlackCarmine = "To be Frank, I'd have to change my name."
+}

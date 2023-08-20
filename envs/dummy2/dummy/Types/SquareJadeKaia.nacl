@@ -1,0 +1,26 @@
+type dummy.SquareJadeKaia {
+  annotations {
+    json AwfulHarlequinJaquith {
+    }
+    serviceid LightCopperDulciana {
+    }
+    serviceid_number EnviousAzureBiddie {
+    }
+    serviceid_number GeneralBlushChristean2 {
+    }
+    serviceid SilentGrayHarlene3 {
+    }
+    number SelectiveRedNovelia2 {
+    }
+  }
+  serviceid_number IncreasingCyanEvonne2 {
+    _hidden_value = true
+  }
+  AwfulHarlequinJaquith = "How come the stadium got hot after the game? Because all of the fans left."
+  LightCopperDulciana = "Im only familiar with 25 letters in the English language. I dont know why."
+  EnviousAzureBiddie = 343
+  GeneralBlushChristean2 = 72
+  SilentGrayHarlene3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  SelectiveRedNovelia2 = 172
+  _hidden_value = true
+}

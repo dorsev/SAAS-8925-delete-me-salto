@@ -1,0 +1,42 @@
+type dummy.CoherentScarletRoselle {
+  annotations {
+    dummy.ExactLimeKordula CrookedAmberAlison {
+    }
+    number TanYellowYetta {
+    }
+    serviceid ImpressiveIndigoJerrylee2 {
+    }
+    serviceid_number DeepChocolateDelores {
+    }
+    hidden_boolean CivilianSapphireRanda5 {
+    }
+    serviceid_number WelshGrayHattie4 {
+    }
+  }
+  hidden_boolean CommonBronzeCookie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ScornfulBeigeBrianne3 {
+    _hidden_value = true
+  }
+  string ExcellentCoralEilis2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UsualCoralEllyn2 {
+    _hidden_value = true
+  }
+  string BlushingTomatoTamara {
+    _hidden_value = true
+  }
+  serviceid RapidAmethystAmye {
+    _hidden_value = true
+  }
+  CrookedAmberAlison = 741
+  TanYellowYetta = 427
+  ImpressiveIndigoJerrylee2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DeepChocolateDelores = 200
+  WelshGrayHattie4 = 445
+  _hidden_value = true
+}

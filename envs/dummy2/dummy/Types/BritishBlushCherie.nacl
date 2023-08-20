@@ -1,0 +1,90 @@
+type dummy.BritishBlushCherie {
+  annotations {
+    string BloodyTomatoTallou {
+    }
+    hidden_boolean HugeAmaranthAdelaida {
+    }
+    hidden_boolean RobustYellowWileen {
+    }
+    number KoreanSapphireRaquela {
+    }
+    json FrequentLavenderKatie2 {
+    }
+  }
+  hidden_boolean ShallowPinkMeggy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SickFuchsiaGerda {
+    _hidden_value = true
+  }
+  hidden_boolean GothicSapphireRamona2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean NavalPinkMelania {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean OrdinaryCopperEdie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number OfficialCopperDorita {
+    _hidden_value = true
+  }
+  boolean ElectricGreenIngrid2 {
+    _hidden_value = true
+  }
+  boolean LuckyFuchsiaGinnie {
+    _hidden_value = true
+  }
+  serviceid_number EuropeanBronzeConcettina {
+    _hidden_value = true
+  }
+  hidden_boolean SillyYellowWinna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ProductivePlumMommy2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula ElderlyEmeraldFlorence {
+    _hidden_value = true
+  }
+  json HeadPinkMegen {
+    _hidden_value = true
+  }
+  serviceid IsolatedPeachMarjory {
+    _hidden_value = true
+  }
+  string WonderfulBlueCelene {
+    _hidden_value = true
+  }
+  number FemaleCrimsonEmmi {
+    _hidden_value = true
+  }
+  serviceid EssentialCoffeeDionne {
+    _hidden_value = true
+  }
+  number SophisticatedJadeKarlotte {
+    _hidden_value = true
+  }
+  json FascinatingOrangeMargarete {
+    _hidden_value = true
+  }
+  string EventualTanSharona2 {
+    _hidden_value = true
+  }
+  BloodyTomatoTallou = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  KoreanSapphireRaquela = 28
+  FrequentLavenderKatie2 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

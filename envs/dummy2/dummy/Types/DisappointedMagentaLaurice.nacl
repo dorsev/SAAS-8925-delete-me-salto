@@ -1,0 +1,23 @@
+type dummy.DisappointedMagentaLaurice {
+  annotations {
+    boolean ThirstyAquaAsia3 {
+    }
+    serviceid IndirectPeachMary {
+    }
+    number VoicelessApricotArda {
+    }
+    number FluffyAmberAlica {
+    }
+    boolean PracticalCopperDorine {
+    }
+  }
+  serviceid WoodenGreenHope {
+    _hidden_value = true
+  }
+  ThirstyAquaAsia3 = false
+  IndirectPeachMary = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  VoicelessApricotArda = 600
+  FluffyAmberAlica = 16
+  PracticalCopperDorine = true
+  _hidden_value = true
+}

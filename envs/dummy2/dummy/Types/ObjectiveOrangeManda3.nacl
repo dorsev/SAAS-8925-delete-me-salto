@@ -1,0 +1,70 @@
+type dummy.ObjectiveOrangeManda3 {
+  annotations {
+    serviceid FollowingBrownCynthea4 {
+    }
+    serviceid AllegedOliveLynn6 {
+    }
+    string ConsciousHarlequinJeanelle {
+    }
+    json ElderlyEmeraldFlore {
+    }
+    dummy.DEFAULT CuriousLimeKirbie {
+    }
+    dummy.SpectacularMaroonLibbie FatalPurpleMyrtle4 {
+    }
+    json SportingSilverRuthy {
+    }
+  }
+  json TinyCyanEulalie2 {
+    _hidden_value = true
+  }
+  serviceid DailyCyanEveleen {
+    _hidden_value = true
+  }
+  json ScrawnyYellowWilmette {
+    _hidden_value = true
+  }
+  number FantasticSapphireRegine3 {
+    _hidden_value = true
+  }
+  string StableHarlequinJasmin2 {
+    _hidden_value = true
+  }
+  number IllAzureBobbette5 {
+    _hidden_value = true
+  }
+  "Map<string>" DutchLavenderKelsy4 {
+    _hidden_value = true
+  }
+  string FrontCopperEadie4 {
+    _hidden_value = true
+  }
+  boolean PainfulMaroonLillis2 {
+    _hidden_value = true
+  }
+  number CalmPurpleNancey4 {
+    _hidden_value = true
+  }
+  serviceid PhilosophicalRedNoelani2 {
+    _hidden_value = true
+  }
+  boolean AustralianJadeKassie {
+    _hidden_value = true
+  }
+  number ProfoundPinkMerla4 {
+    _hidden_value = true
+  }
+  string ConcernedBronzeCorri {
+    _hidden_value = true
+  }
+  FollowingBrownCynthea4 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AllegedOliveLynn6 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ConsciousHarlequinJeanelle = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ElderlyEmeraldFlore = "Dad Im hungry  Hi hungry Im dad"
+  CuriousLimeKirbie = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  FatalPurpleMyrtle4 = 269
+  SportingSilverRuthy = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

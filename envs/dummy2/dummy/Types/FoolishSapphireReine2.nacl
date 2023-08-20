@@ -1,0 +1,67 @@
+type dummy.FoolishSapphireReine2 {
+  annotations {
+    boolean ShyTomatoStormi {
+    }
+    serviceid PotentialCoralElberta3 {
+    }
+    dummy.ExactLimeKordula LongVioletVanda {
+    }
+    string CuteTomatoTara2 {
+    }
+  }
+  dummy.OrdinaryCopperEdi DreadfulPinkMerrile {
+    SillyYellowWini = 446
+    CruelAquamarineBessy = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    TameYellowYalonda = 836
+    RareWhiteWanda = 636
+    SpareMaroonLillis = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    StupidGreenIzabel = 585
+    MaximumGreenIlyssa = "Why did the tomato blush? Because it saw the salad dressing."
+    TerritorialSalmonPriscella = "Whoever invented the knock-knock joke should get a no bell prize."
+    VariedRedNoreen = 643
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 922
+    IntenseLavenderKatuscha = 760
+    SubtleMoccasinLucie = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  serviceid_number AbsentPinkMelosa2 {
+    _hidden_value = true
+  }
+  boolean VastYellowZea2 {
+    _hidden_value = true
+  }
+  serviceid EligiblePurpleNeilla {
+    _hidden_value = true
+  }
+  boolean UglyPlumMignon {
+    _hidden_value = true
+  }
+  serviceid_number ManagingLimeKitti3 {
+    _hidden_value = true
+  }
+  number PreferredTanScarlett {
+    _hidden_value = true
+  }
+  json CautiousTealSibbie2 {
+    _hidden_value = true
+  }
+  hidden_boolean ConfusedAquamarineBertine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ElectoralLimeKristin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FriendlyGoldGunilla2 {
+    _hidden_value = true
+  }
+  ShyTomatoStormi = true
+  PotentialCoralElberta3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LongVioletVanda = 796
+  CuteTomatoTara2 = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

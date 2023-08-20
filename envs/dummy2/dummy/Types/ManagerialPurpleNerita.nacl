@@ -1,0 +1,32 @@
+type dummy.ManagerialPurpleNerita {
+  annotations {
+    boolean UnderlyingLimeKoressa {
+    }
+    boolean MoralCyanFenelia {
+    }
+    hidden_boolean LowAmberAllyce {
+    }
+    serviceid BraveMoccasinLucinda2 {
+    }
+    hidden_boolean InterestingChocolateDelphine {
+    }
+    hidden_boolean CapitalistMagentaLayney {
+    }
+  }
+  serviceid AcceptedTanShae {
+    _hidden_value = true
+  }
+  json CalmBeigeCal {
+    _hidden_value = true
+  }
+  number CentralBronzeConny {
+    _hidden_value = true
+  }
+  number DefensiveRoseOpal {
+    _hidden_value = true
+  }
+  UnderlyingLimeKoressa = true
+  MoralCyanFenelia = true
+  BraveMoccasinLucinda2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

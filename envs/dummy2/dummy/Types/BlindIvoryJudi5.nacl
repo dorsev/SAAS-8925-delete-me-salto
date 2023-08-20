@@ -1,0 +1,160 @@
+type dummy.BlindIvoryJudi5 {
+  annotations {
+    serviceid FrenchBrownCyndi3 {
+    }
+    string ClumsyVioletTracey2 {
+    }
+    json ElectricGreenIngunna2 {
+    }
+    string TiredGoldGretchen2 {
+    }
+    serviceid_number SolidGreenIda2 {
+    }
+    string BizarreTanSeka3 {
+    }
+  }
+  hidden_boolean LongAmaranthAdina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ConservativeCoralEllene2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FoolishAzureBinni3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ExperimentalLavenderKatleen {
+    _hidden_value = true
+  }
+  json PalestinianTanShana2 {
+    _hidden_value = true
+  }
+  boolean TragicRosePaulita4 {
+    _hidden_value = true
+  }
+  serviceid LatinLimeKonstanze2 {
+    _hidden_value = true
+  }
+  number SacredRedNorina2 {
+    _hidden_value = true
+  }
+  boolean ClinicalIndigoJenny3 {
+    _hidden_value = true
+  }
+  boolean TerribleBeigeBriney3 {
+    _hidden_value = true
+  }
+  serviceid_number IslamicRoseOlympie2 {
+    _hidden_value = true
+  }
+  serviceid_number CurrentBrownCynthy4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CorrectCrimsonErinn3 {
+    _hidden_value = true
+  }
+  json HilariousBlackCarolynn4 {
+    _hidden_value = true
+  }
+  serviceid MushyWhiteVerla2 {
+    _hidden_value = true
+  }
+  serviceid NursingSalmonPetunia {
+    _hidden_value = true
+  }
+  serviceid_number UnusualGoldGlad {
+    _hidden_value = true
+  }
+  boolean FineBrownCourtnay {
+    _hidden_value = true
+  }
+  serviceid RelievedSalmonPetronella5 {
+    _hidden_value = true
+  }
+  hidden_boolean MonetaryIvoryJoey3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MidPinkMelisse2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json WrongBrownCrista {
+    _hidden_value = true
+  }
+  boolean RelatedIndigoJessamine {
+    _hidden_value = true
+  }
+  serviceid_number FullBlushChristen {
+    _hidden_value = true
+  }
+  hidden_boolean FlexibleLavenderKathlin2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MiserableSalmonQuintina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CrucialFuchsiaGenny4 {
+    _hidden_value = true
+  }
+  "List<boolean>" IntelligentMaroonLinnell2 {
+    _hidden_value = true
+  }
+  boolean SlimRoseOlva2 {
+    _hidden_value = true
+  }
+  hidden_boolean SplendidOrangeManon2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean BrainyTealSherrie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UnacceptableSalmonPenelope3 {
+    _hidden_value = true
+  }
+  string GrandEmeraldFran3 {
+    _hidden_value = true
+  }
+  number WorthyRedOdilia2 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MinisterialTanSheelagh2 {
+    _hidden_value = true
+  }
+  serviceid_number ShiveringAquaBabs2 {
+    _hidden_value = true
+  }
+  number WildTomatoSuzi {
+    _hidden_value = true
+  }
+  number SensibleIvoryJordain2 {
+    _hidden_value = true
+  }
+  hidden_boolean StupidTomatoSusan2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  FrenchBrownCyndi3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ClumsyVioletTracey2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ElectricGreenIngunna2 = "Why did the tomato blush? Because it saw the salad dressing."
+  TiredGoldGretchen2 = "Why did the tomato blush? Because it saw the salad dressing."
+  SolidGreenIda2 = 419
+  BizarreTanSeka3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

@@ -1,0 +1,55 @@
+type dummy.CalmPurpleNancee3 {
+  annotations {
+    serviceid RussianCyanFelipa2 {
+    }
+    serviceid_number UgliestYellowZara {
+    }
+    serviceid_number TurkishPurpleMoyra {
+    }
+    number AwfulAquamarineBernete2 {
+    }
+    json HeavyChocolateDavina {
+    }
+    serviceid_number SplendidBlueCatie {
+    }
+    number CreativeJadeKania2 {
+    }
+  }
+  boolean MarkedMagentaLauraine2 {
+    _hidden_value = true
+  }
+  string SmoothIndigoJemmie2 {
+    _hidden_value = true
+  }
+  string OtherBlueCelinka {
+    _hidden_value = true
+  }
+  string OverallCrimsonEmmalynne {
+    _hidden_value = true
+  }
+  hidden_boolean FlakyAmberAli {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean BurningRedNiki {
+    _hidden_value = true
+  }
+  boolean GastricMagentaLavinia2 {
+    _hidden_value = true
+  }
+  json ForeignBronzeCoriss {
+    _hidden_value = true
+  }
+  serviceid_number HappyVioletVale {
+    _hidden_value = true
+  }
+  RussianCyanFelipa2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  UgliestYellowZara = 723
+  TurkishPurpleMoyra = 875
+  AwfulAquamarineBernete2 = 518
+  HeavyChocolateDavina = "Why did the kid cross the playground? To get to the other slide."
+  SplendidBlueCatie = 568
+  CreativeJadeKania2 = 522
+  _hidden_value = true
+}

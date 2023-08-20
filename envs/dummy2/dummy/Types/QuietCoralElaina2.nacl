@@ -1,0 +1,35 @@
+type dummy.QuietCoralElaina2 {
+  annotations {
+    string SoundAmethystAngelika3 {
+    }
+    boolean LiquidRosePaloma2 {
+    }
+    serviceid HugeCoffeeDoralynn2 {
+    }
+    number EvilPeachMaurita2 {
+    }
+  }
+  serviceid FitHarlequinJacky {
+    _hidden_value = true
+  }
+  json AverageTomatoTabbatha {
+    _hidden_value = true
+  }
+  string WellFuchsiaGipsy2 {
+    _hidden_value = true
+  }
+  json ProfessionalChocolateDayna2 {
+    _hidden_value = true
+  }
+  number FlatGrayHannie3 {
+    _hidden_value = true
+  }
+  string FavourablePinkMerci {
+    _hidden_value = true
+  }
+  SoundAmethystAngelika3 = "Why was it called the dark ages? Because of all the knights. "
+  LiquidRosePaloma2 = true
+  HugeCoffeeDoralynn2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EvilPeachMaurita2 = 25
+  _hidden_value = true
+}

@@ -1,0 +1,95 @@
+type dummy.RedundantSalmonPhilis {
+  annotations {
+    string MeltedAquaAurel4 {
+    }
+    serviceid DelightedIvoryJulie3 {
+    }
+    serviceid ClinicalIndigoJeralee {
+    }
+  }
+  dummy.SpectacularMaroonLibbie BizarreTanSean2 {
+    FriendlyBlackCarma = 935
+    FrightenedMagentaLavena = 556
+    RepulsiveBeigeBrena = "Why was it called the dark ages? Because of all the knights. "
+    UptightBeigeBrittni = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ExactLimeKordula2 = 241
+    LocalBlueCharmian = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    SensibleIvoryJordana = "Whoever invented the knock-knock joke should get a no bell prize."
+    MonetaryIvoryJoey = "Slept like a log last night  woke up in the fireplace."
+    WickedBeigeBryna = "A steak pun is a rare medium well done."
+    AshamedScarletRosamund = 283
+    ChillyAmaranthAilsun = 734
+    CooingAmethystAngelique = 438
+    FatalPurpleMyrtle = 326
+    ThoughtlessBeigeBrinna = "Whoever invented the knock-knock joke should get a no bell prize."
+    EvilAzureBili = 283
+    RelievedBlueCathie = false
+    CleverTealSibeal = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    GrowingCrimsonEnrichetta = 126
+    _hidden_value = true
+  }
+  serviceid_number MeltedAquaAurea2 {
+    _hidden_value = true
+  }
+  boolean QuickAmethystAmmamaria2 {
+    _hidden_value = true
+  }
+  serviceid AdjacentSilverRoxie2 {
+    _hidden_value = true
+  }
+  serviceid_number FastAmethystAmandie {
+    _hidden_value = true
+  }
+  serviceid FriendlyBlackCarlynne2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" RisingScarletRosemarie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid IntelligentMaroonLinnet2 {
+    _hidden_value = true
+  }
+  number CommonBronzeConsuelo2 {
+    _hidden_value = true
+  }
+  serviceid_number LivelyPeachMarylinda2 {
+    _hidden_value = true
+  }
+  hidden_boolean CognitiveSalmonQuerida {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean TerritorialSalmonPriscilla2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid EnthusiasticPinkMerrielle3 {
+    _hidden_value = true
+  }
+  serviceid HappyBrownDaisy {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula ArtisticPeachMasha {
+    _hidden_value = true
+  }
+  hidden_boolean CrucialFuchsiaGennie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string YoungBlueChere {
+    _hidden_value = true
+  }
+  MeltedAquaAurel4 = "Why did the tomato blush? Because it saw the salad dressing."
+  DelightedIvoryJulie3 = "Why was it called the dark ages? Because of all the knights. "
+  ClinicalIndigoJeralee = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

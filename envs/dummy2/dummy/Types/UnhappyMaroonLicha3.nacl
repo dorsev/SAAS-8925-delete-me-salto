@@ -1,0 +1,37 @@
+type dummy.UnhappyMaroonLicha3 {
+  annotations {
+    json ChillyAmaranthAilyn {
+    }
+    serviceid RedWhiteWendie3 {
+    }
+    number FierceAzureBilli {
+    }
+    string SacredRedNorma2 {
+    }
+    boolean ReadyChocolateDebi {
+    }
+  }
+  number YoungAmethystAndeee {
+    _hidden_value = true
+  }
+  hidden_boolean PoliticalBlushChloette2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number AccusedSilverSally2 {
+    _hidden_value = true
+  }
+  serviceid_number IncredibleRosePatty5 {
+    _hidden_value = true
+  }
+  serviceid_number StatutoryGrayHarriot2 {
+    _hidden_value = true
+  }
+  ChillyAmaranthAilyn = "What do you call two barracuda fish?  A Pairacuda!"
+  RedWhiteWendie3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  FierceAzureBilli = 408
+  SacredRedNorma2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ReadyChocolateDebi = true
+  _hidden_value = true
+}

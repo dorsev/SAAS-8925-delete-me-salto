@@ -1,0 +1,42 @@
+type dummy.ExcitedOrangeMarinna {
+  annotations {
+    json BritishBlushCherilyn2 {
+    }
+    dummy.DEFAULT ImaginativeTanSeline7 {
+    }
+    json SillyBlueCathlene2 {
+    }
+    serviceid ElectricalLavenderKerrie2 {
+    }
+    string WorryingSilverRozalie {
+    }
+    json AmazingMoccasinLizbeth {
+    }
+    serviceid CooingAmethystAngelle2 {
+    }
+    dummy.DEFAULT ShockedPinkMelisande2 {
+    }
+  }
+  json StatisticalMagentaLanita2 {
+    _hidden_value = true
+  }
+  boolean RespectableRosePearle {
+    _hidden_value = true
+  }
+  number HardAquaAudi {
+    _hidden_value = true
+  }
+  BritishBlushCherilyn2 = "Dad Im hungry  Hi hungry Im dad"
+  ImaginativeTanSeline7 = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  SillyBlueCathlene2 = "How come the stadium got hot after the game? Because all of the fans left."
+  ElectricalLavenderKerrie2 = "What do you call two barracuda fish?  A Pairacuda!"
+  WorryingSilverRozalie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AmazingMoccasinLizbeth = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CooingAmethystAngelle2 = "Why did the tomato blush? Because it saw the salad dressing."
+  ShockedPinkMelisande2 = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  _hidden_value = true
+}

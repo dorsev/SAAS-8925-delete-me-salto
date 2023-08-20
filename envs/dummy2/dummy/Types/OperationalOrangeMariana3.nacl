@@ -1,0 +1,25 @@
+type dummy.OperationalOrangeMariana3 {
+  annotations {
+    boolean HollowAmberAllsun {
+    }
+    serviceid CuriousLimeKira2 {
+    }
+    json HumanBronzeConstanta4 {
+    }
+    hidden_boolean DoubleCrimsonEthelyn2 {
+    }
+    json DullVioletTrina {
+    }
+  }
+  string ShyTomatoStormi3 {
+    _hidden_value = true
+  }
+  json IllegalJadeKarolina2 {
+    _hidden_value = true
+  }
+  HollowAmberAllsun = false
+  CuriousLimeKira2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HumanBronzeConstanta4 = "I'll tell you what often gets over looked... garden fences."
+  DullVioletTrina = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

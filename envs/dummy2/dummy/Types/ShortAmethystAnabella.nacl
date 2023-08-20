@@ -1,0 +1,52 @@
+type dummy.ShortAmethystAnabella {
+  annotations {
+    hidden_boolean IntelligentMaroonLinnell {
+    }
+    serviceid PeacefulOrangeMargot {
+    }
+    boolean UncertainMagentaLelia {
+    }
+    hidden_boolean PrimitiveOrangeMarga {
+    }
+    serviceid_number MainBlushCinda {
+    }
+    dummy.DEFAULT AfraidAquamarineBendite {
+    }
+    boolean CentralBronzeConny2 {
+    }
+  }
+  json GreyEmeraldFrank {
+    _hidden_value = true
+  }
+  boolean LovelyBlackCassandra {
+    _hidden_value = true
+  }
+  string MiddleCopperDyane {
+    _hidden_value = true
+  }
+  string QuaintTurquoiseThomasine {
+    _hidden_value = true
+  }
+  boolean RegisteredPurpleNady {
+    _hidden_value = true
+  }
+  hidden_boolean ZanyYellowZsazsa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json OddFuchsiaGenni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CollectiveLavenderKathye {
+    _hidden_value = true
+  }
+  PeacefulOrangeMargot = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  UncertainMagentaLelia = false
+  MainBlushCinda = 59
+  AfraidAquamarineBendite = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  CentralBronzeConny2 = false
+  _hidden_value = true
+}

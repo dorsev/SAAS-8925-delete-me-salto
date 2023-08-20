@@ -1,0 +1,80 @@
+type dummy.CheerfulSapphireRhody2 {
+  annotations {
+    serviceid_number BrainyTealSheryl2 {
+    }
+    boolean StupidTomatoSunshine2 {
+    }
+    boolean AliveTealSherline {
+    }
+    boolean GothicSapphireRamonda {
+    }
+    number CentralBronzeConnie {
+    }
+    number CognitiveSalmonQuerida2 {
+    }
+    json EasternCrimsonEricha {
+    }
+  }
+  dummy.OrdinaryCopperEdi CharmingBeigeCallie4 {
+    SillyYellowWini = 594
+    CruelAquamarineBessy = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    TameYellowYalonda = 380
+    RareWhiteWanda = 303
+    SpareMaroonLillis = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    StupidGreenIzabel = 358
+    MaximumGreenIlyssa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    TerritorialSalmonPriscella = "What did one nut say as he chased another nut?  I'm a cashew!"
+    VariedRedNoreen = 658
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 816
+    IntenseLavenderKatuscha = 625
+    SubtleMoccasinLucie = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  number SuperiorMaroonLiane {
+    _hidden_value = true
+  }
+  number BrokenIndigoJocelyn {
+    _hidden_value = true
+  }
+  string DryCyanEvaleen {
+    _hidden_value = true
+  }
+  json MusicalIndigoJoanne2 {
+    _hidden_value = true
+  }
+  hidden_boolean WellFuchsiaGisela2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ContemporaryFuchsiaGeorgiana {
+    _hidden_value = true
+  }
+  hidden_boolean SilentGrayHarlene {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CommunistGoldGiselle {
+    _hidden_value = true
+  }
+  number RoughAquaAustine2 {
+    _hidden_value = true
+  }
+  hidden_boolean GoldenGrayHaley2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  BrainyTealSheryl2 = 871
+  StupidTomatoSunshine2 = false
+  AliveTealSherline = true
+  GothicSapphireRamonda = false
+  CentralBronzeConnie = 689
+  CognitiveSalmonQuerida2 = 353
+  EasternCrimsonEricha = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

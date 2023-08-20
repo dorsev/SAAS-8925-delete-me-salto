@@ -1,0 +1,58 @@
+type dummy.FriendlyBlackCarmel3 {
+  annotations {
+    boolean PunyAmaranthAeriell3 {
+    }
+    string MightyWhiteVerene3 {
+    }
+    boolean HonChocolateDasya3 {
+    }
+    string VictorianJadeKalindi2 {
+    }
+    json MightyTanShandeigh3 {
+    }
+    serviceid_number ThinCyanEvania3 {
+    }
+  }
+  dummy.DEFAULT ProfessionalChocolateDayna7 {
+    _hidden_value = true
+  }
+  string NaturalBrownCrysta3 {
+    _hidden_value = true
+  }
+  boolean PartialOliveLyndsay {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EasyTealSisely4 {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LivingGrayHenrietta2 {
+    _hidden_value = true
+  }
+  number LiveIndigoJodie2 {
+    _hidden_value = true
+  }
+  number FatAmaranthAbigael4 {
+    _hidden_value = true
+  }
+  json UglyTurquoiseTiphani3 {
+    _hidden_value = true
+  }
+  serviceid_number BumpyAmaranthAiley4 {
+    _hidden_value = true
+  }
+  hidden_boolean ConcernedTealSibelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AutomaticLavenderKiah2 {
+    _hidden_value = true
+  }
+  PunyAmaranthAeriell3 = true
+  MightyWhiteVerene3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HonChocolateDasya3 = false
+  VictorianJadeKalindi2 = "What creature is smarter than a talking parrot? A spelling bee."
+  MightyTanShandeigh3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ThinCyanEvania3 = 948
+  _hidden_value = true
+}

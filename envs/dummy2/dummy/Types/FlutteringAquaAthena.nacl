@@ -1,0 +1,97 @@
+type dummy.FlutteringAquaAthena {
+  annotations {
+    hidden_boolean NeighbouringPurpleNananne2 {
+    }
+    json GoldenGrayHalette {
+    }
+    hidden_boolean TastyAquaAshly {
+    }
+    boolean FarBlushChristie2 {
+    }
+  }
+  dummy.OrdinaryCopperEdi UsualCoralElmira {
+    SillyYellowWini = 937
+    CruelAquamarineBessy = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    TameYellowYalonda = 60
+    RareWhiteWanda = 989
+    SpareMaroonLillis = "I'll tell you what often gets over looked... garden fences."
+    StupidGreenIzabel = 767
+    MaximumGreenIlyssa = "Dad Im hungry  Hi hungry Im dad"
+    TerritorialSalmonPriscella = "Slept like a log last night  woke up in the fireplace."
+    VariedRedNoreen = 266
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 758
+    IntenseLavenderKatuscha = 744
+    SubtleMoccasinLucie = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  serviceid_number IdeologicalOrangeMargaretha {
+    _hidden_value = true
+  }
+  json MaturePeachMatty {
+    _hidden_value = true
+  }
+  json CompatibleSapphireRenell {
+    _hidden_value = true
+  }
+  hidden_boolean ExperiencedMagentaLaure {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string FatIvoryJoelle {
+    _hidden_value = true
+  }
+  serviceid_number ElegantMoccasinLucila {
+    _hidden_value = true
+  }
+  json ColdChocolateDebee {
+    _hidden_value = true
+  }
+  number UnevenAquamarineBee {
+    _hidden_value = true
+  }
+  serviceid_number RearPurpleMuriel {
+    _hidden_value = true
+  }
+  string EnthusiasticPinkMerridie {
+    _hidden_value = true
+  }
+  serviceid_number HistoricLavenderKellsie {
+    _hidden_value = true
+  }
+  json LimitedCoralElla {
+    _hidden_value = true
+  }
+  json DistinctiveLimeKristel {
+    _hidden_value = true
+  }
+  string SeparateCopperDorotea {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BrightCoralElyn {
+    _hidden_value = true
+  }
+  serviceid_number MagnificentMagentaLeeanne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AloneCyanFaina {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFrancoise2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number MaturePeachMattie {
+    _hidden_value = true
+  }
+  number CreativeJadeKania {
+    _hidden_value = true
+  }
+  GoldenGrayHalette = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FarBlushChristie2 = false
+  _hidden_value = true
+}

@@ -1,0 +1,75 @@
+type dummy.DelicateOliveMable {
+  annotations {
+    hidden_boolean HungryMaroonLisa {
+    }
+    json YellowYellowZora {
+    }
+    dummy.DEFAULT ContinuousIvoryJsandye2 {
+    }
+    serviceid_number VictorianJadeKalindi {
+    }
+    number SimilarBronzeConstance {
+    }
+    string WonderfulYellowZola2 {
+    }
+  }
+  string CreepyAquamarineBess {
+    _hidden_value = true
+  }
+  string WeeSapphireReta {
+    _hidden_value = true
+  }
+  hidden_boolean TenderYellowYetty {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT SupposedCyanFarrand {
+    _hidden_value = true
+  }
+  boolean SubtleMoccasinLuciana2 {
+    _hidden_value = true
+  }
+  json DoubtfulTealSioux {
+    _hidden_value = true
+  }
+  serviceid LevelJadeKameko2 {
+    _hidden_value = true
+  }
+  json EthicalScarletRobenia {
+    _hidden_value = true
+  }
+  json ParticularBlushClaudelle {
+    _hidden_value = true
+  }
+  hidden_boolean StaleAquaArline {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FilthyAmberAlexine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CrazyMoccasinLorrayne {
+    _hidden_value = true
+  }
+  number ContinentalOliveMagdalena {
+    _hidden_value = true
+  }
+  serviceid_number AlertTomatoSydney2 {
+    _hidden_value = true
+  }
+  boolean InterimOrangeMalory {
+    _hidden_value = true
+  }
+  YellowYellowZora = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ContinuousIvoryJsandye2 = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  VictorianJadeKalindi = 403
+  SimilarBronzeConstance = 441
+  WonderfulYellowZola2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

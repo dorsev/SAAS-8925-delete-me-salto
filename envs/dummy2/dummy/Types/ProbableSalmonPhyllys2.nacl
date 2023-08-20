@@ -1,0 +1,54 @@
+type dummy.ProbableSalmonPhyllys2 {
+  annotations {
+    json DualSapphireRhianna {
+    }
+    string CleanTomatoTammara {
+    }
+    serviceid_number ProvincialPeachMarita2 {
+    }
+    serviceid_number OutstandingIndigoJenine {
+    }
+    serviceid HurtAzureBlythe3 {
+    }
+    serviceid ComparativePlumModesta {
+    }
+  }
+  boolean EncouragingLimeLacey2 {
+    _hidden_value = true
+  }
+  serviceid JuicyApricotAriadne {
+    _hidden_value = true
+  }
+  number GloriousScarletRose {
+    _hidden_value = true
+  }
+  json AdditionalCopperDotti2 {
+    _hidden_value = true
+  }
+  boolean ScaryBeigeBrett2 {
+    _hidden_value = true
+  }
+  hidden_boolean ControlledTanSheilah {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json TerritorialSalmonPrisca {
+    _hidden_value = true
+  }
+  hidden_boolean FlakyAmberAlfreda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string AncientEmeraldFlor2 {
+    _hidden_value = true
+  }
+  DualSapphireRhianna = "Why did the tomato blush? Because it saw the salad dressing."
+  CleanTomatoTammara = "Why was it called the dark ages? Because of all the knights. "
+  ProvincialPeachMarita2 = 573
+  OutstandingIndigoJenine = 894
+  HurtAzureBlythe3 = "Why did the kid cross the playground? To get to the other slide."
+  ComparativePlumModesta = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

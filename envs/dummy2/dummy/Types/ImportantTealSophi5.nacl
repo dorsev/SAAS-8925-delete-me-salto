@@ -1,0 +1,25 @@
+type dummy.ImportantTealSophi5 {
+  annotations {
+    number AloneCyanFaina2 {
+    }
+    hidden_boolean GivenHarlequinJaneva2 {
+    }
+    json SystematicOrangeMarabel {
+    }
+    serviceid TenderYellowYevette3 {
+    }
+    serviceid FairCoffeeDinny3 {
+    }
+    string NetGoldGleda5 {
+    }
+  }
+  boolean PositiveCoffeeDominica3 {
+    _hidden_value = true
+  }
+  AloneCyanFaina2 = 505
+  SystematicOrangeMarabel = "Why was it called the dark ages? Because of all the knights. "
+  TenderYellowYevette3 = "A steak pun is a rare medium well done."
+  FairCoffeeDinny3 = "What creature is smarter than a talking parrot? A spelling bee."
+  NetGoldGleda5 = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

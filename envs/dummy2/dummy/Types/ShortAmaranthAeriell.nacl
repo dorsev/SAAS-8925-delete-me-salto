@@ -1,0 +1,42 @@
+type dummy.ShortAmaranthAeriell {
+  annotations {
+    dummy.DEFAULT DangerousCrimsonEsta {
+    }
+    json FarBlushChristin {
+    }
+    number BumpyAmaranthAilina {
+    }
+    json SkilledMoccasinLuci2 {
+    }
+    json CoolAmaranthAindrea {
+    }
+    hidden_boolean HeavyAmethystAndriette {
+    }
+  }
+  serviceid_number ProfoundPinkMerlina2 {
+    _hidden_value = true
+  }
+  serviceid CleverTealSibel {
+    _hidden_value = true
+  }
+  number TightIvoryJoelynn2 {
+    _hidden_value = true
+  }
+  string LooseAquaAugustina3 {
+    _hidden_value = true
+  }
+  serviceid_number SharpFuchsiaGeorgine {
+    _hidden_value = true
+  }
+  number CognitiveSalmonQuentin2 {
+    _hidden_value = true
+  }
+  DangerousCrimsonEsta = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  FarBlushChristin = "Im only familiar with 25 letters in the English language. I dont know why."
+  BumpyAmaranthAilina = 370
+  SkilledMoccasinLuci2 = "To be Frank, I'd have to change my name."
+  CoolAmaranthAindrea = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

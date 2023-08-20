@@ -1,0 +1,43 @@
+type dummy.SweetAquaAshlan {
+  annotations {
+    number WelcomeIvoryJosie {
+    }
+    serviceid HelpfulBlackCaroljean {
+    }
+    serviceid_number ResonantApricotAnsley {
+    }
+    number CheapCopperEdita2 {
+    }
+  }
+  number SocialistHarlequinJacquelynn {
+    _hidden_value = true
+  }
+  string AddedPinkMelinde {
+    _hidden_value = true
+  }
+  serviceid_number NorthernCoralEleanora {
+    _hidden_value = true
+  }
+  serviceid_number UnknownFuchsiaGilbertina2 {
+    _hidden_value = true
+  }
+  number CorporateEmeraldGarnet {
+    _hidden_value = true
+  }
+  number ChubbyAmberAlisa {
+    _hidden_value = true
+  }
+  number EligiblePurpleNeile {
+    _hidden_value = true
+  }
+  hidden_boolean AcceptedTanShae2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  WelcomeIvoryJosie = 979
+  HelpfulBlackCaroljean = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ResonantApricotAnsley = 863
+  CheapCopperEdita2 = 744
+  _hidden_value = true
+}

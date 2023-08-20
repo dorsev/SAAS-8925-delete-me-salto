@@ -1,0 +1,20 @@
+type dummy.SpiritualLavenderKatrinka2 {
+  annotations {
+    serviceid_number DelightfulSilverRowe {
+    }
+    boolean CanadianPlumMindy {
+    }
+    string GeographicalPeachMarley {
+    }
+    serviceid SpotlessTurquoiseTildie {
+    }
+  }
+  string ArtisticPeachMathilda {
+    _hidden_value = true
+  }
+  DelightfulSilverRowe = 241
+  CanadianPlumMindy = false
+  GeographicalPeachMarley = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SpotlessTurquoiseTildie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

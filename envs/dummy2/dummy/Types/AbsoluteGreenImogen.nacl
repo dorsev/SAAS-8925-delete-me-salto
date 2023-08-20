@@ -1,0 +1,96 @@
+type dummy.AbsoluteGreenImogen {
+  annotations {
+    serviceid_number ColorfulTomatoTandi2 {
+    }
+    dummy.AnxiousHarlequinJanna BlackBlushClarisse4 {
+    }
+    hidden_boolean CombativeAquamarineBerta4 {
+    }
+    hidden_boolean AestheticSapphireReba3 {
+    }
+    boolean RespectableRosePearl2 {
+    }
+    json BrightVioletTova5 {
+    }
+  }
+  hidden_boolean PastCoffeeDianna5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid HissingApricotAnnmarie3 {
+    _hidden_value = true
+  }
+  string FortunateRoseOllie4 {
+    _hidden_value = true
+  }
+  number SubjectiveSapphireRiannon2 {
+    _hidden_value = true
+  }
+  string BrokenAmaranthAile3 {
+    _hidden_value = true
+  }
+  serviceid_number ComplicatedIndigoJoanne {
+    _hidden_value = true
+  }
+  json FavouriteHarlequinJacqueline {
+    _hidden_value = true
+  }
+  json TallAmaranthAggie {
+    _hidden_value = true
+  }
+  string SmallBlueCharlean2 {
+    _hidden_value = true
+  }
+  string PsychologicalIvoryJoice2 {
+    _hidden_value = true
+  }
+  serviceid_number EldestTanSharlene3 {
+    _hidden_value = true
+  }
+  number ModernTealStar2 {
+    _hidden_value = true
+  }
+  "List<string>" AustralianJadeKat2 {
+    _hidden_value = true
+  }
+  number JapaneseCyanFidela3 {
+    _hidden_value = true
+  }
+  serviceid HorribleVioletValene2 {
+    _hidden_value = true
+  }
+  "List<boolean>" ClosedMagentaLeila4 {
+    _hidden_value = true
+  }
+  "List<boolean>" BadTurquoiseTobye {
+    _hidden_value = true
+  }
+  dummy.ExactLimeKordula ElderlyEmeraldFlorencia {
+    _hidden_value = true
+  }
+  hidden_boolean MoralCyanFenelia2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string HollowAmberAllissa2 {
+    _hidden_value = true
+  }
+  string CarefulCyanFern2 {
+    _hidden_value = true
+  }
+  hidden_boolean CrookedAmberAlison3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT LeftCoffeeDennie {
+    _hidden_value = true
+  }
+  ColorfulTomatoTandi2 = 100
+  BlackBlushClarisse4 = "Why is Peter Pan always flying? Because he Neverlands."
+  RespectableRosePearl2 = false
+  BrightVioletTova5 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}
